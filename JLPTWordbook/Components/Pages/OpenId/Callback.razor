@@ -32,11 +32,17 @@
             return;
         }
 
+        var baseUri = Nav.BaseUri;
+        if (baseUri.StartsWith("http://"))
+        {
+            baseUri = baseUri.Replace("http://", "https://");
+        }
+
         var formData = new Dictionary<string, string>()
         {
             ["grant_type"] = "authorization_code",
             ["code"] = Code,
-            ["redirect_uri"] = Nav.BaseUri + "openid/callback",
+            ["redirect_uri"] = baseUri + "openid/callback",
             ["client_id"] = Options.Value.ClientId,
             ["client_secret"] = Options.Value.ClientSecret
         };
