@@ -6,6 +6,11 @@
 <h1 class="text-danger">Error.</h1>
 <h2 class="text-danger">An error occurred while processing your request.</h2>
 
+@if (!string.IsNullOrEmpty(Message))
+{
+    <p class="text-danger">@Message</p>
+}
+
 @if (ShowRequestId)
 {
     <p>
@@ -27,6 +32,10 @@
 @code{
     [CascadingParameter]
     private HttpContext? HttpContext { get; set; }
+
+    [Parameter]
+    [SupplyParameterFromQuery(Name = "message")]
+    public string? Message { get; set; }
 
     private string? RequestId { get; set; }
     private bool ShowRequestId => !string.IsNullOrEmpty(RequestId);

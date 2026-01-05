@@ -19,14 +19,16 @@
     {
         if (string.IsNullOrEmpty(Code))
         {
-            Nav.NavigateTo("/error");
+            var errorContent = "Invalid access.";
+            Nav.NavigateTo($"/error?message={Uri.EscapeDataString(errorContent)}");
             return;
         }
 
         var httpContext = HttpContextAccessor.HttpContext;
         if (httpContext == null)
         {
-            Nav.NavigateTo("/error");
+            var errorContent = "Invalid access.";
+            Nav.NavigateTo($"/error?message={Uri.EscapeDataString(errorContent)}");
             return;
         }
 
@@ -43,22 +45,23 @@
         if (response.IsSuccessStatusCode == false)
         {
             var errorContent = await response.Content.ReadAsStringAsync();
-            var statusCode = response.StatusCode;
-            Nav.NavigateTo("/error");
+            Nav.NavigateTo($"/error?message={Uri.EscapeDataString(errorContent)}");
             return;
         }
 
         var jsonNode = await JsonNode.ParseAsync(await response.Content.ReadAsStreamAsync());
         if (jsonNode == null)
         {
-            Nav.NavigateTo("/error");
+            var errorContent = "Reading from server error.";
+            Nav.NavigateTo($"/error?message={Uri.EscapeDataString(errorContent)}");
             return;
         }
 
         var idToken = jsonNode["id_token"];
         if (idToken is not JsonValue idTokenValue || idTokenValue.GetValueKind() != JsonValueKind.String)
         {
-            Nav.NavigateTo("/error");
+            var errorContent = "JSON format error.";
+            Nav.NavigateTo($"/error?message={Uri.EscapeDataString(errorContent)}");
             return;
         }
 
