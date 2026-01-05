@@ -1,0 +1,74 @@
+﻿@page "/openid/callback"
+@using JLPTWordbook.Services
+@using Microsoft.Extensions.Options
+@using System.Text.Json.Nodes
+@using System.Text.Json
+@using System.Net
+@layout MainLayout
+@inject NavigationManager Nav
+@inject IOptions<OAuth2Options> Options
+@inject HttpClient Http
+@inject IHttpContextAccessor HttpContextAccessor
+
+@code {
+    [Parameter]
+    [SupplyParameterFromQuery(Name = "code")]
+    public string Code { get; set; } = null!;
+
+    protected override async Task OnParametersSetAsync()
+    {
+        if (string.IsNullOrEmpty(Code))
+        {
+            Nav.NavigateTo("/error");
+            return;
+        }
+
+        var httpContext = HttpContextAccessor.HttpContext;
+        if (httpContext == null)
+        {
+            Nav.NavigateTo("/error");
+            return;
+        }
+
+        var formData = new Dictionary<string, string>()
+        {
+            ["grant_type"] = "authorization_code",
+            ["code"] = Code,
+            ["redirect_uri"] = Nav.BaseUri + "openid/callback",
+            ["client_id"] = Options.Value.ClientId,
+            ["client_secret"] = Options.Value.ClientSecret
+        };
+        using var content = new FormUrlEncodedContent(formData);
+        using var response = await Http.PostAsync("https://accounts.ayla.r-e.kr/api/v1/token", content);
+        if (response.IsSuccessStatusCode == false)
+        {
+            var errorContent = await response.Content.ReadAsStringAsync();
+            var statusCode = response.StatusCode;
+            Nav.NavigateTo("/error");
+            return;
+        }
+
+        var jsonNode = await JsonNode.ParseAsync(await response.Content.ReadAsStreamAsync());
+        if (jsonNode == null)
+        {
+            Nav.NavigateTo("/error");
+            return;
+        }
+
+        var idToken = jsonNode["id_token"];
+        if (idToken is not JsonValue idTokenValue || idTokenValue.GetValueKind() != JsonValueKind.String)
+        {
+            Nav.NavigateTo("/error");
+            return;
+        }
+
+        httpContext.Response.Cookies.Append("id_token", idTokenValue.GetValue<string>(), new CookieOptions
+        {
+            HttpOnly = true,
+            Secure = true,
+            SameSite = SameSiteMode.Strict
+        });
+
+        Nav.NavigateTo("/", forceLoad: true);
+    }
+}
