@@ -1,0 +1,44 @@
+﻿@page "/"
+@using JLPTWordbook.Shared
+@inject HttpClient Http
+@inject NavigationManager Nav
+
+@if (m_Book != null)
+{
+    <button onclick="@Refresh">R</button>
+    <div class="component-view">
+        <ruby>
+            @foreach (var component in m_Book.Words[m_Current].Components)
+            {
+                @component.Text<rt>@component.Reading</rt>
+            }
+        </ruby>
+    </div>
+}
+
+@code {
+    private Wordbook? m_Book;
+    private int m_Current;
+
+    protected override async Task OnInitializedAsync()
+    {
+        m_Book = await Wordbook.ParseAsync(Http, Nav.BaseUri + "words/n5.json");
+        m_Current = Random.Shared.Next() % m_Book.Words.Count;
+    }
+
+    private void Refresh()
+    {
+        if (m_Book != null)
+        {
+            while (true)
+            {
+                var next = Random.Shared.Next() % m_Book.Words.Count;
+                if (m_Current != next)
+                {
+                    m_Current = next;
+                    break;
+                }
+            }
+        }
+    }
+}
