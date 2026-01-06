@@ -1,7 +1,7 @@
 ﻿@page "/"
+@using JLPTWordbook.Services
 @using JLPTWordbook.Shared
-@inject HttpClient Http
-@inject NavigationManager Nav
+@inject Worksheet Sheet;
 
 @if (m_Book != null)
 {
@@ -22,7 +22,7 @@
 
     protected override async Task OnInitializedAsync()
     {
-        m_Book = await Wordbook.ParseAsync(Http, Nav.BaseUri + "words/n5.json");
+        m_Book = Sheet[Worksheet.Class.N5];
         m_Current = Random.Shared.Next() % m_Book.Words.Count;
     }
 

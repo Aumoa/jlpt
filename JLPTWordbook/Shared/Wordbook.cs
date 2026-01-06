@@ -8,30 +8,8 @@ public class Wordbook(Word[] words)
 {
     public readonly IReadOnlyList<Word> Words = Array.AsReadOnly(words);
 
-    public static async Task<Wordbook> ParseAsync(HttpClient client, string url, CancellationToken cancellationToken = default)
+    public static Wordbook Parse(JsonArray jArray, ResourceManager localizationResource)
     {
-        var uri = new Uri(url);
-        var query = uri.Query;
-        var fileName = Path.GetFileNameWithoutExtension(query);
-        var response = await client.GetAsync(url, cancellationToken);
-        if (!response.IsSuccessStatusCode)
-        {
-            throw new FileNotFoundException(query);
-        }
-
-        var localizationResourceManager = new ResourceManager($"JLPTWordbook.Localizational.{fileName.ToUpper()}", typeof(Wordbook).Assembly);
-        if (localizationResourceManager == null)
-        {
-            throw new FileNotFoundException(query);
-        }
-
-        var textContent = await response.Content.ReadAsStringAsync(cancellationToken);
-        var jsonNode = JsonNode.Parse(textContent);
-        if (jsonNode is not JsonArray jArray)
-        {
-            throw new FormatException();
-        }
-
         List<WordComponent> wordComponentList = [];
         List<Word> wordList = [];
         int wordIndex = 0;
@@ -63,7 +41,7 @@ public class Wordbook(Word[] words)
             }
 
             string resourceName = $"_{wordIndex++}";
-            wordList.Add(new Word([.. wordComponentList], () => localizationResourceManager.GetString(resourceName)));
+            wordList.Add(new Word([.. wordComponentList], () => localizationResource.GetString(resourceName)));
             wordComponentList.Clear();
         }
 
