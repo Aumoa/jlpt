@@ -1,3 +1,16 @@
-﻿.component-view {
+﻿.class-name {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.component-view {
     font-size: 6rem;
+}
+
+    .component-view rt {
+        font-size: 2.5rem;
+    }
+
+.localizer-view {
+    font-size: 3rem;
 }

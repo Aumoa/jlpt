@@ -5,6 +5,7 @@
 
 @if (m_Book != null)
 {
+    <p class="class-name">N5</p>
     <button onclick="@Refresh">R</button>
     <div class="component-view">
         <ruby>
@@ -14,6 +15,7 @@
             }
         </ruby>
     </div>
+    <p class="localizer-view">@m_Book.Words[m_Current].Localizer()</p>
 }
 
 @code {

@@ -121,12 +121,1992 @@
     <value>만나다</value>
   </data>
   <data name="_1" xml:space="preserve">
-    <value>파랗다</value>
+    <value>푸른</value>
   </data>
   <data name="_2" xml:space="preserve">
-    <value>빨갛다</value>
+    <value>빨간</value>
   </data>
   <data name="_3" xml:space="preserve">
-    <value>밝다</value>
+    <value>선명한</value>
+  </data>
+  <data name="_4" xml:space="preserve">
+    <value>가을</value>
+  </data>
+  <data name="_5" xml:space="preserve">
+    <value>열리다</value>
+  </data>
+  <data name="_6" xml:space="preserve">
+    <value>열기</value>
+  </data>
+  <data name="_7" xml:space="preserve">
+    <value>주다</value>
+  </data>
+  <data name="_8" xml:space="preserve">
+    <value>아침</value>
+  </data>
+  <data name="_9" xml:space="preserve">
+    <value>아침밥</value>
+  </data>
+  <data name="_10" xml:space="preserve">
+    <value>모레</value>
+  </data>
+  <data name="_11" xml:space="preserve">
+    <value>다리</value>
+  </data>
+  <data name="_12" xml:space="preserve">
+    <value>내일</value>
+  </data>
+  <data name="_13" xml:space="preserve">
+    <value>저기</value>
+  </data>
+  <data name="_14" xml:space="preserve">
+    <value>놀다</value>
+  </data>
+  <data name="_15" xml:space="preserve">
+    <value>따뜻한</value>
+  </data>
+  <data name="_16" xml:space="preserve">
+    <value>머리</value>
+  </data>
+  <data name="_17" xml:space="preserve">
+    <value>새로운</value>
+  </data>
+  <data name="_18" xml:space="preserve">
+    <value>저쪽</value>
+  </data>
+  <data name="_19" xml:space="preserve">
+    <value>덥다</value>
+  </data>
+  <data name="_20" xml:space="preserve">
+    <value>뜨거다</value>
+  </data>
+  <data name="_21" xml:space="preserve">
+    <value>두꺼다</value>
+  </data>
+  <data name="_22" xml:space="preserve">
+    <value>저기</value>
+  </data>
+  <data name="_23" xml:space="preserve">
+    <value>나중에</value>
+  </data>
+  <data name="_24" xml:space="preserve">
+    <value>당신</value>
+  </data>
+  <data name="_25" xml:space="preserve">
+    <value>형</value>
+  </data>
+  <data name="_26" xml:space="preserve">
+    <value>언니</value>
+  </data>
+  <data name="_27" xml:space="preserve">
+    <value>그</value>
+  </data>
+  <data name="_28" xml:space="preserve">
+    <value>음 ...</value>
+  </data>
+  <data name="_29" xml:space="preserve">
+    <value>아파트</value>
+  </data>
+  <data name="_30" xml:space="preserve">
+    <value>목욕하다</value>
+  </data>
+  <data name="_31" xml:space="preserve">
+    <value>위험하다</value>
+  </data>
+  <data name="_32" xml:space="preserve">
+    <value>달콤한</value>
+  </data>
+  <data name="_33" xml:space="preserve">
+    <value>별로</value>
+  </data>
+  <data name="_34" xml:space="preserve">
+    <value>비</value>
+  </data>
+  <data name="_35" xml:space="preserve">
+    <value>사탕</value>
+  </data>
+  <data name="_36" xml:space="preserve">
+    <value>씻다</value>
+  </data>
+  <data name="_37" xml:space="preserve">
+    <value>있다</value>
+  </data>
+  <data name="_38" xml:space="preserve">
+    <value>걷다</value>
+  </data>
+  <data name="_39" xml:space="preserve">
+    <value>그것</value>
+  </data>
+  <data name="_40" xml:space="preserve">
+    <value>좋은</value>
+  </data>
+  <data name="_41" xml:space="preserve">
+    <value>아니오</value>
+  </data>
+  <data name="_42" xml:space="preserve">
+    <value>말</value>
+  </data>
+  <data name="_43" xml:space="preserve">
+    <value>집</value>
+  </data>
+  <data name="_44" xml:space="preserve">
+    <value>어떻게</value>
+  </data>
+  <data name="_45" xml:space="preserve">
+    <value>가다</value>
+  </data>
+  <data name="_46" xml:space="preserve">
+    <value>몇</value>
+  </data>
+  <data name="_47" xml:space="preserve">
+    <value>얼마</value>
+  </data>
+  <data name="_48" xml:space="preserve">
+    <value>연못</value>
+  </data>
+  <data name="_49" xml:space="preserve">
+    <value>의사</value>
+  </data>
+  <data name="_50" xml:space="preserve">
+    <value>의자</value>
+  </data>
+  <data name="_51" xml:space="preserve">
+    <value>바쁘다</value>
+  </data>
+  <data name="_52" xml:space="preserve">
+    <value>아프다</value>
+  </data>
+  <data name="_53" xml:space="preserve">
+    <value>일</value>
+  </data>
+  <data name="_54" xml:space="preserve">
+    <value>일일</value>
+  </data>
+  <data name="_55" xml:space="preserve">
+    <value>가장</value>
+  </data>
+  <data name="_56" xml:space="preserve">
+    <value>언제</value>
+  </data>
+  <data name="_57" xml:space="preserve">
+    <value>5 일</value>
+  </data>
+  <data name="_58" xml:space="preserve">
+    <value>함께</value>
+  </data>
+  <data name="_59" xml:space="preserve">
+    <value>다섯</value>
+  </data>
+  <data name="_60" xml:space="preserve">
+    <value>항상</value>
+  </data>
+  <data name="_61" xml:space="preserve">
+    <value>개</value>
+  </data>
+  <data name="_62" xml:space="preserve">
+    <value>지금</value>
+  </data>
+  <data name="_63" xml:space="preserve">
+    <value>의미</value>
+  </data>
+  <data name="_64" xml:space="preserve">
+    <value>여동생</value>
+  </data>
+  <data name="_65" xml:space="preserve">
+    <value>싫음</value>
+  </data>
+  <data name="_66" xml:space="preserve">
+    <value>입구</value>
+  </data>
+  <data name="_67" xml:space="preserve">
+    <value>있다</value>
+  </data>
+  <data name="_68" xml:space="preserve">
+    <value>필요하다</value>
+  </data>
+  <data name="_69" xml:space="preserve">
+    <value>넣다</value>
+  </data>
+  <data name="_70" xml:space="preserve">
+    <value>색</value>
+  </data>
+  <data name="_71" xml:space="preserve">
+    <value>여러가지</value>
+  </data>
+  <data name="_72" xml:space="preserve">
+    <value>위</value>
+  </data>
+  <data name="_73" xml:space="preserve">
+    <value>뒤에</value>
+  </data>
+  <data name="_74" xml:space="preserve">
+    <value>얇다</value>
+  </data>
+  <data name="_75" xml:space="preserve">
+    <value>노래</value>
+  </data>
+  <data name="_76" xml:space="preserve">
+    <value>노래하다</value>
+  </data>
+  <data name="_77" xml:space="preserve">
+    <value> 태어나다</value>
+  </data>
+  <data name="_78" xml:space="preserve">
+    <value>바다</value>
+  </data>
+  <data name="_79" xml:space="preserve">
+    <value>팔다</value>
+  </data>
+  <data name="_80" xml:space="preserve">
+    <value>시끄럽다</value>
+  </data>
+  <data name="_81" xml:space="preserve">
+    <value>겉옷</value>
+  </data>
+  <data name="_82" xml:space="preserve">
+    <value>그림</value>
+  </data>
+  <data name="_83" xml:space="preserve">
+    <value>영화</value>
+  </data>
+  <data name="_84" xml:space="preserve">
+    <value>영화관</value>
+  </data>
+  <data name="_85" xml:space="preserve">
+    <value>영어</value>
+  </data>
+  <data name="_86" xml:space="preserve">
+    <value>예</value>
+  </data>
+  <data name="_87" xml:space="preserve">
+    <value>역</value>
+  </data>
+  <data name="_88" xml:space="preserve">
+    <value>엘리베이터</value>
+  </data>
+  <data name="_89" xml:space="preserve">
+    <value>연필</value>
+  </data>
+  <data name="_90" xml:space="preserve">
+    <value>맛있는</value>
+  </data>
+  <data name="_91" xml:space="preserve">
+    <value>많은</value>
+  </data>
+  <data name="_92" xml:space="preserve">
+    <value>큰</value>
+  </data>
+  <data name="_93" xml:space="preserve">
+    <value>큰</value>
+  </data>
+  <data name="_94" xml:space="preserve">
+    <value>대세</value>
+  </data>
+  <data name="_95" xml:space="preserve">
+    <value>엄마</value>
+  </data>
+  <data name="_96" xml:space="preserve">
+    <value>과자</value>
+  </data>
+  <data name="_97" xml:space="preserve">
+    <value>돈</value>
+  </data>
+  <data name="_98" xml:space="preserve">
+    <value>일어나다</value>
+  </data>
+  <data name="_99" xml:space="preserve">
+    <value>두다</value>
+  </data>
+  <data name="_100" xml:space="preserve">
+    <value>부인</value>
+  </data>
+  <data name="_101" xml:space="preserve">
+    <value>술</value>
+  </data>
+  <data name="_102" xml:space="preserve">
+    <value>접시</value>
+  </data>
+  <data name="_103" xml:space="preserve">
+    <value>할아버지</value>
+  </data>
+  <data name="_104" xml:space="preserve">
+    <value>가르치다</value>
+  </data>
+  <data name="_105" xml:space="preserve">
+    <value>아저씨</value>
+  </data>
+  <data name="_106" xml:space="preserve">
+    <value>밀다</value>
+  </data>
+  <data name="_107" xml:space="preserve">
+    <value>늦다</value>
+  </data>
+  <data name="_108" xml:space="preserve">
+    <value>차</value>
+  </data>
+  <data name="_109" xml:space="preserve">
+    <value>화장실</value>
+  </data>
+  <data name="_110" xml:space="preserve">
+    <value>아버지</value>
+  </data>
+  <data name="_111" xml:space="preserve">
+    <value>동생</value>
+  </data>
+  <data name="_112" xml:space="preserve">
+    <value>남자</value>
+  </data>
+  <data name="_113" xml:space="preserve">
+    <value>소년</value>
+  </data>
+  <data name="_114" xml:space="preserve">
+    <value>그저께</value>
+  </data>
+  <data name="_115" xml:space="preserve">
+    <value>지난해</value>
+  </data>
+  <data name="_116" xml:space="preserve">
+    <value>성인</value>
+  </data>
+  <data name="_117" xml:space="preserve">
+    <value>배</value>
+  </data>
+  <data name="_118" xml:space="preserve">
+    <value>같은</value>
+  </data>
+  <data name="_119" xml:space="preserve">
+    <value>형</value>
+  </data>
+  <data name="_120" xml:space="preserve">
+    <value>언니</value>
+  </data>
+  <data name="_121" xml:space="preserve">
+    <value>할머니</value>
+  </data>
+  <data name="_122" xml:space="preserve">
+    <value>아주머니</value>
+  </data>
+  <data name="_123" xml:space="preserve">
+    <value>목욕</value>
+  </data>
+  <data name="_124" xml:space="preserve">
+    <value>도시락</value>
+  </data>
+  <data name="_125" xml:space="preserve">
+    <value>기억하다</value>
+  </data>
+  <data name="_126" xml:space="preserve">
+    <value>경찰</value>
+  </data>
+  <data name="_127" xml:space="preserve">
+    <value>무거운</value>
+  </data>
+  <data name="_128" xml:space="preserve">
+    <value>재미</value>
+  </data>
+  <data name="_129" xml:space="preserve">
+    <value>수영</value>
+  </data>
+  <data name="_130" xml:space="preserve">
+    <value>내리다</value>
+  </data>
+  <data name="_131" xml:space="preserve">
+    <value>끝나다</value>
+  </data>
+  <data name="_132" xml:space="preserve">
+    <value>음악</value>
+  </data>
+  <data name="_133" xml:space="preserve">
+    <value>여자</value>
+  </data>
+  <data name="_134" xml:space="preserve">
+    <value>소녀</value>
+  </data>
+  <data name="_135" xml:space="preserve">
+    <value>외국</value>
+  </data>
+  <data name="_136" xml:space="preserve">
+    <value>외국인</value>
+  </data>
+  <data name="_137" xml:space="preserve">
+    <value>회사</value>
+  </data>
+  <data name="_138" xml:space="preserve">
+    <value>계단</value>
+  </data>
+  <data name="_139" xml:space="preserve">
+    <value>쇼핑</value>
+  </data>
+  <data name="_140" xml:space="preserve">
+    <value>구매</value>
+  </data>
+  <data name="_141" xml:space="preserve">
+    <value>반환하다</value>
+  </data>
+  <data name="_142" xml:space="preserve">
+    <value>돌아</value>
+  </data>
+  <data name="_143" xml:space="preserve">
+    <value>걸리다</value>
+  </data>
+  <data name="_144" xml:space="preserve">
+    <value>열쇠</value>
+  </data>
+  <data name="_145" xml:space="preserve">
+    <value>쓰기</value>
+  </data>
+  <data name="_146" xml:space="preserve">
+    <value>학생</value>
+  </data>
+  <data name="_147" xml:space="preserve">
+    <value>걸다</value>
+  </data>
+  <data name="_148" xml:space="preserve">
+    <value>우산</value>
+  </data>
+  <data name="_149" xml:space="preserve">
+    <value>빌려</value>
+  </data>
+  <data name="_150" xml:space="preserve">
+    <value>바람</value>
+  </data>
+  <data name="_151" xml:space="preserve">
+    <value>감기</value>
+  </data>
+  <data name="_152" xml:space="preserve">
+    <value>가족</value>
+  </data>
+  <data name="_153" xml:space="preserve">
+    <value>방법</value>
+  </data>
+  <data name="_154" xml:space="preserve">
+    <value>학교</value>
+  </data>
+  <data name="_155" xml:space="preserve">
+    <value>컵</value>
+  </data>
+  <data name="_156" xml:space="preserve">
+    <value>가정</value>
+  </data>
+  <data name="_157" xml:space="preserve">
+    <value>모서리</value>
+  </data>
+  <data name="_158" xml:space="preserve">
+    <value>가방</value>
+  </data>
+  <data name="_159" xml:space="preserve">
+    <value>꽃병</value>
+  </data>
+  <data name="_160" xml:space="preserve">
+    <value>종이</value>
+  </data>
+  <data name="_161" xml:space="preserve">
+    <value>카메라</value>
+  </data>
+  <data name="_162" xml:space="preserve">
+    <value>화요일</value>
+  </data>
+  <data name="_163" xml:space="preserve">
+    <value>맵다</value>
+  </data>
+  <data name="_164" xml:space="preserve">
+    <value>몸</value>
+  </data>
+  <data name="_165" xml:space="preserve">
+    <value>빌리다</value>
+  </data>
+  <data name="_166" xml:space="preserve">
+    <value>가볍다</value>
+  </data>
+  <data name="_167" xml:space="preserve">
+    <value>카레</value>
+  </data>
+  <data name="_168" xml:space="preserve">
+    <value>달력</value>
+  </data>
+  <data name="_169" xml:space="preserve">
+    <value>강</value>
+  </data>
+  <data name="_170" xml:space="preserve">
+    <value>귀엽다</value>
+  </data>
+  <data name="_171" xml:space="preserve">
+    <value>한자</value>
+  </data>
+  <data name="_172" xml:space="preserve">
+    <value>나무</value>
+  </data>
+  <data name="_173" xml:space="preserve">
+    <value>노랗다</value>
+  </data>
+  <data name="_174" xml:space="preserve">
+    <value>사라</value>
+  </data>
+  <data name="_175" xml:space="preserve">
+    <value>듣다</value>
+  </data>
+  <data name="_176" xml:space="preserve">
+    <value>북</value>
+  </data>
+  <data name="_177" xml:space="preserve">
+    <value>기타</value>
+  </data>
+  <data name="_178" xml:space="preserve">
+    <value>더러운</value>
+  </data>
+  <data name="_179" xml:space="preserve">
+    <value>커피숖</value>
+  </data>
+  <data name="_180" xml:space="preserve">
+    <value>우표</value>
+  </data>
+  <data name="_181" xml:space="preserve">
+    <value>티켓</value>
+  </data>
+  <data name="_182" xml:space="preserve">
+    <value>어제</value>
+  </data>
+  <data name="_183" xml:space="preserve">
+    <value>아홉</value>
+  </data>
+  <data name="_184" xml:space="preserve">
+    <value>쇠고기</value>
+  </data>
+  <data name="_185" xml:space="preserve">
+    <value>우유</value>
+  </data>
+  <data name="_186" xml:space="preserve">
+    <value>오늘</value>
+  </data>
+  <data name="_187" xml:space="preserve">
+    <value>교실</value>
+  </data>
+  <data name="_188" xml:space="preserve">
+    <value>형제</value>
+  </data>
+  <data name="_189" xml:space="preserve">
+    <value>작년</value>
+  </data>
+  <data name="_190" xml:space="preserve">
+    <value>싫음</value>
+  </data>
+  <data name="_191" xml:space="preserve">
+    <value>자르다</value>
+  </data>
+  <data name="_192" xml:space="preserve">
+    <value>옷을 입다</value>
+  </data>
+  <data name="_193" xml:space="preserve">
+    <value>예쁨</value>
+  </data>
+  <data name="_194" xml:space="preserve">
+    <value>킬로그램</value>
+  </data>
+  <data name="_195" xml:space="preserve">
+    <value>킬로미터</value>
+  </data>
+  <data name="_196" xml:space="preserve">
+    <value>은행</value>
+  </data>
+  <data name="_197" xml:space="preserve">
+    <value>금요일</value>
+  </data>
+  <data name="_198" xml:space="preserve">
+    <value>약</value>
+  </data>
+  <data name="_199" xml:space="preserve">
+    <value>~해 주세요</value>
+  </data>
+  <data name="_200" xml:space="preserve">
+    <value>과일</value>
+  </data>
+  <data name="_201" xml:space="preserve">
+    <value>입</value>
+  </data>
+  <data name="_202" xml:space="preserve">
+    <value>신발</value>
+  </data>
+  <data name="_203" xml:space="preserve">
+    <value>양말</value>
+  </data>
+  <data name="_204" xml:space="preserve">
+    <value>국가</value>
+  </data>
+  <data name="_205" xml:space="preserve">
+    <value>흐림</value>
+  </data>
+  <data name="_206" xml:space="preserve">
+    <value>흐리다</value>
+  </data>
+  <data name="_207" xml:space="preserve">
+    <value>어둡다</value>
+  </data>
+  <data name="_208" xml:space="preserve">
+    <value>클래스</value>
+  </data>
+  <data name="_209" xml:space="preserve">
+    <value>그램</value>
+  </data>
+  <data name="_210" xml:space="preserve">
+    <value>오다</value>
+  </data>
+  <data name="_211" xml:space="preserve">
+    <value>자동차</value>
+  </data>
+  <data name="_212" xml:space="preserve">
+    <value>검정</value>
+  </data>
+  <data name="_213" xml:space="preserve">
+    <value>검은</value>
+  </data>
+  <data name="_214" xml:space="preserve">
+    <value>경찰</value>
+  </data>
+  <data name="_215" xml:space="preserve">
+    <value>오늘 아침</value>
+  </data>
+  <data name="_216" xml:space="preserve">
+    <value>지우</value>
+  </data>
+  <data name="_217" xml:space="preserve">
+    <value>훌륭함</value>
+  </data>
+  <data name="_218" xml:space="preserve">
+    <value>결혼</value>
+  </data>
+  <data name="_219" xml:space="preserve">
+    <value>월요일</value>
+  </data>
+  <data name="_220" xml:space="preserve">
+    <value>현관</value>
+  </data>
+  <data name="_221" xml:space="preserve">
+    <value>건강</value>
+  </data>
+  <data name="_222" xml:space="preserve">
+    <value>다섯</value>
+  </data>
+  <data name="_223" xml:space="preserve">
+    <value>공원</value>
+  </data>
+  <data name="_224" xml:space="preserve">
+    <value>교차로</value>
+  </data>
+  <data name="_225" xml:space="preserve">
+    <value>차</value>
+  </data>
+  <data name="_226" xml:space="preserve">
+    <value>파출소</value>
+  </data>
+  <data name="_227" xml:space="preserve">
+    <value>목소리</value>
+  </data>
+  <data name="_228" xml:space="preserve">
+    <value>코트</value>
+  </data>
+  <data name="_229" xml:space="preserve">
+    <value>커피</value>
+  </data>
+  <data name="_230" xml:space="preserve">
+    <value>여기</value>
+  </data>
+  <data name="_231" xml:space="preserve">
+    <value>오후</value>
+  </data>
+  <data name="_232" xml:space="preserve">
+    <value>9일</value>
+  </data>
+  <data name="_233" xml:space="preserve">
+    <value>아홉</value>
+  </data>
+  <data name="_234" xml:space="preserve">
+    <value>오전</value>
+  </data>
+  <data name="_235" xml:space="preserve">
+    <value>대답하다</value>
+  </data>
+  <data name="_236" xml:space="preserve">
+    <value>이쪽</value>
+  </data>
+  <data name="_237" xml:space="preserve">
+    <value>여기</value>
+  </data>
+  <data name="_238" xml:space="preserve">
+    <value>컵</value>
+  </data>
+  <data name="_239" xml:space="preserve">
+    <value>올해</value>
+  </data>
+  <data name="_240" xml:space="preserve">
+    <value>말</value>
+  </data>
+  <data name="_241" xml:space="preserve">
+    <value>아이</value>
+  </data>
+  <data name="_242" xml:space="preserve">
+    <value>이</value>
+  </data>
+  <data name="_243" xml:space="preserve">
+    <value>밥</value>
+  </data>
+  <data name="_244" xml:space="preserve">
+    <value>복사</value>
+  </data>
+  <data name="_245" xml:space="preserve">
+    <value>곤란하다</value>
+  </data>
+  <data name="_246" xml:space="preserve">
+    <value>이것</value>
+  </data>
+  <data name="_247" xml:space="preserve">
+    <value>금월</value>
+  </data>
+  <data name="_248" xml:space="preserve">
+    <value>이번 주</value>
+  </data>
+  <data name="_249" xml:space="preserve">
+    <value>이러한</value>
+  </data>
+  <data name="_250" xml:space="preserve">
+    <value>오늘 밤</value>
+  </data>
+  <data name="_251" xml:space="preserve">
+    <value>잘…</value>
+  </data>
+  <data name="_252" xml:space="preserve">
+    <value>지갑</value>
+  </data>
+  <data name="_253" xml:space="preserve">
+    <value>물고기</value>
+  </data>
+  <data name="_254" xml:space="preserve">
+    <value>앞</value>
+  </data>
+  <data name="_255" xml:space="preserve">
+    <value>피다</value>
+  </data>
+  <data name="_256" xml:space="preserve">
+    <value>작문</value>
+  </data>
+  <data name="_257" xml:space="preserve">
+    <value>가리다</value>
+  </data>
+  <data name="_258" xml:space="preserve">
+    <value>잡지</value>
+  </data>
+  <data name="_259" xml:space="preserve">
+    <value>설탕</value>
+  </data>
+  <data name="_260" xml:space="preserve">
+    <value>춥다</value>
+  </data>
+  <data name="_261" xml:space="preserve">
+    <value>다음 해</value>
+  </data>
+  <data name="_262" xml:space="preserve">
+    <value>셋</value>
+  </data>
+  <data name="_263" xml:space="preserve">
+    <value>산책</value>
+  </data>
+  <data name="_264" xml:space="preserve">
+    <value>넷</value>
+  </data>
+  <data name="_265" xml:space="preserve">
+    <value>소금</value>
+  </data>
+  <data name="_266" xml:space="preserve">
+    <value>그러나</value>
+  </data>
+  <data name="_267" xml:space="preserve">
+    <value>시간</value>
+  </data>
+  <data name="_268" xml:space="preserve">
+    <value>일</value>
+  </data>
+  <data name="_269" xml:space="preserve">
+    <value>사전</value>
+  </data>
+  <data name="_270" xml:space="preserve">
+    <value>조용</value>
+  </data>
+  <data name="_271" xml:space="preserve">
+    <value>아래</value>
+  </data>
+  <data name="_272" xml:space="preserve">
+    <value>칠</value>
+  </data>
+  <data name="_273" xml:space="preserve">
+    <value>질문</value>
+  </data>
+  <data name="_274" xml:space="preserve">
+    <value>자전거</value>
+  </data>
+  <data name="_275" xml:space="preserve">
+    <value>자동차</value>
+  </data>
+  <data name="_276" xml:space="preserve">
+    <value>죽다</value>
+  </data>
+  <data name="_277" xml:space="preserve">
+    <value>사전</value>
+  </data>
+  <data name="_278" xml:space="preserve">
+    <value>자신</value>
+  </data>
+  <data name="_279" xml:space="preserve">
+    <value>꼭 닫히다</value>
+  </data>
+  <data name="_280" xml:space="preserve">
+    <value>닫다</value>
+  </data>
+  <data name="_281" xml:space="preserve">
+    <value>닫다</value>
+  </data>
+  <data name="_282" xml:space="preserve">
+    <value>그럼</value>
+  </data>
+  <data name="_283" xml:space="preserve">
+    <value>사진</value>
+  </data>
+  <data name="_284" xml:space="preserve">
+    <value>셔츠</value>
+  </data>
+  <data name="_285" xml:space="preserve">
+    <value>샤워</value>
+  </data>
+  <data name="_286" xml:space="preserve">
+    <value>십</value>
+  </data>
+  <data name="_287" xml:space="preserve">
+    <value>수업</value>
+  </data>
+  <data name="_288" xml:space="preserve">
+    <value>숙제</value>
+  </data>
+  <data name="_289" xml:space="preserve">
+    <value>잘</value>
+  </data>
+  <data name="_290" xml:space="preserve">
+    <value>건강함</value>
+  </data>
+  <data name="_291" xml:space="preserve">
+    <value>간장</value>
+  </data>
+  <data name="_292" xml:space="preserve">
+    <value>식당</value>
+  </data>
+  <data name="_293" xml:space="preserve">
+    <value>알</value>
+  </data>
+  <data name="_294" xml:space="preserve">
+    <value>하얀</value>
+  </data>
+  <data name="_295" xml:space="preserve">
+    <value>신문</value>
+  </data>
+  <data name="_296" xml:space="preserve">
+    <value>수요일</value>
+  </data>
+  <data name="_297" xml:space="preserve">
+    <value>들이마시다</value>
+  </data>
+  <data name="_298" xml:space="preserve">
+    <value>스커트</value>
+  </data>
+  <data name="_299" xml:space="preserve">
+    <value>좋아함</value>
+  </data>
+  <data name="_300" xml:space="preserve">
+    <value>적다</value>
+  </data>
+  <data name="_301" xml:space="preserve">
+    <value>즉시</value>
+  </data>
+  <data name="_302" xml:space="preserve">
+    <value>조금</value>
+  </data>
+  <data name="_303" xml:space="preserve">
+    <value>차가운</value>
+  </data>
+  <data name="_304" xml:space="preserve">
+    <value>스토브</value>
+  </data>
+  <data name="_305" xml:space="preserve">
+    <value>숟가락</value>
+  </data>
+  <data name="_306" xml:space="preserve">
+    <value>스포츠</value>
+  </data>
+  <data name="_307" xml:space="preserve">
+    <value>바지</value>
+  </data>
+  <data name="_308" xml:space="preserve">
+    <value>살다</value>
+  </data>
+  <data name="_309" xml:space="preserve">
+    <value>슬리퍼</value>
+  </data>
+  <data name="_310" xml:space="preserve">
+    <value>하다</value>
+  </data>
+  <data name="_311" xml:space="preserve">
+    <value>앉다</value>
+  </data>
+  <data name="_312" xml:space="preserve">
+    <value>키</value>
+  </data>
+  <data name="_313" xml:space="preserve">
+    <value>학생</value>
+  </data>
+  <data name="_314" xml:space="preserve">
+    <value>스웨터</value>
+  </data>
+  <data name="_315" xml:space="preserve">
+    <value>경제</value>
+  </data>
+  <data name="_316" xml:space="preserve">
+    <value>정장</value>
+  </data>
+  <data name="_317" xml:space="preserve">
+    <value>좁다</value>
+  </data>
+  <data name="_318" xml:space="preserve">
+    <value>제로</value>
+  </data>
+  <data name="_319" xml:space="preserve">
+    <value>천</value>
+  </data>
+  <data name="_320" xml:space="preserve">
+    <value>지난 달</value>
+  </data>
+  <data name="_321" xml:space="preserve">
+    <value>지난</value>
+  </data>
+  <data name="_322" xml:space="preserve">
+    <value>선생님</value>
+  </data>
+  <data name="_323" xml:space="preserve">
+    <value>세탁</value>
+  </data>
+  <data name="_324" xml:space="preserve">
+    <value>전체</value>
+  </data>
+  <data name="_325" xml:space="preserve">
+    <value>청소하다</value>
+  </data>
+  <data name="_326" xml:space="preserve">
+    <value>그리고</value>
+  </data>
+  <data name="_327" xml:space="preserve">
+    <value>거기</value>
+  </data>
+  <data name="_328" xml:space="preserve">
+    <value>그 쪽</value>
+  </data>
+  <data name="_329" xml:space="preserve">
+    <value>그쪽</value>
+  </data>
+  <data name="_330" xml:space="preserve">
+    <value>외부</value>
+  </data>
+  <data name="_331" xml:space="preserve">
+    <value>그</value>
+  </data>
+  <data name="_332" xml:space="preserve">
+    <value>옆</value>
+  </data>
+  <data name="_333" xml:space="preserve">
+    <value>하늘</value>
+  </data>
+  <data name="_334" xml:space="preserve">
+    <value>그것</value>
+  </data>
+  <data name="_335" xml:space="preserve">
+    <value>그 다음에</value>
+  </data>
+  <data name="_336" xml:space="preserve">
+    <value>그러면</value>
+  </data>
+  <data name="_337" xml:space="preserve">
+    <value>대학</value>
+  </data>
+  <data name="_338" xml:space="preserve">
+    <value>대사관</value>
+  </data>
+  <data name="_339" xml:space="preserve">
+    <value>괜찮아</value>
+  </data>
+  <data name="_340" xml:space="preserve">
+    <value>매우 좋음</value>
+  </data>
+  <data name="_341" xml:space="preserve">
+    <value>중요</value>
+  </data>
+  <data name="_342" xml:space="preserve">
+    <value>부엌</value>
+  </data>
+  <data name="_343" xml:space="preserve">
+    <value>몹시</value>
+  </data>
+  <data name="_344" xml:space="preserve">
+    <value>큰일</value>
+  </data>
+  <data name="_345" xml:space="preserve">
+    <value>높다</value>
+  </data>
+  <data name="_346" xml:space="preserve">
+    <value>많음</value>
+  </data>
+  <data name="_347" xml:space="preserve">
+    <value>택시</value>
+  </data>
+  <data name="_348" xml:space="preserve">
+    <value>내다</value>
+  </data>
+  <data name="_349" xml:space="preserve">
+    <value>일어서다</value>
+  </data>
+  <data name="_350" xml:space="preserve">
+    <value>세로</value>
+  </data>
+  <data name="_351" xml:space="preserve">
+    <value>건물</value>
+  </data>
+  <data name="_352" xml:space="preserve">
+    <value>재미</value>
+  </data>
+  <data name="_353" xml:space="preserve">
+    <value>부탁하다</value>
+  </data>
+  <data name="_354" xml:space="preserve">
+    <value>담배</value>
+  </data>
+  <data name="_355" xml:space="preserve">
+    <value>아마</value>
+  </data>
+  <data name="_356" xml:space="preserve">
+    <value>음식</value>
+  </data>
+  <data name="_357" xml:space="preserve">
+    <value>먹다</value>
+  </data>
+  <data name="_358" xml:space="preserve">
+    <value>계란</value>
+  </data>
+  <data name="_359" xml:space="preserve">
+    <value>누구</value>
+  </data>
+  <data name="_360" xml:space="preserve">
+    <value>누군가</value>
+  </data>
+  <data name="_361" xml:space="preserve">
+    <value>생일</value>
+  </data>
+  <data name="_362" xml:space="preserve">
+    <value>차차</value>
+  </data>
+  <data name="_363" xml:space="preserve">
+    <value>작은</value>
+  </data>
+  <data name="_364" xml:space="preserve">
+    <value>작은</value>
+  </data>
+  <data name="_365" xml:space="preserve">
+    <value>가깝다</value>
+  </data>
+  <data name="_366" xml:space="preserve">
+    <value>다른</value>
+  </data>
+  <data name="_367" xml:space="preserve">
+    <value>근처</value>
+  </data>
+  <data name="_368" xml:space="preserve">
+    <value>지하철</value>
+  </data>
+  <data name="_369" xml:space="preserve">
+    <value>지도</value>
+  </data>
+  <data name="_370" xml:space="preserve">
+    <value>갈색</value>
+  </data>
+  <data name="_371" xml:space="preserve">
+    <value>그릇</value>
+  </data>
+  <data name="_372" xml:space="preserve">
+    <value>꼭</value>
+  </data>
+  <data name="_373" xml:space="preserve">
+    <value>조금</value>
+  </data>
+  <data name="_374" xml:space="preserve">
+    <value>초하루</value>
+  </data>
+  <data name="_375" xml:space="preserve">
+    <value>쓰다</value>
+  </data>
+  <data name="_376" xml:space="preserve">
+    <value>피곤</value>
+  </data>
+  <data name="_377" xml:space="preserve">
+    <value>다음</value>
+  </data>
+  <data name="_378" xml:space="preserve">
+    <value>도착</value>
+  </data>
+  <data name="_379" xml:space="preserve">
+    <value>책상</value>
+  </data>
+  <data name="_380" xml:space="preserve">
+    <value>만들다</value>
+  </data>
+  <data name="_381" xml:space="preserve">
+    <value>붙이다</value>
+  </data>
+  <data name="_382" xml:space="preserve">
+    <value>근무하다</value>
+  </data>
+  <data name="_383" xml:space="preserve">
+    <value>시시하다</value>
+  </data>
+  <data name="_384" xml:space="preserve">
+    <value>차갑다</value>
+  </data>
+  <data name="_385" xml:space="preserve">
+    <value>강한</value>
+  </data>
+  <data name="_386" xml:space="preserve">
+    <value>손</value>
+  </data>
+  <data name="_387" xml:space="preserve">
+    <value>테이프</value>
+  </data>
+  <data name="_388" xml:space="preserve">
+    <value>테이블</value>
+  </data>
+  <data name="_389" xml:space="preserve">
+    <value>테이프 레코더</value>
+  </data>
+  <data name="_390" xml:space="preserve">
+    <value>외출</value>
+  </data>
+  <data name="_391" xml:space="preserve">
+    <value>편지</value>
+  </data>
+  <data name="_392" xml:space="preserve">
+    <value>할 수 있다</value>
+  </data>
+  <data name="_393" xml:space="preserve">
+    <value>출구</value>
+  </data>
+  <data name="_394" xml:space="preserve">
+    <value>테스트</value>
+  </data>
+  <data name="_395" xml:space="preserve">
+    <value>그러면</value>
+  </data>
+  <data name="_396" xml:space="preserve">
+    <value>백화점</value>
+  </data>
+  <data name="_397" xml:space="preserve">
+    <value>그러나</value>
+  </data>
+  <data name="_398" xml:space="preserve">
+    <value>나가다</value>
+  </data>
+  <data name="_399" xml:space="preserve">
+    <value>텔레비전</value>
+  </data>
+  <data name="_400" xml:space="preserve">
+    <value>날씨</value>
+  </data>
+  <data name="_401" xml:space="preserve">
+    <value>전기</value>
+  </data>
+  <data name="_402" xml:space="preserve">
+    <value>전차</value>
+  </data>
+  <data name="_403" xml:space="preserve">
+    <value>전화</value>
+  </data>
+  <data name="_404" xml:space="preserve">
+    <value>문</value>
+  </data>
+  <data name="_405" xml:space="preserve">
+    <value>문</value>
+  </data>
+  <data name="_406" xml:space="preserve">
+    <value>화장실</value>
+  </data>
+  <data name="_407" xml:space="preserve">
+    <value>어떻게</value>
+  </data>
+  <data name="_408" xml:space="preserve">
+    <value>어떻게</value>
+  </data>
+  <data name="_409" xml:space="preserve">
+    <value>아무쪼록</value>
+  </data>
+  <data name="_410" xml:space="preserve">
+    <value>동물</value>
+  </data>
+  <data name="_411" xml:space="preserve">
+    <value>감사합니다</value>
+  </data>
+  <data name="_412" xml:space="preserve">
+    <value>멀다</value>
+  </data>
+  <data name="_413" xml:space="preserve">
+    <value>열흘</value>
+  </data>
+  <data name="_414" xml:space="preserve">
+    <value>때때로</value>
+  </data>
+  <data name="_415" xml:space="preserve">
+    <value>시계</value>
+  </data>
+  <data name="_416" xml:space="preserve">
+    <value>어디</value>
+  </data>
+  <data name="_417" xml:space="preserve">
+    <value>곳</value>
+  </data>
+  <data name="_418" xml:space="preserve">
+    <value>년</value>
+  </data>
+  <data name="_419" xml:space="preserve">
+    <value>도서관</value>
+  </data>
+  <data name="_420" xml:space="preserve">
+    <value>어느 쪽</value>
+  </data>
+  <data name="_421" xml:space="preserve">
+    <value>어느 쪽</value>
+  </data>
+  <data name="_422" xml:space="preserve">
+    <value>아무리 해도</value>
+  </data>
+  <data name="_423" xml:space="preserve">
+    <value>누구</value>
+  </data>
+  <data name="_424" xml:space="preserve">
+    <value>이웃</value>
+  </data>
+  <data name="_425" xml:space="preserve">
+    <value>어느</value>
+  </data>
+  <data name="_426" xml:space="preserve">
+    <value>날다</value>
+  </data>
+  <data name="_427" xml:space="preserve">
+    <value>멈추다</value>
+  </data>
+  <data name="_428" xml:space="preserve">
+    <value>친구</value>
+  </data>
+  <data name="_429" xml:space="preserve">
+    <value>토요일</value>
+  </data>
+  <data name="_430" xml:space="preserve">
+    <value>새</value>
+  </data>
+  <data name="_431" xml:space="preserve">
+    <value>닭고기</value>
+  </data>
+  <data name="_432" xml:space="preserve">
+    <value>가지고</value>
+  </data>
+  <data name="_433" xml:space="preserve">
+    <value>찍다</value>
+  </data>
+  <data name="_434" xml:space="preserve">
+    <value>어느</value>
+  </data>
+  <data name="_435" xml:space="preserve">
+    <value>칼</value>
+  </data>
+  <data name="_436" xml:space="preserve">
+    <value>가운데</value>
+  </data>
+  <data name="_437" xml:space="preserve">
+    <value>긴</value>
+  </data>
+  <data name="_438" xml:space="preserve">
+    <value>울다</value>
+  </data>
+  <data name="_439" xml:space="preserve">
+    <value>없애다</value>
+  </data>
+  <data name="_440" xml:space="preserve">
+    <value>왜</value>
+  </data>
+  <data name="_441" xml:space="preserve">
+    <value>여름</value>
+  </data>
+  <data name="_442" xml:space="preserve">
+    <value>여름 방학</value>
+  </data>
+  <data name="_443" xml:space="preserve">
+    <value>등</value>
+  </data>
+  <data name="_444" xml:space="preserve">
+    <value>일곱</value>
+  </data>
+  <data name="_445" xml:space="preserve">
+    <value>일곱째 날</value>
+  </data>
+  <data name="_446" xml:space="preserve">
+    <value>이름</value>
+  </data>
+  <data name="_447" xml:space="preserve">
+    <value>배우</value>
+  </data>
+  <data name="_448" xml:space="preserve">
+    <value>늘어선</value>
+  </data>
+  <data name="_449" xml:space="preserve">
+    <value>나란히</value>
+  </data>
+  <data name="_450" xml:space="preserve">
+    <value>되다</value>
+  </data>
+  <data name="_451" xml:space="preserve">
+    <value>무엇</value>
+  </data>
+  <data name="_452" xml:space="preserve">
+    <value>둘</value>
+  </data>
+  <data name="_453" xml:space="preserve">
+    <value>분주</value>
+  </data>
+  <data name="_454" xml:space="preserve">
+    <value>고기</value>
+  </data>
+  <data name="_455" xml:space="preserve">
+    <value>서쪽</value>
+  </data>
+  <data name="_456" xml:space="preserve">
+    <value>일요일</value>
+  </data>
+  <data name="_457" xml:space="preserve">
+    <value>짐</value>
+  </data>
+  <data name="_458" xml:space="preserve">
+    <value>뉴스</value>
+  </data>
+  <data name="_459" xml:space="preserve">
+    <value>정원</value>
+  </data>
+  <data name="_460" xml:space="preserve">
+    <value>옷을 벗다</value>
+  </data>
+  <data name="_461" xml:space="preserve">
+    <value>미지근한</value>
+  </data>
+  <data name="_462" xml:space="preserve">
+    <value>넥타이</value>
+  </data>
+  <data name="_463" xml:space="preserve">
+    <value>고양이</value>
+  </data>
+  <data name="_464" xml:space="preserve">
+    <value>자다</value>
+  </data>
+  <data name="_465" xml:space="preserve">
+    <value>노트</value>
+  </data>
+  <data name="_466" xml:space="preserve">
+    <value>등반</value>
+  </data>
+  <data name="_467" xml:space="preserve">
+    <value>음료</value>
+  </data>
+  <data name="_468" xml:space="preserve">
+    <value>마시다</value>
+  </data>
+  <data name="_469" xml:space="preserve">
+    <value>타다</value>
+  </data>
+  <data name="_470" xml:space="preserve">
+    <value>치아</value>
+  </data>
+  <data name="_471" xml:space="preserve">
+    <value>파티</value>
+  </data>
+  <data name="_472" xml:space="preserve">
+    <value>예</value>
+  </data>
+  <data name="_473" xml:space="preserve">
+    <value>재떨이</value>
+  </data>
+  <data name="_474" xml:space="preserve">
+    <value>들어가다</value>
+  </data>
+  <data name="_475" xml:space="preserve">
+    <value>엽서</value>
+  </data>
+  <data name="_476" xml:space="preserve">
+    <value>입다</value>
+  </data>
+  <data name="_477" xml:space="preserve">
+    <value>상자</value>
+  </data>
+  <data name="_478" xml:space="preserve">
+    <value>다리</value>
+  </data>
+  <data name="_479" xml:space="preserve">
+    <value>젓가락</value>
+  </data>
+  <data name="_480" xml:space="preserve">
+    <value>시작</value>
+  </data>
+  <data name="_481" xml:space="preserve">
+    <value>처음</value>
+  </data>
+  <data name="_482" xml:space="preserve">
+    <value>처음</value>
+  </data>
+  <data name="_483" xml:space="preserve">
+    <value>달리다</value>
+  </data>
+  <data name="_484" xml:space="preserve">
+    <value>버스</value>
+  </data>
+  <data name="_485" xml:space="preserve">
+    <value>버터</value>
+  </data>
+  <data name="_486" xml:space="preserve">
+    <value>스무 살</value>
+  </data>
+  <data name="_487" xml:space="preserve">
+    <value>일하다</value>
+  </data>
+  <data name="_488" xml:space="preserve">
+    <value>여덟</value>
+  </data>
+  <data name="_489" xml:space="preserve">
+    <value>20일</value>
+  </data>
+  <data name="_490" xml:space="preserve">
+    <value>꽃</value>
+  </data>
+  <data name="_491" xml:space="preserve">
+    <value>코</value>
+  </data>
+  <data name="_492" xml:space="preserve">
+    <value>이야기</value>
+  </data>
+  <data name="_493" xml:space="preserve">
+    <value>이야기하다</value>
+  </data>
+  <data name="_494" xml:space="preserve">
+    <value>이르다</value>
+  </data>
+  <data name="_495" xml:space="preserve">
+    <value>빠르다</value>
+  </data>
+  <data name="_496" xml:space="preserve">
+    <value>봄</value>
+  </data>
+  <data name="_497" xml:space="preserve">
+    <value>붙이다</value>
+  </data>
+  <data name="_498" xml:space="preserve">
+    <value>맑음</value>
+  </data>
+  <data name="_499" xml:space="preserve">
+    <value>맑은</value>
+  </data>
+  <data name="_500" xml:space="preserve">
+    <value>반</value>
+  </data>
+  <data name="_501" xml:space="preserve">
+    <value>저녁</value>
+  </data>
+  <data name="_502" xml:space="preserve">
+    <value>빵</value>
+  </data>
+  <data name="_503" xml:space="preserve">
+    <value>손수건</value>
+  </data>
+  <data name="_504" xml:space="preserve">
+    <value>번호</value>
+  </data>
+  <data name="_505" xml:space="preserve">
+    <value>저녁 식사</value>
+  </data>
+  <data name="_506" xml:space="preserve">
+    <value>반</value>
+  </data>
+  <data name="_507" xml:space="preserve">
+    <value>동쪽</value>
+  </data>
+  <data name="_508" xml:space="preserve">
+    <value>끌다</value>
+  </data>
+  <data name="_509" xml:space="preserve">
+    <value>연주하다</value>
+  </data>
+  <data name="_510" xml:space="preserve">
+    <value>낮다</value>
+  </data>
+  <data name="_511" xml:space="preserve">
+    <value>비행기</value>
+  </data>
+  <data name="_512" xml:space="preserve">
+    <value>왼쪽</value>
+  </data>
+  <data name="_513" xml:space="preserve">
+    <value>사람</value>
+  </data>
+  <data name="_514" xml:space="preserve">
+    <value>하나</value>
+  </data>
+  <data name="_515" xml:space="preserve">
+    <value>한달</value>
+  </data>
+  <data name="_516" xml:space="preserve">
+    <value>한 사람</value>
+  </data>
+  <data name="_517" xml:space="preserve">
+    <value>자유 시간</value>
+  </data>
+  <data name="_518" xml:space="preserve">
+    <value>백</value>
+  </data>
+  <data name="_519" xml:space="preserve">
+    <value>병원</value>
+  </data>
+  <data name="_520" xml:space="preserve">
+    <value>질병</value>
+  </data>
+  <data name="_521" xml:space="preserve">
+    <value>낮</value>
+  </data>
+  <data name="_522" xml:space="preserve">
+    <value>점심</value>
+  </data>
+  <data name="_523" xml:space="preserve">
+    <value>넓은</value>
+  </data>
+  <data name="_524" xml:space="preserve">
+    <value>필름</value>
+  </data>
+  <data name="_525" xml:space="preserve">
+    <value>봉투</value>
+  </data>
+  <data name="_526" xml:space="preserve">
+    <value>수영장</value>
+  </data>
+  <data name="_527" xml:space="preserve">
+    <value>포크</value>
+  </data>
+  <data name="_528" xml:space="preserve">
+    <value>불다</value>
+  </data>
+  <data name="_529" xml:space="preserve">
+    <value>옷</value>
+  </data>
+  <data name="_530" xml:space="preserve">
+    <value>둘</value>
+  </data>
+  <data name="_531" xml:space="preserve">
+    <value>돼지 고기</value>
+  </data>
+  <data name="_532" xml:space="preserve">
+    <value>두 사람</value>
+  </data>
+  <data name="_533" xml:space="preserve">
+    <value>이틀</value>
+  </data>
+  <data name="_534" xml:space="preserve">
+    <value>굵다</value>
+  </data>
+  <data name="_535" xml:space="preserve">
+    <value>겨울</value>
+  </data>
+  <data name="_536" xml:space="preserve">
+    <value>내리다</value>
+  </data>
+  <data name="_537" xml:space="preserve">
+    <value>오래되다</value>
+  </data>
+  <data name="_538" xml:space="preserve">
+    <value>욕조</value>
+  </data>
+  <data name="_539" xml:space="preserve">
+    <value>문장</value>
+  </data>
+  <data name="_540" xml:space="preserve">
+    <value>페이지</value>
+  </data>
+  <data name="_541" xml:space="preserve">
+    <value>어설픔</value>
+  </data>
+  <data name="_542" xml:space="preserve">
+    <value>침대</value>
+  </data>
+  <data name="_543" xml:space="preserve">
+    <value>애완 동물</value>
+  </data>
+  <data name="_544" xml:space="preserve">
+    <value>방</value>
+  </data>
+  <data name="_545" xml:space="preserve">
+    <value>지역</value>
+  </data>
+  <data name="_546" xml:space="preserve">
+    <value>펜</value>
+  </data>
+  <data name="_547" xml:space="preserve">
+    <value>공부</value>
+  </data>
+  <data name="_548" xml:space="preserve">
+    <value>편리</value>
+  </data>
+  <data name="_549" xml:space="preserve">
+    <value>모자</value>
+  </data>
+  <data name="_550" xml:space="preserve">
+    <value>볼펜</value>
+  </data>
+  <data name="_551" xml:space="preserve">
+    <value>다른 것</value>
+  </data>
+  <data name="_552" xml:space="preserve">
+    <value>포켓</value>
+  </data>
+  <data name="_553" xml:space="preserve">
+    <value>바라다</value>
+  </data>
+  <data name="_554" xml:space="preserve">
+    <value>우편</value>
+  </data>
+  <data name="_555" xml:space="preserve">
+    <value>얇은</value>
+  </data>
+  <data name="_556" xml:space="preserve">
+    <value>버튼</value>
+  </data>
+  <data name="_557" xml:space="preserve">
+    <value>호텔</value>
+  </data>
+  <data name="_558" xml:space="preserve">
+    <value>책</value>
+  </data>
+  <data name="_559" xml:space="preserve">
+    <value>책장</value>
+  </data>
+  <data name="_560" xml:space="preserve">
+    <value>진실</value>
+  </data>
+  <data name="_561" xml:space="preserve">
+    <value>매일 아침</value>
+  </data>
+  <data name="_562" xml:space="preserve">
+    <value>매월</value>
+  </data>
+  <data name="_563" xml:space="preserve">
+    <value>매주</value>
+  </data>
+  <data name="_564" xml:space="preserve">
+    <value>매일</value>
+  </data>
+  <data name="_565" xml:space="preserve">
+    <value>매년</value>
+  </data>
+  <data name="_566" xml:space="preserve">
+    <value>매일 밤</value>
+  </data>
+  <data name="_567" xml:space="preserve">
+    <value>전</value>
+  </data>
+  <data name="_568" xml:space="preserve">
+    <value>구부리</value>
+  </data>
+  <data name="_569" xml:space="preserve">
+    <value>맛이 없다</value>
+  </data>
+  <data name="_570" xml:space="preserve">
+    <value>다른 때</value>
+  </data>
+  <data name="_571" xml:space="preserve">
+    <value>아직</value>
+  </data>
+  <data name="_572" xml:space="preserve">
+    <value>마을</value>
+  </data>
+  <data name="_573" xml:space="preserve">
+    <value>기다리다</value>
+  </data>
+  <data name="_574" xml:space="preserve">
+    <value>똑바로</value>
+  </data>
+  <data name="_575" xml:space="preserve">
+    <value>경기</value>
+  </data>
+  <data name="_576" xml:space="preserve">
+    <value>창문</value>
+  </data>
+  <data name="_577" xml:space="preserve">
+    <value>둥글다</value>
+  </data>
+  <data name="_578" xml:space="preserve">
+    <value>만</value>
+  </data>
+  <data name="_579" xml:space="preserve">
+    <value>만년필</value>
+  </data>
+  <data name="_580" xml:space="preserve">
+    <value>연마</value>
+  </data>
+  <data name="_581" xml:space="preserve">
+    <value>오른쪽</value>
+  </data>
+  <data name="_582" xml:space="preserve">
+    <value>짧다</value>
+  </data>
+  <data name="_583" xml:space="preserve">
+    <value>물</value>
+  </data>
+  <data name="_584" xml:space="preserve">
+    <value>가게</value>
+  </data>
+  <data name="_585" xml:space="preserve">
+    <value>보이다</value>
+  </data>
+  <data name="_586" xml:space="preserve">
+    <value>길</value>
+  </data>
+  <data name="_587" xml:space="preserve">
+    <value>삼일</value>
+  </data>
+  <data name="_588" xml:space="preserve">
+    <value>세</value>
+  </data>
+  <data name="_589" xml:space="preserve">
+    <value>녹색</value>
+  </data>
+  <data name="_590" xml:space="preserve">
+    <value>여러분</value>
+  </data>
+  <data name="_591" xml:space="preserve">
+    <value>남</value>
+  </data>
+  <data name="_592" xml:space="preserve">
+    <value>귀</value>
+  </data>
+  <data name="_593" xml:space="preserve">
+    <value>보다</value>
+  </data>
+  <data name="_594" xml:space="preserve">
+    <value>모두</value>
+  </data>
+  <data name="_595" xml:space="preserve">
+    <value>6일</value>
+  </data>
+  <data name="_596" xml:space="preserve">
+    <value>저쪽</value>
+  </data>
+  <data name="_597" xml:space="preserve">
+    <value>어렵다</value>
+  </data>
+  <data name="_598" xml:space="preserve">
+    <value>여섯</value>
+  </data>
+  <data name="_599" xml:space="preserve">
+    <value>마을</value>
+  </data>
+  <data name="_600" xml:space="preserve">
+    <value>눈</value>
+  </data>
+  <data name="_601" xml:space="preserve">
+    <value>미터</value>
+  </data>
+  <data name="_602" xml:space="preserve">
+    <value>안경</value>
+  </data>
+  <data name="_603" xml:space="preserve">
+    <value>벌써</value>
+  </data>
+  <data name="_604" xml:space="preserve">
+    <value>다시</value>
+  </data>
+  <data name="_605" xml:space="preserve">
+    <value>목요일</value>
+  </data>
+  <data name="_606" xml:space="preserve">
+    <value>쥐다</value>
+  </data>
+  <data name="_607" xml:space="preserve">
+    <value>더</value>
+  </data>
+  <data name="_608" xml:space="preserve">
+    <value>물건</value>
+  </data>
+  <data name="_609" xml:space="preserve">
+    <value>문</value>
+  </data>
+  <data name="_610" xml:space="preserve">
+    <value>문제</value>
+  </data>
+  <data name="_611" xml:space="preserve">
+    <value>청과물</value>
+  </data>
+  <data name="_612" xml:space="preserve">
+    <value>야채</value>
+  </data>
+  <data name="_613" xml:space="preserve">
+    <value>쉽다</value>
+  </data>
+  <data name="_614" xml:space="preserve">
+    <value>싸다</value>
+  </data>
+  <data name="_615" xml:space="preserve">
+    <value>휴가</value>
+  </data>
+  <data name="_616" xml:space="preserve">
+    <value>쉬다</value>
+  </data>
+  <data name="_617" xml:space="preserve">
+    <value>여덟</value>
+  </data>
+  <data name="_618" xml:space="preserve">
+    <value>산</value>
+  </data>
+  <data name="_619" xml:space="preserve">
+    <value>하다</value>
+  </data>
+  <data name="_620" xml:space="preserve">
+    <value>저녁</value>
+  </data>
+  <data name="_621" xml:space="preserve">
+    <value>저녁밥</value>
+  </data>
+  <data name="_622" xml:space="preserve">
+    <value>우체국</value>
+  </data>
+  <data name="_623" xml:space="preserve">
+    <value>지난 밤</value>
+  </data>
+  <data name="_624" xml:space="preserve">
+    <value>유명</value>
+  </data>
+  <data name="_625" xml:space="preserve">
+    <value>눈</value>
+  </data>
+  <data name="_626" xml:space="preserve">
+    <value>가다</value>
+  </data>
+  <data name="_627" xml:space="preserve">
+    <value>천천히</value>
+  </data>
+  <data name="_628" xml:space="preserve">
+    <value>8일</value>
+  </data>
+  <data name="_629" xml:space="preserve">
+    <value>옷</value>
+  </data>
+  <data name="_630" xml:space="preserve">
+    <value>잘</value>
+  </data>
+  <data name="_631" xml:space="preserve">
+    <value>옆</value>
+  </data>
+  <data name="_632" xml:space="preserve">
+    <value>4일</value>
+  </data>
+  <data name="_633" xml:space="preserve">
+    <value>넷</value>
+  </data>
+  <data name="_634" xml:space="preserve">
+    <value>부르다</value>
+  </data>
+  <data name="_635" xml:space="preserve">
+    <value>읽다</value>
+  </data>
+  <data name="_636" xml:space="preserve">
+    <value>밤</value>
+  </data>
+  <data name="_637" xml:space="preserve">
+    <value>약한</value>
+  </data>
+  <data name="_638" xml:space="preserve">
+    <value>다음달</value>
+  </data>
+  <data name="_639" xml:space="preserve">
+    <value>다음주</value>
+  </data>
+  <data name="_640" xml:space="preserve">
+    <value>내년</value>
+  </data>
+  <data name="_641" xml:space="preserve">
+    <value>라디오</value>
+  </data>
+  <data name="_642" xml:space="preserve">
+    <value>카세트</value>
+  </data>
+  <data name="_643" xml:space="preserve">
+    <value>훌륭함</value>
+  </data>
+  <data name="_644" xml:space="preserve">
+    <value>유학생</value>
+  </data>
+  <data name="_645" xml:space="preserve">
+    <value>부모</value>
+  </data>
+  <data name="_646" xml:space="preserve">
+    <value>요리</value>
+  </data>
+  <data name="_647" xml:space="preserve">
+    <value>여행</value>
+  </data>
+  <data name="_648" xml:space="preserve">
+    <value>영</value>
+  </data>
+  <data name="_649" xml:space="preserve">
+    <value>냉장고</value>
+  </data>
+  <data name="_650" xml:space="preserve">
+    <value>기록</value>
+  </data>
+  <data name="_651" xml:space="preserve">
+    <value>레스토랑</value>
+  </data>
+  <data name="_652" xml:space="preserve">
+    <value>연습</value>
+  </data>
+  <data name="_653" xml:space="preserve">
+    <value>복도</value>
+  </data>
+  <data name="_654" xml:space="preserve">
+    <value>육</value>
+  </data>
+  <data name="_655" xml:space="preserve">
+    <value>셔츠</value>
+  </data>
+  <data name="_656" xml:space="preserve">
+    <value>젊은</value>
+  </data>
+  <data name="_657" xml:space="preserve">
+    <value>알다</value>
+  </data>
+  <data name="_658" xml:space="preserve">
+    <value>잊어 버리다</value>
+  </data>
+  <data name="_659" xml:space="preserve">
+    <value>나</value>
+  </data>
+  <data name="_660" xml:space="preserve">
+    <value>나</value>
+  </data>
+  <data name="_661" xml:space="preserve">
+    <value>건네주다</value>
+  </data>
+  <data name="_662" xml:space="preserve">
+    <value>건너다</value>
+  </data>
+  <data name="_663" xml:space="preserve">
+    <value>나쁘다</value>
   </data>
 </root>

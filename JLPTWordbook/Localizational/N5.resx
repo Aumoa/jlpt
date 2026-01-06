@@ -118,15 +118,1995 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="_0" xml:space="preserve">
-    <value>To meet</value>
+    <value>to meet</value>
   </data>
   <data name="_1" xml:space="preserve">
-    <value>Blue</value>
+    <value>blue</value>
   </data>
   <data name="_2" xml:space="preserve">
-    <value>Red</value>
+    <value>red</value>
   </data>
   <data name="_3" xml:space="preserve">
-    <value>Bright</value>
+    <value>bright</value>
+  </data>
+  <data name="_4" xml:space="preserve">
+    <value>autumn</value>
+  </data>
+  <data name="_5" xml:space="preserve">
+    <value>to open, to become open</value>
+  </data>
+  <data name="_6" xml:space="preserve">
+    <value>to open</value>
+  </data>
+  <data name="_7" xml:space="preserve">
+    <value>to give</value>
+  </data>
+  <data name="_8" xml:space="preserve">
+    <value>morning</value>
+  </data>
+  <data name="_9" xml:space="preserve">
+    <value>breakfast</value>
+  </data>
+  <data name="_10" xml:space="preserve">
+    <value>day after tomorrow</value>
+  </data>
+  <data name="_11" xml:space="preserve">
+    <value>foot, leg</value>
+  </data>
+  <data name="_12" xml:space="preserve">
+    <value>tomorrow</value>
+  </data>
+  <data name="_13" xml:space="preserve">
+    <value>over there</value>
+  </data>
+  <data name="_14" xml:space="preserve">
+    <value>to play, to make a visit</value>
+  </data>
+  <data name="_15" xml:space="preserve">
+    <value>warm</value>
+  </data>
+  <data name="_16" xml:space="preserve">
+    <value>head</value>
+  </data>
+  <data name="_17" xml:space="preserve">
+    <value>new</value>
+  </data>
+  <data name="_18" xml:space="preserve">
+    <value>there</value>
+  </data>
+  <data name="_19" xml:space="preserve">
+    <value>hot</value>
+  </data>
+  <data name="_20" xml:space="preserve">
+    <value>hot to the touch</value>
+  </data>
+  <data name="_21" xml:space="preserve">
+    <value>kind, deep, thick</value>
+  </data>
+  <data name="_22" xml:space="preserve">
+    <value>over there</value>
+  </data>
+  <data name="_23" xml:space="preserve">
+    <value>afterwards</value>
+  </data>
+  <data name="_24" xml:space="preserve">
+    <value>you</value>
+  </data>
+  <data name="_25" xml:space="preserve">
+    <value>(humble) older brother</value>
+  </data>
+  <data name="_26" xml:space="preserve">
+    <value>(humble) older sister</value>
+  </data>
+  <data name="_27" xml:space="preserve">
+    <value>that over there</value>
+  </data>
+  <data name="_28" xml:space="preserve">
+    <value>um...</value>
+  </data>
+  <data name="_29" xml:space="preserve">
+    <value>apartment</value>
+  </data>
+  <data name="_30" xml:space="preserve">
+    <value>to bathe, to shower</value>
+  </data>
+  <data name="_31" xml:space="preserve">
+    <value>dangerous</value>
+  </data>
+  <data name="_32" xml:space="preserve">
+    <value>sweet</value>
+  </data>
+  <data name="_33" xml:space="preserve">
+    <value>not very</value>
+  </data>
+  <data name="_34" xml:space="preserve">
+    <value>rain</value>
+  </data>
+  <data name="_35" xml:space="preserve">
+    <value>candy</value>
+  </data>
+  <data name="_36" xml:space="preserve">
+    <value>to wash</value>
+  </data>
+  <data name="_37" xml:space="preserve">
+    <value>to be,to have (used for inanimate objects)</value>
+  </data>
+  <data name="_38" xml:space="preserve">
+    <value>to walk</value>
+  </data>
+  <data name="_39" xml:space="preserve">
+    <value>that</value>
+  </data>
+  <data name="_40" xml:space="preserve">
+    <value>good</value>
+  </data>
+  <data name="_41" xml:space="preserve">
+    <value>no</value>
+  </data>
+  <data name="_42" xml:space="preserve">
+    <value>to say</value>
+  </data>
+  <data name="_43" xml:space="preserve">
+    <value>house</value>
+  </data>
+  <data name="_44" xml:space="preserve">
+    <value>how</value>
+  </data>
+  <data name="_45" xml:space="preserve">
+    <value>to go</value>
+  </data>
+  <data name="_46" xml:space="preserve">
+    <value>how many?,how old?</value>
+  </data>
+  <data name="_47" xml:space="preserve">
+    <value>how much?</value>
+  </data>
+  <data name="_48" xml:space="preserve">
+    <value>pond</value>
+  </data>
+  <data name="_49" xml:space="preserve">
+    <value>medical doctor</value>
+  </data>
+  <data name="_50" xml:space="preserve">
+    <value>chair</value>
+  </data>
+  <data name="_51" xml:space="preserve">
+    <value>busy, irritated</value>
+  </data>
+  <data name="_52" xml:space="preserve">
+    <value>painful</value>
+  </data>
+  <data name="_53" xml:space="preserve">
+    <value>one</value>
+  </data>
+  <data name="_54" xml:space="preserve">
+    <value>first of the month</value>
+  </data>
+  <data name="_55" xml:space="preserve">
+    <value>best, first</value>
+  </data>
+  <data name="_56" xml:space="preserve">
+    <value>when</value>
+  </data>
+  <data name="_57" xml:space="preserve">
+    <value>five days, fifth day</value>
+  </data>
+  <data name="_58" xml:space="preserve">
+    <value>together</value>
+  </data>
+  <data name="_59" xml:space="preserve">
+    <value>five</value>
+  </data>
+  <data name="_60" xml:space="preserve">
+    <value>always</value>
+  </data>
+  <data name="_61" xml:space="preserve">
+    <value>dog</value>
+  </data>
+  <data name="_62" xml:space="preserve">
+    <value>now</value>
+  </data>
+  <data name="_63" xml:space="preserve">
+    <value>meaning</value>
+  </data>
+  <data name="_64" xml:space="preserve">
+    <value>(humble) younger sister</value>
+  </data>
+  <data name="_65" xml:space="preserve">
+    <value>unpleasant</value>
+  </data>
+  <data name="_66" xml:space="preserve">
+    <value>entrance</value>
+  </data>
+  <data name="_67" xml:space="preserve">
+    <value>to be, to have (used for people and animals)</value>
+  </data>
+  <data name="_68" xml:space="preserve">
+    <value>to need</value>
+  </data>
+  <data name="_69" xml:space="preserve">
+    <value>to put in</value>
+  </data>
+  <data name="_70" xml:space="preserve">
+    <value>colour</value>
+  </data>
+  <data name="_71" xml:space="preserve">
+    <value>various</value>
+  </data>
+  <data name="_72" xml:space="preserve">
+    <value>on top of</value>
+  </data>
+  <data name="_73" xml:space="preserve">
+    <value>behind</value>
+  </data>
+  <data name="_74" xml:space="preserve">
+    <value>thin,weak</value>
+  </data>
+  <data name="_75" xml:space="preserve">
+    <value>song</value>
+  </data>
+  <data name="_76" xml:space="preserve">
+    <value>to sing</value>
+  </data>
+  <data name="_77" xml:space="preserve">
+    <value>to be born</value>
+  </data>
+  <data name="_78" xml:space="preserve">
+    <value>sea</value>
+  </data>
+  <data name="_79" xml:space="preserve">
+    <value>to sell</value>
+  </data>
+  <data name="_80" xml:space="preserve">
+    <value>noisy, annoying</value>
+  </data>
+  <data name="_81" xml:space="preserve">
+    <value>jacket</value>
+  </data>
+  <data name="_82" xml:space="preserve">
+    <value>picture</value>
+  </data>
+  <data name="_83" xml:space="preserve">
+    <value>movie</value>
+  </data>
+  <data name="_84" xml:space="preserve">
+    <value>cinema</value>
+  </data>
+  <data name="_85" xml:space="preserve">
+    <value>English language</value>
+  </data>
+  <data name="_86" xml:space="preserve">
+    <value>yes</value>
+  </data>
+  <data name="_87" xml:space="preserve">
+    <value>station</value>
+  </data>
+  <data name="_88" xml:space="preserve">
+    <value>elevator</value>
+  </data>
+  <data name="_89" xml:space="preserve">
+    <value>pencil</value>
+  </data>
+  <data name="_90" xml:space="preserve">
+    <value>delicious</value>
+  </data>
+  <data name="_91" xml:space="preserve">
+    <value>many</value>
+  </data>
+  <data name="_92" xml:space="preserve">
+    <value>big</value>
+  </data>
+  <data name="_93" xml:space="preserve">
+    <value>big</value>
+  </data>
+  <data name="_94" xml:space="preserve">
+    <value>great number of people</value>
+  </data>
+  <data name="_95" xml:space="preserve">
+    <value>(honorable) mother</value>
+  </data>
+  <data name="_96" xml:space="preserve">
+    <value>sweets, candy</value>
+  </data>
+  <data name="_97" xml:space="preserve">
+    <value>money</value>
+  </data>
+  <data name="_98" xml:space="preserve">
+    <value>to get up</value>
+  </data>
+  <data name="_99" xml:space="preserve">
+    <value>to put</value>
+  </data>
+  <data name="_100" xml:space="preserve">
+    <value>(honorable) wife</value>
+  </data>
+  <data name="_101" xml:space="preserve">
+    <value>alcohol, rice wine</value>
+  </data>
+  <data name="_102" xml:space="preserve">
+    <value>plate, dish</value>
+  </data>
+  <data name="_103" xml:space="preserve">
+    <value>grandfather, male senior citizen</value>
+  </data>
+  <data name="_104" xml:space="preserve">
+    <value>to teach, to tell</value>
+  </data>
+  <data name="_105" xml:space="preserve">
+    <value>uncle, middle aged gentleman</value>
+  </data>
+  <data name="_106" xml:space="preserve">
+    <value>to push, to stamp something</value>
+  </data>
+  <data name="_107" xml:space="preserve">
+    <value>late, slow</value>
+  </data>
+  <data name="_108" xml:space="preserve">
+    <value>green tea</value>
+  </data>
+  <data name="_109" xml:space="preserve">
+    <value>bathroom</value>
+  </data>
+  <data name="_110" xml:space="preserve">
+    <value>(honorable) father</value>
+  </data>
+  <data name="_111" xml:space="preserve">
+    <value>younger brother</value>
+  </data>
+  <data name="_112" xml:space="preserve">
+    <value>Man</value>
+  </data>
+  <data name="_113" xml:space="preserve">
+    <value>Boy</value>
+  </data>
+  <data name="_114" xml:space="preserve">
+    <value>day before yesterday</value>
+  </data>
+  <data name="_115" xml:space="preserve">
+    <value>year before last</value>
+  </data>
+  <data name="_116" xml:space="preserve">
+    <value>Adult</value>
+  </data>
+  <data name="_117" xml:space="preserve">
+    <value>stomach</value>
+  </data>
+  <data name="_118" xml:space="preserve">
+    <value>same</value>
+  </data>
+  <data name="_119" xml:space="preserve">
+    <value>(honorable) older brother</value>
+  </data>
+  <data name="_120" xml:space="preserve">
+    <value>(honorable) older sister</value>
+  </data>
+  <data name="_121" xml:space="preserve">
+    <value>grandmother, female senior-citizen</value>
+  </data>
+  <data name="_122" xml:space="preserve">
+    <value>Aunt</value>
+  </data>
+  <data name="_123" xml:space="preserve">
+    <value>Bath</value>
+  </data>
+  <data name="_124" xml:space="preserve">
+    <value>boxed lunch</value>
+  </data>
+  <data name="_125" xml:space="preserve">
+    <value>to remember</value>
+  </data>
+  <data name="_126" xml:space="preserve">
+    <value>friendly term for policeman</value>
+  </data>
+  <data name="_127" xml:space="preserve">
+    <value>Heavy</value>
+  </data>
+  <data name="_128" xml:space="preserve">
+    <value>Interesting</value>
+  </data>
+  <data name="_129" xml:space="preserve">
+    <value>to swim</value>
+  </data>
+  <data name="_130" xml:space="preserve">
+    <value>to get off, to descend</value>
+  </data>
+  <data name="_131" xml:space="preserve">
+    <value>to finish</value>
+  </data>
+  <data name="_132" xml:space="preserve">
+    <value>Music</value>
+  </data>
+  <data name="_133" xml:space="preserve">
+    <value>Woman</value>
+  </data>
+  <data name="_134" xml:space="preserve">
+    <value>Girl</value>
+  </data>
+  <data name="_135" xml:space="preserve">
+    <value>foreign country</value>
+  </data>
+  <data name="_136" xml:space="preserve">
+    <value>Foreigner</value>
+  </data>
+  <data name="_137" xml:space="preserve">
+    <value>Company</value>
+  </data>
+  <data name="_138" xml:space="preserve">
+    <value>Stairs</value>
+  </data>
+  <data name="_139" xml:space="preserve">
+    <value>Shopping</value>
+  </data>
+  <data name="_140" xml:space="preserve">
+    <value>to buy</value>
+  </data>
+  <data name="_141" xml:space="preserve">
+    <value>to return something</value>
+  </data>
+  <data name="_142" xml:space="preserve">
+    <value>to go back</value>
+  </data>
+  <data name="_143" xml:space="preserve">
+    <value>to take time or money</value>
+  </data>
+  <data name="_144" xml:space="preserve">
+    <value>Key</value>
+  </data>
+  <data name="_145" xml:space="preserve">
+    <value>to write</value>
+  </data>
+  <data name="_146" xml:space="preserve">
+    <value>Student</value>
+  </data>
+  <data name="_147" xml:space="preserve">
+    <value>to call by phone</value>
+  </data>
+  <data name="_148" xml:space="preserve">
+    <value>Umbrella</value>
+  </data>
+  <data name="_149" xml:space="preserve">
+    <value>to lend</value>
+  </data>
+  <data name="_150" xml:space="preserve">
+    <value>Wind</value>
+  </data>
+  <data name="_151" xml:space="preserve">
+    <value>a cold</value>
+  </data>
+  <data name="_152" xml:space="preserve">
+    <value>Family</value>
+  </data>
+  <data name="_153" xml:space="preserve">
+    <value>person, way of doing</value>
+  </data>
+  <data name="_154" xml:space="preserve">
+    <value>School</value>
+  </data>
+  <data name="_155" xml:space="preserve">
+    <value>Cup</value>
+  </data>
+  <data name="_156" xml:space="preserve">
+    <value>Household</value>
+  </data>
+  <data name="_157" xml:space="preserve">
+    <value>a corner</value>
+  </data>
+  <data name="_158" xml:space="preserve">
+    <value>bag, basket</value>
+  </data>
+  <data name="_159" xml:space="preserve">
+    <value>a vase</value>
+  </data>
+  <data name="_160" xml:space="preserve">
+    <value>paper</value>
+  </data>
+  <data name="_161" xml:space="preserve">
+    <value>camera</value>
+  </data>
+  <data name="_162" xml:space="preserve">
+    <value>Tuesday</value>
+  </data>
+  <data name="_163" xml:space="preserve">
+    <value>Spicy</value>
+  </data>
+  <data name="_164" xml:space="preserve">
+    <value>Body</value>
+  </data>
+  <data name="_165" xml:space="preserve">
+    <value>to borrow</value>
+  </data>
+  <data name="_166" xml:space="preserve">
+    <value>Light</value>
+  </data>
+  <data name="_167" xml:space="preserve">
+    <value>Curry</value>
+  </data>
+  <data name="_168" xml:space="preserve">
+    <value>calendar</value>
+  </data>
+  <data name="_169" xml:space="preserve">
+    <value>River</value>
+  </data>
+  <data name="_170" xml:space="preserve">
+    <value>Cute</value>
+  </data>
+  <data name="_171" xml:space="preserve">
+    <value>Chinese character</value>
+  </data>
+  <data name="_172" xml:space="preserve">
+    <value>tree, wood</value>
+  </data>
+  <data name="_173" xml:space="preserve">
+    <value>yellow</value>
+  </data>
+  <data name="_174" xml:space="preserve">
+    <value>to disappear</value>
+  </data>
+  <data name="_175" xml:space="preserve">
+    <value>to hear, to listen to, to ask</value>
+  </data>
+  <data name="_176" xml:space="preserve">
+    <value>North</value>
+  </data>
+  <data name="_177" xml:space="preserve">
+    <value>Guitar</value>
+  </data>
+  <data name="_178" xml:space="preserve">
+    <value>Dirty</value>
+  </data>
+  <data name="_179" xml:space="preserve">
+    <value>coffee lounge</value>
+  </data>
+  <data name="_180" xml:space="preserve">
+    <value>postage stamp</value>
+  </data>
+  <data name="_181" xml:space="preserve">
+    <value>Ticket</value>
+  </data>
+  <data name="_182" xml:space="preserve">
+    <value>Yesterday</value>
+  </data>
+  <data name="_183" xml:space="preserve">
+    <value>Nine</value>
+  </data>
+  <data name="_184" xml:space="preserve">
+    <value>Beef</value>
+  </data>
+  <data name="_185" xml:space="preserve">
+    <value>Milk</value>
+  </data>
+  <data name="_186" xml:space="preserve">
+    <value>Today</value>
+  </data>
+  <data name="_187" xml:space="preserve">
+    <value>Classroom</value>
+  </data>
+  <data name="_188" xml:space="preserve">
+    <value>(humble) siblings</value>
+  </data>
+  <data name="_189" xml:space="preserve">
+    <value>last year</value>
+  </data>
+  <data name="_190" xml:space="preserve">
+    <value>Hate</value>
+  </data>
+  <data name="_191" xml:space="preserve">
+    <value>to cut</value>
+  </data>
+  <data name="_192" xml:space="preserve">
+    <value>to put on from the shoulders down</value>
+  </data>
+  <data name="_193" xml:space="preserve">
+    <value>pretty, clean</value>
+  </data>
+  <data name="_194" xml:space="preserve">
+    <value>Kilogram</value>
+  </data>
+  <data name="_195" xml:space="preserve">
+    <value>Kilometer</value>
+  </data>
+  <data name="_196" xml:space="preserve">
+    <value>Bank</value>
+  </data>
+  <data name="_197" xml:space="preserve">
+    <value>Friday</value>
+  </data>
+  <data name="_198" xml:space="preserve">
+    <value>medicine</value>
+  </data>
+  <data name="_199" xml:space="preserve">
+    <value>Please</value>
+  </data>
+  <data name="_200" xml:space="preserve">
+    <value>Fruit</value>
+  </data>
+  <data name="_201" xml:space="preserve">
+    <value>mouth, opening</value>
+  </data>
+  <data name="_202" xml:space="preserve">
+    <value>Shoes</value>
+  </data>
+  <data name="_203" xml:space="preserve">
+    <value>Socks</value>
+  </data>
+  <data name="_204" xml:space="preserve">
+    <value>Country</value>
+  </data>
+  <data name="_205" xml:space="preserve">
+    <value>cloudy weather</value>
+  </data>
+  <data name="_206" xml:space="preserve">
+    <value>to become cloudy, to become dim</value>
+  </data>
+  <data name="_207" xml:space="preserve">
+    <value>Gloomy</value>
+  </data>
+  <data name="_208" xml:space="preserve">
+    <value>Class</value>
+  </data>
+  <data name="_209" xml:space="preserve">
+    <value>Gram</value>
+  </data>
+  <data name="_210" xml:space="preserve">
+    <value>to come</value>
+  </data>
+  <data name="_211" xml:space="preserve">
+    <value>car, vehicle</value>
+  </data>
+  <data name="_212" xml:space="preserve">
+    <value>Black</value>
+  </data>
+  <data name="_213" xml:space="preserve">
+    <value>black</value>
+  </data>
+  <data name="_214" xml:space="preserve">
+    <value>policeman</value>
+  </data>
+  <data name="_215" xml:space="preserve">
+    <value>this morning</value>
+  </data>
+  <data name="_216" xml:space="preserve">
+    <value>to erase, to turn off power</value>
+  </data>
+  <data name="_217" xml:space="preserve">
+    <value>splendid, enough</value>
+  </data>
+  <data name="_218" xml:space="preserve">
+    <value>Marriage</value>
+  </data>
+  <data name="_219" xml:space="preserve">
+    <value>Monday</value>
+  </data>
+  <data name="_220" xml:space="preserve">
+    <value>entry hall</value>
+  </data>
+  <data name="_221" xml:space="preserve">
+    <value>health, vitality</value>
+  </data>
+  <data name="_222" xml:space="preserve">
+    <value>Five</value>
+  </data>
+  <data name="_223" xml:space="preserve">
+    <value>Park</value>
+  </data>
+  <data name="_224" xml:space="preserve">
+    <value>intersection</value>
+  </data>
+  <data name="_225" xml:space="preserve">
+    <value>black tea</value>
+  </data>
+  <data name="_226" xml:space="preserve">
+    <value>police box</value>
+  </data>
+  <data name="_227" xml:space="preserve">
+    <value>Voice</value>
+  </data>
+  <data name="_228" xml:space="preserve">
+    <value>coat, tennis court</value>
+  </data>
+  <data name="_229" xml:space="preserve">
+    <value>Coffee</value>
+  </data>
+  <data name="_230" xml:space="preserve">
+    <value>Here</value>
+  </data>
+  <data name="_231" xml:space="preserve">
+    <value>afternoon</value>
+  </data>
+  <data name="_232" xml:space="preserve">
+    <value>nine days, ninth day</value>
+  </data>
+  <data name="_233" xml:space="preserve">
+    <value>Nine</value>
+  </data>
+  <data name="_234" xml:space="preserve">
+    <value>morning</value>
+  </data>
+  <data name="_235" xml:space="preserve">
+    <value>to answer</value>
+  </data>
+  <data name="_236" xml:space="preserve">
+    <value>this person or way</value>
+  </data>
+  <data name="_237" xml:space="preserve">
+    <value>this person or way</value>
+  </data>
+  <data name="_238" xml:space="preserve">
+    <value>a glass</value>
+  </data>
+  <data name="_239" xml:space="preserve">
+    <value>this year</value>
+  </data>
+  <data name="_240" xml:space="preserve">
+    <value>word, language</value>
+  </data>
+  <data name="_241" xml:space="preserve">
+    <value>Child</value>
+  </data>
+  <data name="_242" xml:space="preserve">
+    <value>This</value>
+  </data>
+  <data name="_243" xml:space="preserve">
+    <value>cooked rice, meal</value>
+  </data>
+  <data name="_244" xml:space="preserve">
+    <value>to copy</value>
+  </data>
+  <data name="_245" xml:space="preserve">
+    <value>to be worried</value>
+  </data>
+  <data name="_246" xml:space="preserve">
+    <value>This</value>
+  </data>
+  <data name="_247" xml:space="preserve">
+    <value>this month</value>
+  </data>
+  <data name="_248" xml:space="preserve">
+    <value>this week</value>
+  </data>
+  <data name="_249" xml:space="preserve">
+    <value>Such</value>
+  </data>
+  <data name="_250" xml:space="preserve">
+    <value>this evening</value>
+  </data>
+  <data name="_251" xml:space="preserve">
+    <value>well…</value>
+  </data>
+  <data name="_252" xml:space="preserve">
+    <value>Wallet</value>
+  </data>
+  <data name="_253" xml:space="preserve">
+    <value>Fish</value>
+  </data>
+  <data name="_254" xml:space="preserve">
+    <value>the future, previous</value>
+  </data>
+  <data name="_255" xml:space="preserve">
+    <value>to bloom</value>
+  </data>
+  <data name="_256" xml:space="preserve">
+    <value>composition, writing</value>
+  </data>
+  <data name="_257" xml:space="preserve">
+    <value>to stretch out hands, to raise an umbrella</value>
+  </data>
+  <data name="_258" xml:space="preserve">
+    <value>Magazine</value>
+  </data>
+  <data name="_259" xml:space="preserve">
+    <value>Sugar</value>
+  </data>
+  <data name="_260" xml:space="preserve">
+    <value>Cold</value>
+  </data>
+  <data name="_261" xml:space="preserve">
+    <value>year after next</value>
+  </data>
+  <data name="_262" xml:space="preserve">
+    <value>Three</value>
+  </data>
+  <data name="_263" xml:space="preserve">
+    <value>to stroll</value>
+  </data>
+  <data name="_264" xml:space="preserve">
+    <value>Four</value>
+  </data>
+  <data name="_265" xml:space="preserve">
+    <value>Salt</value>
+  </data>
+  <data name="_266" xml:space="preserve">
+    <value>However</value>
+  </data>
+  <data name="_267" xml:space="preserve">
+    <value>Time</value>
+  </data>
+  <data name="_268" xml:space="preserve">
+    <value>Job</value>
+  </data>
+  <data name="_269" xml:space="preserve">
+    <value>Dictionary</value>
+  </data>
+  <data name="_270" xml:space="preserve">
+    <value>Quiet</value>
+  </data>
+  <data name="_271" xml:space="preserve">
+    <value>Below</value>
+  </data>
+  <data name="_272" xml:space="preserve">
+    <value>Seven</value>
+  </data>
+  <data name="_273" xml:space="preserve">
+    <value>Question</value>
+  </data>
+  <data name="_274" xml:space="preserve">
+    <value>Bicycle</value>
+  </data>
+  <data name="_275" xml:space="preserve">
+    <value>Automobile</value>
+  </data>
+  <data name="_276" xml:space="preserve">
+    <value>to die</value>
+  </data>
+  <data name="_277" xml:space="preserve">
+    <value>Dictionary</value>
+  </data>
+  <data name="_278" xml:space="preserve">
+    <value>Oneself</value>
+  </data>
+  <data name="_279" xml:space="preserve">
+    <value>to close, to be closed</value>
+  </data>
+  <data name="_280" xml:space="preserve">
+    <value>to close something</value>
+  </data>
+  <data name="_281" xml:space="preserve">
+    <value>to tie</value>
+  </data>
+  <data name="_282" xml:space="preserve">
+    <value>well then…</value>
+  </data>
+  <data name="_283" xml:space="preserve">
+    <value>photograph</value>
+  </data>
+  <data name="_284" xml:space="preserve">
+    <value>Shirt</value>
+  </data>
+  <data name="_285" xml:space="preserve">
+    <value>Shower</value>
+  </data>
+  <data name="_286" xml:space="preserve">
+    <value>Ten</value>
+  </data>
+  <data name="_287" xml:space="preserve">
+    <value>lesson, class work</value>
+  </data>
+  <data name="_288" xml:space="preserve">
+    <value>homework</value>
+  </data>
+  <data name="_289" xml:space="preserve">
+    <value>Skillful</value>
+  </data>
+  <data name="_290" xml:space="preserve">
+    <value>strong, durable</value>
+  </data>
+  <data name="_291" xml:space="preserve">
+    <value>soy sauce</value>
+  </data>
+  <data name="_292" xml:space="preserve">
+    <value>dining hall</value>
+  </data>
+  <data name="_293" xml:space="preserve">
+    <value>to know</value>
+  </data>
+  <data name="_294" xml:space="preserve">
+    <value>White</value>
+  </data>
+  <data name="_295" xml:space="preserve">
+    <value>newspaper</value>
+  </data>
+  <data name="_296" xml:space="preserve">
+    <value>Wednesday</value>
+  </data>
+  <data name="_297" xml:space="preserve">
+    <value>to smoke, to suck</value>
+  </data>
+  <data name="_298" xml:space="preserve">
+    <value>Skirt</value>
+  </data>
+  <data name="_299" xml:space="preserve">
+    <value>Likeable</value>
+  </data>
+  <data name="_300" xml:space="preserve">
+    <value>a few</value>
+  </data>
+  <data name="_301" xml:space="preserve">
+    <value>Instantly</value>
+  </data>
+  <data name="_302" xml:space="preserve">
+    <value>Few</value>
+  </data>
+  <data name="_303" xml:space="preserve">
+    <value>Refreshing</value>
+  </data>
+  <data name="_304" xml:space="preserve">
+    <value>Heater</value>
+  </data>
+  <data name="_305" xml:space="preserve">
+    <value>Spoon</value>
+  </data>
+  <data name="_306" xml:space="preserve">
+    <value>Sport</value>
+  </data>
+  <data name="_307" xml:space="preserve">
+    <value>Trousers</value>
+  </data>
+  <data name="_308" xml:space="preserve">
+    <value>to live in</value>
+  </data>
+  <data name="_309" xml:space="preserve">
+    <value>Slippers</value>
+  </data>
+  <data name="_310" xml:space="preserve">
+    <value>to do</value>
+  </data>
+  <data name="_311" xml:space="preserve">
+    <value>to sit</value>
+  </data>
+  <data name="_312" xml:space="preserve">
+    <value>height, stature</value>
+  </data>
+  <data name="_313" xml:space="preserve">
+    <value>Pupil</value>
+  </data>
+  <data name="_314" xml:space="preserve">
+    <value>sweater, jumper</value>
+  </data>
+  <data name="_315" xml:space="preserve">
+    <value>Economy</value>
+  </data>
+  <data name="_316" xml:space="preserve">
+    <value>business suit</value>
+  </data>
+  <data name="_317" xml:space="preserve">
+    <value>Narrow</value>
+  </data>
+  <data name="_318" xml:space="preserve">
+    <value>Zero</value>
+  </data>
+  <data name="_319" xml:space="preserve">
+    <value>Thousand</value>
+  </data>
+  <data name="_320" xml:space="preserve">
+    <value>last month</value>
+  </data>
+  <data name="_321" xml:space="preserve">
+    <value>last week</value>
+  </data>
+  <data name="_322" xml:space="preserve">
+    <value>teacher, doctor</value>
+  </data>
+  <data name="_323" xml:space="preserve">
+    <value>Washing</value>
+  </data>
+  <data name="_324" xml:space="preserve">
+    <value>All</value>
+  </data>
+  <data name="_325" xml:space="preserve">
+    <value>to clean, to sweep</value>
+  </data>
+  <data name="_326" xml:space="preserve">
+    <value>And</value>
+  </data>
+  <data name="_327" xml:space="preserve">
+    <value>that place</value>
+  </data>
+  <data name="_328" xml:space="preserve">
+    <value>over there</value>
+  </data>
+  <data name="_329" xml:space="preserve">
+    <value>over there</value>
+  </data>
+  <data name="_330" xml:space="preserve">
+    <value>Outside</value>
+  </data>
+  <data name="_331" xml:space="preserve">
+    <value>That</value>
+  </data>
+  <data name="_332" xml:space="preserve">
+    <value>near, beside</value>
+  </data>
+  <data name="_333" xml:space="preserve">
+    <value>Sky</value>
+  </data>
+  <data name="_334" xml:space="preserve">
+    <value>that</value>
+  </data>
+  <data name="_335" xml:space="preserve">
+    <value>after that</value>
+  </data>
+  <data name="_336" xml:space="preserve">
+    <value>in that situation</value>
+  </data>
+  <data name="_337" xml:space="preserve">
+    <value>university</value>
+  </data>
+  <data name="_338" xml:space="preserve">
+    <value>embassy</value>
+  </data>
+  <data name="_339" xml:space="preserve">
+    <value>all right</value>
+  </data>
+  <data name="_340" xml:space="preserve">
+    <value>to be very likeable</value>
+  </data>
+  <data name="_341" xml:space="preserve">
+    <value>important</value>
+  </data>
+  <data name="_342" xml:space="preserve">
+    <value>kitchen</value>
+  </data>
+  <data name="_343" xml:space="preserve">
+    <value>very</value>
+  </data>
+  <data name="_344" xml:space="preserve">
+    <value>difficult situation</value>
+  </data>
+  <data name="_345" xml:space="preserve">
+    <value>tall, expensive</value>
+  </data>
+  <data name="_346" xml:space="preserve">
+    <value>many</value>
+  </data>
+  <data name="_347" xml:space="preserve">
+    <value>taxi</value>
+  </data>
+  <data name="_348" xml:space="preserve">
+    <value>to put out</value>
+  </data>
+  <data name="_349" xml:space="preserve">
+    <value>to stand</value>
+  </data>
+  <data name="_350" xml:space="preserve">
+    <value>length,height</value>
+  </data>
+  <data name="_351" xml:space="preserve">
+    <value>building</value>
+  </data>
+  <data name="_352" xml:space="preserve">
+    <value>enjoyable</value>
+  </data>
+  <data name="_353" xml:space="preserve">
+    <value>to ask</value>
+  </data>
+  <data name="_354" xml:space="preserve">
+    <value>tobacco,cigarettes</value>
+  </data>
+  <data name="_355" xml:space="preserve">
+    <value>probably</value>
+  </data>
+  <data name="_356" xml:space="preserve">
+    <value>food</value>
+  </data>
+  <data name="_357" xml:space="preserve">
+    <value>to eat</value>
+  </data>
+  <data name="_358" xml:space="preserve">
+    <value>egg</value>
+  </data>
+  <data name="_359" xml:space="preserve">
+    <value>who</value>
+  </data>
+  <data name="_360" xml:space="preserve">
+    <value>somebody</value>
+  </data>
+  <data name="_361" xml:space="preserve">
+    <value>birthday</value>
+  </data>
+  <data name="_362" xml:space="preserve">
+    <value>gradually</value>
+  </data>
+  <data name="_363" xml:space="preserve">
+    <value>little</value>
+  </data>
+  <data name="_364" xml:space="preserve">
+    <value>little</value>
+  </data>
+  <data name="_365" xml:space="preserve">
+    <value>near</value>
+  </data>
+  <data name="_366" xml:space="preserve">
+    <value>to differ</value>
+  </data>
+  <data name="_367" xml:space="preserve">
+    <value>near</value>
+  </data>
+  <data name="_368" xml:space="preserve">
+    <value>underground train</value>
+  </data>
+  <data name="_369" xml:space="preserve">
+    <value>map</value>
+  </data>
+  <data name="_370" xml:space="preserve">
+    <value>brown</value>
+  </data>
+  <data name="_371" xml:space="preserve">
+    <value>rice bowl</value>
+  </data>
+  <data name="_372" xml:space="preserve">
+    <value>exactly</value>
+  </data>
+  <data name="_373" xml:space="preserve">
+    <value>somewhat</value>
+  </data>
+  <data name="_374" xml:space="preserve">
+    <value>first of month</value>
+  </data>
+  <data name="_375" xml:space="preserve">
+    <value>to use</value>
+  </data>
+  <data name="_376" xml:space="preserve">
+    <value>to get tired</value>
+  </data>
+  <data name="_377" xml:space="preserve">
+    <value>next</value>
+  </data>
+  <data name="_378" xml:space="preserve">
+    <value>to arrive at</value>
+  </data>
+  <data name="_379" xml:space="preserve">
+    <value>desk</value>
+  </data>
+  <data name="_380" xml:space="preserve">
+    <value>to make</value>
+  </data>
+  <data name="_381" xml:space="preserve">
+    <value>to turn on</value>
+  </data>
+  <data name="_382" xml:space="preserve">
+    <value>to work for someone</value>
+  </data>
+  <data name="_383" xml:space="preserve">
+    <value>boring</value>
+  </data>
+  <data name="_384" xml:space="preserve">
+    <value>cold to the touch</value>
+  </data>
+  <data name="_385" xml:space="preserve">
+    <value>powerful</value>
+  </data>
+  <data name="_386" xml:space="preserve">
+    <value>hand</value>
+  </data>
+  <data name="_387" xml:space="preserve">
+    <value>tape</value>
+  </data>
+  <data name="_388" xml:space="preserve">
+    <value>table</value>
+  </data>
+  <data name="_389" xml:space="preserve">
+    <value>tape recorder</value>
+  </data>
+  <data name="_390" xml:space="preserve">
+    <value>to go out</value>
+  </data>
+  <data name="_391" xml:space="preserve">
+    <value>letter</value>
+  </data>
+  <data name="_392" xml:space="preserve">
+    <value>to be able to</value>
+  </data>
+  <data name="_393" xml:space="preserve">
+    <value>exit</value>
+  </data>
+  <data name="_394" xml:space="preserve">
+    <value>test</value>
+  </data>
+  <data name="_395" xml:space="preserve">
+    <value>with that...</value>
+  </data>
+  <data name="_396" xml:space="preserve">
+    <value>department store</value>
+  </data>
+  <data name="_397" xml:space="preserve">
+    <value>but</value>
+  </data>
+  <data name="_398" xml:space="preserve">
+    <value>to appear,to leave</value>
+  </data>
+  <data name="_399" xml:space="preserve">
+    <value>television</value>
+  </data>
+  <data name="_400" xml:space="preserve">
+    <value>weather</value>
+  </data>
+  <data name="_401" xml:space="preserve">
+    <value>electricity,electric light</value>
+  </data>
+  <data name="_402" xml:space="preserve">
+    <value>electric train</value>
+  </data>
+  <data name="_403" xml:space="preserve">
+    <value>telephone</value>
+  </data>
+  <data name="_404" xml:space="preserve">
+    <value>Japanese style door</value>
+  </data>
+  <data name="_405" xml:space="preserve">
+    <value>Western style door</value>
+  </data>
+  <data name="_406" xml:space="preserve">
+    <value>toilet</value>
+  </data>
+  <data name="_407" xml:space="preserve">
+    <value>how,in what way</value>
+  </data>
+  <data name="_408" xml:space="preserve">
+    <value>for what reason</value>
+  </data>
+  <data name="_409" xml:space="preserve">
+    <value>please</value>
+  </data>
+  <data name="_410" xml:space="preserve">
+    <value>animal</value>
+  </data>
+  <data name="_411" xml:space="preserve">
+    <value>thanks</value>
+  </data>
+  <data name="_412" xml:space="preserve">
+    <value>far</value>
+  </data>
+  <data name="_413" xml:space="preserve">
+    <value>ten days,the tenth day</value>
+  </data>
+  <data name="_414" xml:space="preserve">
+    <value>sometimes</value>
+  </data>
+  <data name="_415" xml:space="preserve">
+    <value>watch,clock</value>
+  </data>
+  <data name="_416" xml:space="preserve">
+    <value>where</value>
+  </data>
+  <data name="_417" xml:space="preserve">
+    <value>place</value>
+  </data>
+  <data name="_418" xml:space="preserve">
+    <value>year</value>
+  </data>
+  <data name="_419" xml:space="preserve">
+    <value>library</value>
+  </data>
+  <data name="_420" xml:space="preserve">
+    <value>which of two</value>
+  </data>
+  <data name="_421" xml:space="preserve">
+    <value>which</value>
+  </data>
+  <data name="_422" xml:space="preserve">
+    <value>very</value>
+  </data>
+  <data name="_423" xml:space="preserve">
+    <value>who</value>
+  </data>
+  <data name="_424" xml:space="preserve">
+    <value>next door to</value>
+  </data>
+  <data name="_425" xml:space="preserve">
+    <value>which</value>
+  </data>
+  <data name="_426" xml:space="preserve">
+    <value>to fly,to hop</value>
+  </data>
+  <data name="_427" xml:space="preserve">
+    <value>to come to a halt</value>
+  </data>
+  <data name="_428" xml:space="preserve">
+    <value>friend</value>
+  </data>
+  <data name="_429" xml:space="preserve">
+    <value>Saturday</value>
+  </data>
+  <data name="_430" xml:space="preserve">
+    <value>bird</value>
+  </data>
+  <data name="_431" xml:space="preserve">
+    <value>chicken meat</value>
+  </data>
+  <data name="_432" xml:space="preserve">
+    <value>to take something</value>
+  </data>
+  <data name="_433" xml:space="preserve">
+    <value>to take a photo or record a film</value>
+  </data>
+  <data name="_434" xml:space="preserve">
+    <value>which (of three or more)</value>
+  </data>
+  <data name="_435" xml:space="preserve">
+    <value>knife</value>
+  </data>
+  <data name="_436" xml:space="preserve">
+    <value>middle</value>
+  </data>
+  <data name="_437" xml:space="preserve">
+    <value>long</value>
+  </data>
+  <data name="_438" xml:space="preserve">
+    <value>animal noise. to chirp, roar or croak etc.</value>
+  </data>
+  <data name="_439" xml:space="preserve">
+    <value>to lose something</value>
+  </data>
+  <data name="_440" xml:space="preserve">
+    <value>why</value>
+  </data>
+  <data name="_441" xml:space="preserve">
+    <value>summer</value>
+  </data>
+  <data name="_442" xml:space="preserve">
+    <value>summer holiday</value>
+  </data>
+  <data name="_443" xml:space="preserve">
+    <value>et cetera</value>
+  </data>
+  <data name="_444" xml:space="preserve">
+    <value>seven</value>
+  </data>
+  <data name="_445" xml:space="preserve">
+    <value>seven days,the seventh day</value>
+  </data>
+  <data name="_446" xml:space="preserve">
+    <value>name</value>
+  </data>
+  <data name="_447" xml:space="preserve">
+    <value>to learn</value>
+  </data>
+  <data name="_448" xml:space="preserve">
+    <value>to line up,to stand in a line</value>
+  </data>
+  <data name="_449" xml:space="preserve">
+    <value>to line up,to set up</value>
+  </data>
+  <data name="_450" xml:space="preserve">
+    <value>to become</value>
+  </data>
+  <data name="_451" xml:space="preserve">
+    <value>what</value>
+  </data>
+  <data name="_452" xml:space="preserve">
+    <value>two</value>
+  </data>
+  <data name="_453" xml:space="preserve">
+    <value>bustling,busy</value>
+  </data>
+  <data name="_454" xml:space="preserve">
+    <value>meat</value>
+  </data>
+  <data name="_455" xml:space="preserve">
+    <value>west</value>
+  </data>
+  <data name="_456" xml:space="preserve">
+    <value>Sunday</value>
+  </data>
+  <data name="_457" xml:space="preserve">
+    <value>luggage</value>
+  </data>
+  <data name="_458" xml:space="preserve">
+    <value>news</value>
+  </data>
+  <data name="_459" xml:space="preserve">
+    <value>garden</value>
+  </data>
+  <data name="_460" xml:space="preserve">
+    <value>to take off clothes</value>
+  </data>
+  <data name="_461" xml:space="preserve">
+    <value>luke warm</value>
+  </data>
+  <data name="_462" xml:space="preserve">
+    <value>tie,necktie</value>
+  </data>
+  <data name="_463" xml:space="preserve">
+    <value>cat</value>
+  </data>
+  <data name="_464" xml:space="preserve">
+    <value>to go to bed,to sleep</value>
+  </data>
+  <data name="_465" xml:space="preserve">
+    <value>notebook,exercise book</value>
+  </data>
+  <data name="_466" xml:space="preserve">
+    <value>to climb</value>
+  </data>
+  <data name="_467" xml:space="preserve">
+    <value>a drink</value>
+  </data>
+  <data name="_468" xml:space="preserve">
+    <value>to drink</value>
+  </data>
+  <data name="_469" xml:space="preserve">
+    <value>to get on,to ride</value>
+  </data>
+  <data name="_470" xml:space="preserve">
+    <value>tooth</value>
+  </data>
+  <data name="_471" xml:space="preserve">
+    <value>party</value>
+  </data>
+  <data name="_472" xml:space="preserve">
+    <value>yes</value>
+  </data>
+  <data name="_473" xml:space="preserve">
+    <value>ashtray</value>
+  </data>
+  <data name="_474" xml:space="preserve">
+    <value>to enter,to contain</value>
+  </data>
+  <data name="_475" xml:space="preserve">
+    <value>postcard</value>
+  </data>
+  <data name="_476" xml:space="preserve">
+    <value>to wear,to put on trousers</value>
+  </data>
+  <data name="_477" xml:space="preserve">
+    <value>box</value>
+  </data>
+  <data name="_478" xml:space="preserve">
+    <value>bridge</value>
+  </data>
+  <data name="_479" xml:space="preserve">
+    <value>chopsticks</value>
+  </data>
+  <data name="_480" xml:space="preserve">
+    <value>to begin</value>
+  </data>
+  <data name="_481" xml:space="preserve">
+    <value>beginning</value>
+  </data>
+  <data name="_482" xml:space="preserve">
+    <value>for the first time</value>
+  </data>
+  <data name="_483" xml:space="preserve">
+    <value>to run</value>
+  </data>
+  <data name="_484" xml:space="preserve">
+    <value>bus</value>
+  </data>
+  <data name="_485" xml:space="preserve">
+    <value>butter</value>
+  </data>
+  <data name="_486" xml:space="preserve">
+    <value>20 years old,20th year</value>
+  </data>
+  <data name="_487" xml:space="preserve">
+    <value>to work</value>
+  </data>
+  <data name="_488" xml:space="preserve">
+    <value>eight</value>
+  </data>
+  <data name="_489" xml:space="preserve">
+    <value>twenty days,twentieth</value>
+  </data>
+  <data name="_490" xml:space="preserve">
+    <value>flower</value>
+  </data>
+  <data name="_491" xml:space="preserve">
+    <value>nose</value>
+  </data>
+  <data name="_492" xml:space="preserve">
+    <value>talk,story</value>
+  </data>
+  <data name="_493" xml:space="preserve">
+    <value>to speak</value>
+  </data>
+  <data name="_494" xml:space="preserve">
+    <value>early</value>
+  </data>
+  <data name="_495" xml:space="preserve">
+    <value>quick</value>
+  </data>
+  <data name="_496" xml:space="preserve">
+    <value>spring</value>
+  </data>
+  <data name="_497" xml:space="preserve">
+    <value>to stick</value>
+  </data>
+  <data name="_498" xml:space="preserve">
+    <value>clear weather</value>
+  </data>
+  <data name="_499" xml:space="preserve">
+    <value>to be sunny</value>
+  </data>
+  <data name="_500" xml:space="preserve">
+    <value>half</value>
+  </data>
+  <data name="_501" xml:space="preserve">
+    <value>evening</value>
+  </data>
+  <data name="_502" xml:space="preserve">
+    <value>bread</value>
+  </data>
+  <data name="_503" xml:space="preserve">
+    <value>handkerchief</value>
+  </data>
+  <data name="_504" xml:space="preserve">
+    <value>number</value>
+  </data>
+  <data name="_505" xml:space="preserve">
+    <value>evening meal</value>
+  </data>
+  <data name="_506" xml:space="preserve">
+    <value>half minute</value>
+  </data>
+  <data name="_507" xml:space="preserve">
+    <value>east</value>
+  </data>
+  <data name="_508" xml:space="preserve">
+    <value>to pull</value>
+  </data>
+  <data name="_509" xml:space="preserve">
+    <value>to play an instrument with strings, including piano</value>
+  </data>
+  <data name="_510" xml:space="preserve">
+    <value>short,low</value>
+  </data>
+  <data name="_511" xml:space="preserve">
+    <value>aeroplane</value>
+  </data>
+  <data name="_512" xml:space="preserve">
+    <value>left hand side</value>
+  </data>
+  <data name="_513" xml:space="preserve">
+    <value>person</value>
+  </data>
+  <data name="_514" xml:space="preserve">
+    <value>one</value>
+  </data>
+  <data name="_515" xml:space="preserve">
+    <value>one month</value>
+  </data>
+  <data name="_516" xml:space="preserve">
+    <value>one person</value>
+  </data>
+  <data name="_517" xml:space="preserve">
+    <value>free time</value>
+  </data>
+  <data name="_518" xml:space="preserve">
+    <value>hundred</value>
+  </data>
+  <data name="_519" xml:space="preserve">
+    <value>hospital</value>
+  </data>
+  <data name="_520" xml:space="preserve">
+    <value>illness</value>
+  </data>
+  <data name="_521" xml:space="preserve">
+    <value>noon, daytime</value>
+  </data>
+  <data name="_522" xml:space="preserve">
+    <value>midday meal</value>
+  </data>
+  <data name="_523" xml:space="preserve">
+    <value>spacious,wide</value>
+  </data>
+  <data name="_524" xml:space="preserve">
+    <value>roll of film</value>
+  </data>
+  <data name="_525" xml:space="preserve">
+    <value>envelope</value>
+  </data>
+  <data name="_526" xml:space="preserve">
+    <value>swimming pool</value>
+  </data>
+  <data name="_527" xml:space="preserve">
+    <value>fork</value>
+  </data>
+  <data name="_528" xml:space="preserve">
+    <value>to blow</value>
+  </data>
+  <data name="_529" xml:space="preserve">
+    <value>clothes</value>
+  </data>
+  <data name="_530" xml:space="preserve">
+    <value>two</value>
+  </data>
+  <data name="_531" xml:space="preserve">
+    <value>pork</value>
+  </data>
+  <data name="_532" xml:space="preserve">
+    <value>two people</value>
+  </data>
+  <data name="_533" xml:space="preserve">
+    <value>two days, second day of the month</value>
+  </data>
+  <data name="_534" xml:space="preserve">
+    <value>fat</value>
+  </data>
+  <data name="_535" xml:space="preserve">
+    <value>winter</value>
+  </data>
+  <data name="_536" xml:space="preserve">
+    <value>to fall, e.g. rain or snow</value>
+  </data>
+  <data name="_537" xml:space="preserve">
+    <value>old (not used for people)</value>
+  </data>
+  <data name="_538" xml:space="preserve">
+    <value>bath</value>
+  </data>
+  <data name="_539" xml:space="preserve">
+    <value>sentence,text</value>
+  </data>
+  <data name="_540" xml:space="preserve">
+    <value>page</value>
+  </data>
+  <data name="_541" xml:space="preserve">
+    <value>unskillful</value>
+  </data>
+  <data name="_542" xml:space="preserve">
+    <value>bed</value>
+  </data>
+  <data name="_543" xml:space="preserve">
+    <value>pet</value>
+  </data>
+  <data name="_544" xml:space="preserve">
+    <value>room</value>
+  </data>
+  <data name="_545" xml:space="preserve">
+    <value>area</value>
+  </data>
+  <data name="_546" xml:space="preserve">
+    <value>pen</value>
+  </data>
+  <data name="_547" xml:space="preserve">
+    <value>to study</value>
+  </data>
+  <data name="_548" xml:space="preserve">
+    <value>useful, convenient</value>
+  </data>
+  <data name="_549" xml:space="preserve">
+    <value>hat</value>
+  </data>
+  <data name="_550" xml:space="preserve">
+    <value>ball-point pen</value>
+  </data>
+  <data name="_551" xml:space="preserve">
+    <value>other, the rest</value>
+  </data>
+  <data name="_552" xml:space="preserve">
+    <value>pocket</value>
+  </data>
+  <data name="_553" xml:space="preserve">
+    <value>want</value>
+  </data>
+  <data name="_554" xml:space="preserve">
+    <value>post</value>
+  </data>
+  <data name="_555" xml:space="preserve">
+    <value>thin</value>
+  </data>
+  <data name="_556" xml:space="preserve">
+    <value>button</value>
+  </data>
+  <data name="_557" xml:space="preserve">
+    <value>hotel</value>
+  </data>
+  <data name="_558" xml:space="preserve">
+    <value>book</value>
+  </data>
+  <data name="_559" xml:space="preserve">
+    <value>bookshelves</value>
+  </data>
+  <data name="_560" xml:space="preserve">
+    <value>truth</value>
+  </data>
+  <data name="_561" xml:space="preserve">
+    <value>every morning</value>
+  </data>
+  <data name="_562" xml:space="preserve">
+    <value>every month</value>
+  </data>
+  <data name="_563" xml:space="preserve">
+    <value>every week</value>
+  </data>
+  <data name="_564" xml:space="preserve">
+    <value>every day</value>
+  </data>
+  <data name="_565" xml:space="preserve">
+    <value>every year</value>
+  </data>
+  <data name="_566" xml:space="preserve">
+    <value>every night</value>
+  </data>
+  <data name="_567" xml:space="preserve">
+    <value>before</value>
+  </data>
+  <data name="_568" xml:space="preserve">
+    <value>to turn,to bend</value>
+  </data>
+  <data name="_569" xml:space="preserve">
+    <value>unpleasant</value>
+  </data>
+  <data name="_570" xml:space="preserve">
+    <value>again,and</value>
+  </data>
+  <data name="_571" xml:space="preserve">
+    <value>yet,still</value>
+  </data>
+  <data name="_572" xml:space="preserve">
+    <value>town,city</value>
+  </data>
+  <data name="_573" xml:space="preserve">
+    <value>to wait</value>
+  </data>
+  <data name="_574" xml:space="preserve">
+    <value>straight ahead,direct</value>
+  </data>
+  <data name="_575" xml:space="preserve">
+    <value>match</value>
+  </data>
+  <data name="_576" xml:space="preserve">
+    <value>window</value>
+  </data>
+  <data name="_577" xml:space="preserve">
+    <value>round,circular</value>
+  </data>
+  <data name="_578" xml:space="preserve">
+    <value>ten thousand</value>
+  </data>
+  <data name="_579" xml:space="preserve">
+    <value>fountain pen</value>
+  </data>
+  <data name="_580" xml:space="preserve">
+    <value>to brush teeth, to polish</value>
+  </data>
+  <data name="_581" xml:space="preserve">
+    <value>right side</value>
+  </data>
+  <data name="_582" xml:space="preserve">
+    <value>short</value>
+  </data>
+  <data name="_583" xml:space="preserve">
+    <value>water</value>
+  </data>
+  <data name="_584" xml:space="preserve">
+    <value>shop</value>
+  </data>
+  <data name="_585" xml:space="preserve">
+    <value>to show</value>
+  </data>
+  <data name="_586" xml:space="preserve">
+    <value>street</value>
+  </data>
+  <data name="_587" xml:space="preserve">
+    <value>three days, third day of the month</value>
+  </data>
+  <data name="_588" xml:space="preserve">
+    <value>three</value>
+  </data>
+  <data name="_589" xml:space="preserve">
+    <value>green</value>
+  </data>
+  <data name="_590" xml:space="preserve">
+    <value>everyone</value>
+  </data>
+  <data name="_591" xml:space="preserve">
+    <value>south</value>
+  </data>
+  <data name="_592" xml:space="preserve">
+    <value>ear</value>
+  </data>
+  <data name="_593" xml:space="preserve">
+    <value>to see, to watch</value>
+  </data>
+  <data name="_594" xml:space="preserve">
+    <value>everyone</value>
+  </data>
+  <data name="_595" xml:space="preserve">
+    <value>six days, sixth day of the month</value>
+  </data>
+  <data name="_596" xml:space="preserve">
+    <value>over there</value>
+  </data>
+  <data name="_597" xml:space="preserve">
+    <value>difficult</value>
+  </data>
+  <data name="_598" xml:space="preserve">
+    <value>six</value>
+  </data>
+  <data name="_599" xml:space="preserve">
+    <value>village</value>
+  </data>
+  <data name="_600" xml:space="preserve">
+    <value>eye</value>
+  </data>
+  <data name="_601" xml:space="preserve">
+    <value>metre</value>
+  </data>
+  <data name="_602" xml:space="preserve">
+    <value>glasses</value>
+  </data>
+  <data name="_603" xml:space="preserve">
+    <value>already</value>
+  </data>
+  <data name="_604" xml:space="preserve">
+    <value>again</value>
+  </data>
+  <data name="_605" xml:space="preserve">
+    <value>Thursday</value>
+  </data>
+  <data name="_606" xml:space="preserve">
+    <value>to hold</value>
+  </data>
+  <data name="_607" xml:space="preserve">
+    <value>more</value>
+  </data>
+  <data name="_608" xml:space="preserve">
+    <value>thing</value>
+  </data>
+  <data name="_609" xml:space="preserve">
+    <value>gate</value>
+  </data>
+  <data name="_610" xml:space="preserve">
+    <value>problem</value>
+  </data>
+  <data name="_611" xml:space="preserve">
+    <value>greengrocer</value>
+  </data>
+  <data name="_612" xml:space="preserve">
+    <value>vegetable</value>
+  </data>
+  <data name="_613" xml:space="preserve">
+    <value>easy, simple</value>
+  </data>
+  <data name="_614" xml:space="preserve">
+    <value>cheap</value>
+  </data>
+  <data name="_615" xml:space="preserve">
+    <value>rest,holiday</value>
+  </data>
+  <data name="_616" xml:space="preserve">
+    <value>to rest</value>
+  </data>
+  <data name="_617" xml:space="preserve">
+    <value>eight</value>
+  </data>
+  <data name="_618" xml:space="preserve">
+    <value>mountain</value>
+  </data>
+  <data name="_619" xml:space="preserve">
+    <value>to do</value>
+  </data>
+  <data name="_620" xml:space="preserve">
+    <value>evening</value>
+  </data>
+  <data name="_621" xml:space="preserve">
+    <value>dinner</value>
+  </data>
+  <data name="_622" xml:space="preserve">
+    <value>post office</value>
+  </data>
+  <data name="_623" xml:space="preserve">
+    <value>last night</value>
+  </data>
+  <data name="_624" xml:space="preserve">
+    <value>famous</value>
+  </data>
+  <data name="_625" xml:space="preserve">
+    <value>snow</value>
+  </data>
+  <data name="_626" xml:space="preserve">
+    <value>to go</value>
+  </data>
+  <data name="_627" xml:space="preserve">
+    <value>slowly</value>
+  </data>
+  <data name="_628" xml:space="preserve">
+    <value>eight days, eighth day of the month</value>
+  </data>
+  <data name="_629" xml:space="preserve">
+    <value>western-style clothes</value>
+  </data>
+  <data name="_630" xml:space="preserve">
+    <value>often, well</value>
+  </data>
+  <data name="_631" xml:space="preserve">
+    <value>beside,side,width</value>
+  </data>
+  <data name="_632" xml:space="preserve">
+    <value>four days, fouth day of the month</value>
+  </data>
+  <data name="_633" xml:space="preserve">
+    <value>four</value>
+  </data>
+  <data name="_634" xml:space="preserve">
+    <value>to call out,to invite</value>
+  </data>
+  <data name="_635" xml:space="preserve">
+    <value>to read</value>
+  </data>
+  <data name="_636" xml:space="preserve">
+    <value>evening,night</value>
+  </data>
+  <data name="_637" xml:space="preserve">
+    <value>weak</value>
+  </data>
+  <data name="_638" xml:space="preserve">
+    <value>next month</value>
+  </data>
+  <data name="_639" xml:space="preserve">
+    <value>next week</value>
+  </data>
+  <data name="_640" xml:space="preserve">
+    <value>next year</value>
+  </data>
+  <data name="_641" xml:space="preserve">
+    <value>radio</value>
+  </data>
+  <data name="_642" xml:space="preserve">
+    <value>radio cassette player</value>
+  </data>
+  <data name="_643" xml:space="preserve">
+    <value>splendid</value>
+  </data>
+  <data name="_644" xml:space="preserve">
+    <value>overseas student</value>
+  </data>
+  <data name="_645" xml:space="preserve">
+    <value>both parents</value>
+  </data>
+  <data name="_646" xml:space="preserve">
+    <value>cuisine</value>
+  </data>
+  <data name="_647" xml:space="preserve">
+    <value>travel</value>
+  </data>
+  <data name="_648" xml:space="preserve">
+    <value>zero</value>
+  </data>
+  <data name="_649" xml:space="preserve">
+    <value>refrigerator</value>
+  </data>
+  <data name="_650" xml:space="preserve">
+    <value>record</value>
+  </data>
+  <data name="_651" xml:space="preserve">
+    <value>restaurant</value>
+  </data>
+  <data name="_652" xml:space="preserve">
+    <value>to practice</value>
+  </data>
+  <data name="_653" xml:space="preserve">
+    <value>corridor</value>
+  </data>
+  <data name="_654" xml:space="preserve">
+    <value>six</value>
+  </data>
+  <data name="_655" xml:space="preserve">
+    <value>business shirt</value>
+  </data>
+  <data name="_656" xml:space="preserve">
+    <value>young</value>
+  </data>
+  <data name="_657" xml:space="preserve">
+    <value>to be understood</value>
+  </data>
+  <data name="_658" xml:space="preserve">
+    <value>to forget</value>
+  </data>
+  <data name="_659" xml:space="preserve">
+    <value>(humble) I,myself</value>
+  </data>
+  <data name="_660" xml:space="preserve">
+    <value>I,myself</value>
+  </data>
+  <data name="_661" xml:space="preserve">
+    <value>to hand over</value>
+  </data>
+  <data name="_662" xml:space="preserve">
+    <value>to go across</value>
+  </data>
+  <data name="_663" xml:space="preserve">
+    <value>bad</value>
   </data>
 </root>
