@@ -47,4 +47,9 @@ public class Wordbook(Word[] words)
 
         return new Wordbook([.. wordList]);
     }
+
+    public static Wordbook Empty()
+    {
+        return new Wordbook([]);
+    }
 }

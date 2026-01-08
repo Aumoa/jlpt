@@ -1,31 +1,67 @@
 ﻿@page "/"
+@page "/{Class}"
 @using JLPTWordbook.Services
 @using JLPTWordbook.Shared
 @inject Worksheet Sheet;
 
-@if (m_Book != null)
-{
-    <p class="class-name">N5</p>
-    <button onclick="@Refresh">R</button>
-    <div class="component-view">
-        <ruby>
-            @foreach (var component in m_Book.Words[m_Current].Components)
-            {
-                @component.Text<rt>@component.Reading</rt>
-            }
-        </ruby>
+<div class="tab">
+    <ul class="tabnav">
+        @foreach (var name in Enum.GetNames<Worksheet.Class>())
+        {
+            <li class="@(IsActiveTab(name) ? "active" : "")">
+                <a href="@name.ToLower()">@name</a>
+            </li>
+        }
+    </ul>
+    <div class="tabcontent">
+        @if (m_Book != null && m_Current != -1)
+        {
+            <button onclick="@Refresh">R</button>
+            <div class="component-view">
+                <ruby>
+                    @foreach (var component in m_Book.Words[m_Current].Components)
+                    {
+                        @component.Text
+                
+                        <rt>@component.Reading</rt>
+                    }
+                </ruby>
+            </div>
+            <p class="localizer-view">@m_Book.Words[m_Current].Localizer()</p>
+        }
     </div>
-    <p class="localizer-view">@m_Book.Words[m_Current].Localizer()</p>
-}
+</div>
 
 @code {
-    private Wordbook? m_Book;
-    private int m_Current;
+    [Parameter]
+    public string? Class { get; set; }
 
-    protected override async Task OnInitializedAsync()
+    private Wordbook? m_Book;
+    private int m_Current = -1;
+    private Worksheet.Class m_Class;
+
+    protected override void OnParametersSet()
     {
-        m_Book = Sheet[Worksheet.Class.N5];
-        m_Current = Random.Shared.Next() % m_Book.Words.Count;
+        if (string.IsNullOrEmpty(Class) || Enum.TryParse<Worksheet.Class>(Class, true, out var klass) == false)
+        {
+            klass = Worksheet.Class.N5;
+        }
+
+        m_Book = Sheet[klass];
+        m_Class = klass;
+        if (m_Book == null || m_Book.Words.Count == 0)
+        {
+            m_Current = -1;
+        }
+        else
+        {
+            m_Current = Random.Shared.Next() % m_Book.Words.Count;
+        }
+    }
+
+    private bool IsActiveTab(string tabName)
+    {
+        return string.Equals(tabName, m_Class.ToString(), StringComparison.OrdinalIgnoreCase);
     }
 
     private void Refresh()

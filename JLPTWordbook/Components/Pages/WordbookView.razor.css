@@ -14,3 +14,68 @@
 .localizer-view {
     font-size: 3rem;
 }
+
+.tab {
+}
+
+    .tab div, ul, li {
+        margin: 0;
+        padding: 0;
+    }
+
+    .tab ul, li {
+        list-style: none;
+    }
+
+    .tab .tabnav {
+        font-size: 0;
+        border-bottom: 2px solid #ddd;
+        background-color: #f5f5f5;
+    }
+
+        .tab .tabnav li {
+            display: inline-block;
+            height: 46px;
+            text-align: center;
+            border-right: 1px solid #ccc;
+        }
+
+            .tab .tabnav li:first-child {
+                border-left: 1px solid #ccc;
+            }
+
+            .tab .tabnav li.active {
+                background-color: #ffffff;
+                border-bottom: 3px solid #007acc;
+                border-top: 1px solid #ccc;
+            }
+
+                .tab .tabnav li.active a {
+                    color: #007acc;
+                    font-weight: bold;
+                    background-color: #ffffff;
+                }
+
+            .tab .tabnav li a {
+                position: relative;
+                display: block;
+                background: #e0e0e0;
+                color: #666;
+                padding: 0 30px;
+                line-height: 46px;
+                text-decoration: none;
+                font-size: 16px;
+                transition: all 0.3s ease;
+            }
+
+                .tab .tabnav li a:hover {
+                    background: #d0d0d0;
+                    color: #333;
+                }
+
+        .tab .tabcontent {
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-top: none;
+            background-color: #ffffff;
+        }
