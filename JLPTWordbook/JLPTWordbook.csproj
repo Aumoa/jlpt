@@ -8,7 +8,15 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.1.66" />
     <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="10.0.1" />
+    <PackageReference Include="MySql.Data" Version="9.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="SQLMigration">
+      <HintPath>..\SQLMigration\SQLMigration.dll</HintPath>
+    </Reference>
   </ItemGroup>
 
   <ItemGroup>

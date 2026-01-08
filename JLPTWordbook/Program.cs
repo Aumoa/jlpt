@@ -1,5 +1,6 @@
 using JLPTWordbook.Components;
 using JLPTWordbook.Services;
+using JLPTWordbook.SQL.Migrations;
 using Microsoft.AspNetCore.Components.Authorization;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -55,5 +56,10 @@ app.UseAntiforgery();
 app.MapStaticAssets();
 app.MapRazorComponents<App>()
     .AddInteractiveServerRenderMode();
+
+if (app.Environment.IsDevelopment())
+{
+    await Runner.RunAsync(app.Configuration, app.Lifetime.ApplicationStopping);
+}
 
 app.Run();
