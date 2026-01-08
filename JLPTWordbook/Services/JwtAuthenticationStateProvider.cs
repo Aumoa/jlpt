@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Components.Authorization;
 
 namespace JLPTWordbook.Services;
 
-public class JwtAuthenticationStateProvider(IHttpContextAccessor accessor) : AuthenticationStateProvider
+public class JwtAuthenticationStateProvider(IHttpContextAccessor accessor, WordbookDatabaseService wdb) : AuthenticationStateProvider
 {
     private ClaimsPrincipal? m_CurrentUser;
 
@@ -24,6 +24,12 @@ public class JwtAuthenticationStateProvider(IHttpContextAccessor accessor) : Aut
                     var identity = new ClaimsIdentity(claims, "JwtAuthType");
                     var principal = new ClaimsPrincipal(identity);
                     m_CurrentUser = principal;
+
+                    var sub = Sub;
+                    if (!string.IsNullOrEmpty(sub))
+                    {
+                        await wdb.LoginAsync(sub, Name);
+                    }
                 }
             }
 
