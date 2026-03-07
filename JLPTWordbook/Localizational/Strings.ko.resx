@@ -129,4 +129,19 @@
   <data name="PROFILECARD_LOGOUT" xml:space="preserve">
     <value>로그아웃</value>
   </data>
+  <data name="WORDBOOK_MEMORIZED" xml:space="preserve">
+    <value>외웠어요</value>
+  </data>
+  <data name="WORDBOOK_NEXT" xml:space="preserve">
+    <value>다음</value>
+  </data>
+  <data name="WORDBOOK_ALL_MEMORIZED" xml:space="preserve">
+    <value>이 클래스의 모든 단어를 외웠어요! 🎉</value>
+  </data>
+  <data name="WORDBOOK_PROGRESS" xml:space="preserve">
+    <value>{1}개 중 {0}개 남음</value>
+  </data>
+  <data name="WORDBOOK_LOGIN_HINT" xml:space="preserve">
+    <value>로그인하여 학습 진도를 저장하세요</value>
+  </data>
 </root>

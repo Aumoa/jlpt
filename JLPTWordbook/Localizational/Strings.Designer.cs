@@ -95,5 +95,50 @@ namespace JLPTWordbook.Localizational {
                 return ResourceManager.GetString("PROFILECARD_LOGOUT", resourceCulture);
             }
         }
+
+        /// <summary>
+        ///   Memorized과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        internal static string WORDBOOK_MEMORIZED {
+            get {
+                return ResourceManager.GetString("WORDBOOK_MEMORIZED", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Next과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        internal static string WORDBOOK_NEXT {
+            get {
+                return ResourceManager.GetString("WORDBOOK_NEXT", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   All memorized과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        internal static string WORDBOOK_ALL_MEMORIZED {
+            get {
+                return ResourceManager.GetString("WORDBOOK_ALL_MEMORIZED", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Progress format과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        internal static string WORDBOOK_PROGRESS {
+            get {
+                return ResourceManager.GetString("WORDBOOK_PROGRESS", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Login hint과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        internal static string WORDBOOK_LOGIN_HINT {
+            get {
+                return ResourceManager.GetString("WORDBOOK_LOGIN_HINT", resourceCulture);
+            }
+        }
     }
 }
