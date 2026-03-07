@@ -41,6 +41,16 @@ INSERT INTO `user` (`id`, `name_hint`) VALUES(@id, @nameHint)
         await connection.ExecuteAsync(command);
     }
 
+    public async ValueTask ResetMemorizedWordsAsync(string userId, string className, CancellationToken cancellationToken = default)
+    {
+        using var connection = GetConnection();
+        await connection.OpenAsync(cancellationToken);
+
+        const string QUERY = "DELETE FROM `memorized_word` WHERE `user_id` = @userId AND `class` = @className";
+        var command = new CommandDefinition(QUERY, new { userId, className }, cancellationToken: cancellationToken);
+        await connection.ExecuteAsync(command);
+    }
+
     private MySqlConnection GetConnection()
     {
         return new MySqlConnection(conf.GetConnectionString("JLPTWordbookDatabase"));

@@ -144,4 +144,7 @@
   <data name="WORDBOOK_LOGIN_HINT" xml:space="preserve">
     <value>Log in to track your progress</value>
   </data>
+  <data name="WORDBOOK_RESET" xml:space="preserve">
+    <value>Reset Progress</value>
+  </data>
 </root>

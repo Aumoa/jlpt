@@ -223,7 +223,48 @@
         margin-top: 12px;
     }
 
+    .all-memorized-banner .wordbook-actions {
+        margin-top: 24px;
+    }
+
 .all-memorized-icon {
     font-size: 4rem;
     color: #2da44e;
 }
+
+/* Reset button */
+.btn-reset {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 8px 18px;
+    background-color: #f6f8fa;
+    color: #d1242f;
+    border: 1px solid rgba(209, 36, 47, 0.4);
+    border-radius: 6px;
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: background-color 0.15s ease, border-color 0.15s ease, color 0.15s ease;
+    line-height: 1.5;
+    white-space: nowrap;
+}
+
+    .btn-reset:hover:not(:disabled) {
+        background-color: #fff1f0;
+        border-color: #d1242f;
+        color: #a10e1a;
+    }
+
+    .btn-reset:active:not(:disabled) {
+        background-color: #ffdce0;
+    }
+
+    .btn-reset:disabled {
+        opacity: 0.6;
+        cursor: not-allowed;
+    }
+
+    .btn-reset .material-symbols-outlined {
+        font-size: 18px;
+    }

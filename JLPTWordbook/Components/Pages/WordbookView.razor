@@ -46,15 +46,22 @@
             <div class="wordbook-actions">
                 @if (Auth.IsAuthorized)
                 {
-                    <button class="btn-memorized" onclick="@MarkMemorized" disabled="@m_IsLoading">
+                    <button class="btn-memorized" @onclick="MarkMemorized" disabled="@m_IsLoading">
                         <span class="material-symbols-outlined">check_circle</span>
                         <span>@Strings.WORDBOOK_MEMORIZED</span>
                     </button>
                 }
-                <button class="btn-next" onclick="@Refresh" disabled="@m_IsLoading">
+                <button class="btn-next" @onclick="Refresh" disabled="@m_IsLoading">
                     <span class="material-symbols-outlined">arrow_forward</span>
                     <span>@Strings.WORDBOOK_NEXT</span>
                 </button>
+                @if (Auth.IsAuthorized && m_MemorizedIndices.Count > 0)
+                {
+                    <button class="btn-reset" @onclick="ResetMemorized" disabled="@m_IsLoading">
+                        <span class="material-symbols-outlined">restart_alt</span>
+                        <span>@Strings.WORDBOOK_RESET</span>
+                    </button>
+                }
             </div>
 
             @if (!Auth.IsAuthorized)
@@ -70,6 +77,12 @@
             <div class="all-memorized-banner">
                 <span class="material-symbols-outlined all-memorized-icon">celebration</span>
                 <p>@Strings.WORDBOOK_ALL_MEMORIZED</p>
+                <div class="wordbook-actions">
+                    <button class="btn-reset" @onclick="ResetMemorized" disabled="@m_IsLoading">
+                        <span class="material-symbols-outlined">restart_alt</span>
+                        <span>@Strings.WORDBOOK_RESET</span>
+                    </button>
+                </div>
             </div>
         }
     </div>
@@ -140,6 +153,26 @@
         {
             await Wdb.MarkWordAsMemorizedAsync(sub, ClassName, m_Current);
             m_MemorizedIndices.Add(m_Current);
+            m_Current = PickRandomAvailableIndex();
+        }
+        finally
+        {
+            m_IsLoading = false;
+        }
+    }
+
+    private async Task ResetMemorized()
+    {
+        if (m_IsLoading) return;
+
+        var sub = Auth.Sub;
+        if (string.IsNullOrEmpty(sub)) return;
+
+        m_IsLoading = true;
+        try
+        {
+            await Wdb.ResetMemorizedWordsAsync(sub, ClassName);
+            m_MemorizedIndices.Clear();
             m_Current = PickRandomAvailableIndex();
         }
         finally
