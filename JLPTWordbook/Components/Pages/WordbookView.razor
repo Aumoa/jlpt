@@ -5,6 +5,7 @@
 @inject Worksheet Sheet
 @inject JwtAuthenticationStateProvider Auth
 @inject WordbookDatabaseService Wdb
+@inject IJSRuntime JS
 
 <div class="tab">
     <ul class="tabnav">
@@ -167,6 +168,9 @@
 
         var sub = Auth.Sub;
         if (string.IsNullOrEmpty(sub)) return;
+
+        var confirmed = await JS.InvokeAsync<bool>("confirm", string.Format(Strings.WORDBOOK_RESET_CONFIRM, m_Class.ToString()));
+        if (!confirmed) return;
 
         m_IsLoading = true;
         try

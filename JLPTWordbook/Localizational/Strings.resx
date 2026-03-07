@@ -147,4 +147,7 @@
   <data name="WORDBOOK_RESET" xml:space="preserve">
     <value>Reset Progress</value>
   </data>
+  <data name="WORDBOOK_RESET_CONFIRM" xml:space="preserve">
+    <value>This will reset all word progress for {0}. Continue?</value>
+  </data>
 </root>

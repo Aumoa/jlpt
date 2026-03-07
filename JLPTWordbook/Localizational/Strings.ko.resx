@@ -147,4 +147,7 @@
   <data name="WORDBOOK_RESET" xml:space="preserve">
     <value>초기화</value>
   </data>
+  <data name="WORDBOOK_RESET_CONFIRM" xml:space="preserve">
+    <value>{0} 등급의 전체 단어 상태를 초기화합니다. 계속하시겠습니까?</value>
+  </data>
 </root>
