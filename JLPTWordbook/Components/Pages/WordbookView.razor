@@ -2,7 +2,10 @@
 @page "/{Class}"
 @using JLPTWordbook.Services
 @using JLPTWordbook.Shared
-@inject Worksheet Sheet;
+@inject Worksheet Sheet
+@inject JwtAuthenticationStateProvider Auth
+@inject WordbookDatabaseService Wdb
+@inject IJSRuntime JS
 
 <div class="tab">
     <ul class="tabnav">
@@ -16,18 +19,72 @@
     <div class="tabcontent">
         @if (m_Book != null && m_Current != -1)
         {
-            <button onclick="@Refresh">R</button>
+            @if (Auth.IsAuthorized)
+            {
+                var total = m_Book.Words.Count;
+                var remaining = total - m_MemorizedIndices.Count;
+                var progressPct = total > 0 ? (int)((double)(total - remaining) / total * 100) : 0;
+
+                <div class="wordbook-progress">
+                    <span class="progress-text">@string.Format(Strings.WORDBOOK_PROGRESS, remaining, total)</span>
+                    <div class="progress-bar-track">
+                        <div class="progress-bar-fill" style="width: @(progressPct)%"></div>
+                    </div>
+                </div>
+            }
+
             <div class="component-view">
                 <ruby>
                     @foreach (var component in m_Book.Words[m_Current].Components)
                     {
                         @component.Text
-                
                         <rt>@component.Reading</rt>
                     }
                 </ruby>
             </div>
             <p class="localizer-view">@m_Book.Words[m_Current].Localizer()</p>
+
+            <div class="wordbook-actions">
+                @if (Auth.IsAuthorized)
+                {
+                    <button class="btn-memorized" @onclick="MarkMemorized" disabled="@m_IsLoading">
+                        <span class="material-symbols-outlined">check_circle</span>
+                        <span>@Strings.WORDBOOK_MEMORIZED</span>
+                    </button>
+                }
+                <button class="btn-next" @onclick="Refresh" disabled="@m_IsLoading">
+                    <span class="material-symbols-outlined">arrow_forward</span>
+                    <span>@Strings.WORDBOOK_NEXT</span>
+                </button>
+                @if (Auth.IsAuthorized && m_MemorizedIndices.Count > 0)
+                {
+                    <button class="btn-reset" @onclick="ResetMemorized" disabled="@m_IsLoading">
+                        <span class="material-symbols-outlined">restart_alt</span>
+                        <span>@Strings.WORDBOOK_RESET</span>
+                    </button>
+                }
+            </div>
+
+            @if (!Auth.IsAuthorized)
+            {
+                <p class="login-hint">
+                    <span class="material-symbols-outlined">info</span>
+                    @Strings.WORDBOOK_LOGIN_HINT
+                </p>
+            }
+        }
+        else if (HasMemorizedAllWords())
+        {
+            <div class="all-memorized-banner">
+                <span class="material-symbols-outlined all-memorized-icon">celebration</span>
+                <p>@Strings.WORDBOOK_ALL_MEMORIZED</p>
+                <div class="wordbook-actions">
+                    <button class="btn-reset" @onclick="ResetMemorized" disabled="@m_IsLoading">
+                        <span class="material-symbols-outlined">restart_alt</span>
+                        <span>@Strings.WORDBOOK_RESET</span>
+                    </button>
+                </div>
+            </div>
         }
     </div>
 </div>
@@ -39,8 +96,12 @@
     private Wordbook? m_Book;
     private int m_Current = -1;
     private Worksheet.Class m_Class;
+    private HashSet<int> m_MemorizedIndices = [];
+    private bool m_IsLoading = false;
 
-    protected override void OnParametersSet()
+    private string ClassName => m_Class.ToString().ToLower();
+
+    protected override async Task OnParametersSetAsync()
     {
         if (string.IsNullOrEmpty(Class) || Enum.TryParse<Worksheet.Class>(Class, true, out var klass) == false)
         {
@@ -49,14 +110,19 @@
 
         m_Book = Sheet[klass];
         m_Class = klass;
-        if (m_Book == null || m_Book.Words.Count == 0)
+        m_MemorizedIndices = [];
+
+        if (Auth.IsAuthorized)
         {
-            m_Current = -1;
+            var sub = Auth.Sub;
+            if (!string.IsNullOrEmpty(sub))
+            {
+                var indices = await Wdb.GetMemorizedWordIndicesAsync(sub, ClassName);
+                m_MemorizedIndices = new HashSet<int>(indices);
+            }
         }
-        else
-        {
-            m_Current = Random.Shared.Next() % m_Book.Words.Count;
-        }
+
+        m_Current = PickRandomAvailableIndex();
     }
 
     private bool IsActiveTab(string tabName)
@@ -64,19 +130,80 @@
         return string.Equals(tabName, m_Class.ToString(), StringComparison.OrdinalIgnoreCase);
     }
 
+    private bool HasMemorizedAllWords()
+    {
+        return m_Book != null && m_Book.Words.Count > 0
+            && m_Current == -1
+            && m_MemorizedIndices.Count == m_Book.Words.Count;
+    }
+
     private void Refresh()
     {
-        if (m_Book != null)
+        m_Current = PickRandomAvailableIndex(m_Current);
+    }
+
+    private async Task MarkMemorized()
+    {
+        if (m_Book == null || m_Current == -1 || m_IsLoading) return;
+
+        var sub = Auth.Sub;
+        if (string.IsNullOrEmpty(sub)) return;
+
+        m_IsLoading = true;
+        try
         {
-            while (true)
+            await Wdb.MarkWordAsMemorizedAsync(sub, ClassName, m_Current);
+            m_MemorizedIndices.Add(m_Current);
+            m_Current = PickRandomAvailableIndex();
+        }
+        finally
+        {
+            m_IsLoading = false;
+        }
+    }
+
+    private async Task ResetMemorized()
+    {
+        if (m_IsLoading) return;
+
+        var sub = Auth.Sub;
+        if (string.IsNullOrEmpty(sub)) return;
+
+        var confirmed = await JS.InvokeAsync<bool>("confirm", string.Format(Strings.WORDBOOK_RESET_CONFIRM, m_Class.ToString()));
+        if (!confirmed) return;
+
+        m_IsLoading = true;
+        try
+        {
+            await Wdb.ResetMemorizedWordsAsync(sub, ClassName);
+            m_MemorizedIndices.Clear();
+            m_Current = PickRandomAvailableIndex();
+        }
+        finally
+        {
+            m_IsLoading = false;
+        }
+    }
+
+    private int PickRandomAvailableIndex(int excludeIndex = -1)
+    {
+        if (m_Book == null || m_Book.Words.Count == 0) return -1;
+
+        var available = Enumerable.Range(0, m_Book.Words.Count)
+            .Where(i => !m_MemorizedIndices.Contains(i))
+            .ToList();
+
+        if (available.Count == 0) return -1;
+
+        if (available.Count > 1)
+        {
+            var nonCurrent = available.Where(i => i != excludeIndex).ToList();
+            if (nonCurrent.Count > 0)
             {
-                var next = Random.Shared.Next() % m_Book.Words.Count;
-                if (m_Current != next)
-                {
-                    m_Current = next;
-                    break;
-                }
+                return nonCurrent[Random.Shared.Next(nonCurrent.Count)];
             }
         }
+
+        return available[Random.Shared.Next(available.Count)];
     }
 }

@@ -12,7 +12,8 @@ public static class Runner
         await Executor.RunAsync(
             connectionString,
             "JLPTWordbook", [
-                new V1__Init()
+                new V1__Init(),
+                new V2__AddMemorizedWords()
             ],
             Console.Out,
             cancellationToken
