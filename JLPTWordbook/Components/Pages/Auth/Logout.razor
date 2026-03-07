@@ -1,0 +1,16 @@
+@page "/auth/logout"
+@inject NavigationManager Nav
+@inject IHttpContextAccessor HttpContextAccessor
+
+@code {
+    protected override void OnInitialized()
+    {
+        var httpContext = HttpContextAccessor.HttpContext;
+        if (httpContext != null)
+        {
+            httpContext.Response.Cookies.Delete("id_token");
+        }
+
+        Nav.NavigateTo("/", forceLoad: true);
+    }
+}
