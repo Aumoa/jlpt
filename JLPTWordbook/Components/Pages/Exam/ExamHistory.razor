@@ -30,7 +30,8 @@ else if (m_DetailSession != null)
                 @foreach (var item in m_DetailItems)
                 {
                     var wordbook = Sheet[Enum.Parse<Worksheet.Class>(m_DetailSession.Class, true)];
-                    var word = item.WordIndex < wordbook.Words.Count ? wordbook.Words[item.WordIndex] : default;
+                    if (item.WordIndex >= wordbook.Words.Count) continue;
+                    var word = wordbook.Words[item.WordIndex];
                     <div class="detail-item @(item.IsCorrect ? "item-correct" : "item-incorrect")">
                         <span class="detail-item-icon material-symbols-outlined">
                             @(item.IsCorrect ? "check_circle" : "cancel")

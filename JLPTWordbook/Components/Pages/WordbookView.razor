@@ -122,7 +122,7 @@
                             <span class="wordlist-reading">
                                 (@string.Concat(item.Word.Components.Select(c => c.Reading)))
                             </span>
-                            <span class="wordlist-meaning">@item.Word.Ko</span>
+                            <span class="wordlist-meaning">@item.Word.Localizer()</span>
                             @if (Auth.IsAuthorized)
                             {
                                 <span class="wordlist-memorized-badge @(m_MemorizedIndices.Contains(item.Index) ? "badge-memorized" : "badge-not-memorized")">
