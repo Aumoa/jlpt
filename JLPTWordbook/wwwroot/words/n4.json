@@ -1,0 +1,6412 @@
+{
+  "level": "N4",
+  "words": [
+    {
+      "id": 7412,
+      "elements": [
+        {
+          "word": "社",
+          "reading": "しゃ"
+        },
+        {
+          "word": "会",
+          "reading": "かい"
+        }
+      ],
+      "en": "society",
+      "ko": "사회"
+    },
+    {
+      "id": 7411,
+      "elements": [
+        {
+          "word": "たま",
+          "reading": "たま"
+        },
+        {
+          "word": "に",
+          "reading": "に"
+        }
+      ],
+      "en": "occasionally",
+      "ko": "때때로"
+    },
+    {
+      "id": 7410,
+      "elements": [
+        {
+          "word": "これから",
+          "reading": "これから"
+        }
+      ],
+      "en": "from now on, after this",
+      "ko": "앞으로부터"
+    },
+    {
+      "id": 7409,
+      "elements": [
+        {
+          "word": "指",
+          "reading": "ゆび"
+        }
+      ],
+      "en": "finger",
+      "ko": "손가락"
+    },
+    {
+      "id": 7408,
+      "elements": [
+        {
+          "word": "家",
+          "reading": "か"
+        },
+        {
+          "word": "内",
+          "reading": "ない"
+        }
+      ],
+      "en": "(one\u0027s own) wife",
+      "ko": "아내"
+    },
+    {
+      "id": 7407,
+      "elements": [
+        {
+          "word": "電",
+          "reading": "でん"
+        },
+        {
+          "word": "報",
+          "reading": "ぽう"
+        }
+      ],
+      "en": "telegram",
+      "ko": "전보"
+    },
+    {
+      "id": 7406,
+      "elements": [
+        {
+          "word": "趣味",
+          "reading": "しゅみ"
+        }
+      ],
+      "en": "hobby; pastime",
+      "ko": "취미"
+    },
+    {
+      "id": 7405,
+      "elements": [
+        {
+          "word": "楽しみ",
+          "reading": "たのしみ"
+        }
+      ],
+      "en": "pleasure, joy",
+      "ko": "즐거움"
+    },
+    {
+      "id": 7404,
+      "elements": [
+        {
+          "word": "大分",
+          "reading": "だいぶ"
+        }
+      ],
+      "en": "fairly well, to a large extent, considerably, pretty much",
+      "ko": "꽤"
+    },
+    {
+      "id": 7403,
+      "elements": [
+        {
+          "word": "神",
+          "reading": "じん"
+        },
+        {
+          "word": "社",
+          "reading": "じゃ"
+        }
+      ],
+      "en": "Shinto shrine",
+      "ko": "신사"
+    },
+    {
+      "id": 7402,
+      "elements": [
+        {
+          "word": "ソフト",
+          "reading": "ソフト"
+        }
+      ],
+      "en": "soft; soft hat; software",
+      "ko": "소프트웨어"
+    },
+    {
+      "id": 7401,
+      "elements": [
+        {
+          "word": "アルコール",
+          "reading": "アルコール"
+        }
+      ],
+      "en": "alcohol",
+      "ko": "알코올"
+    },
+    {
+      "id": 7400,
+      "elements": [
+        {
+          "word": "嬉",
+          "reading": "うれ"
+        },
+        {
+          "word": "しい",
+          "reading": "しい"
+        }
+      ],
+      "en": "to be happy; to be glad",
+      "ko": "기쁘다"
+    },
+    {
+      "id": 7399,
+      "elements": [
+        {
+          "word": "すり",
+          "reading": "すり"
+        }
+      ],
+      "en": "pickpocket",
+      "ko": "털도둑"
+    },
+    {
+      "id": 7398,
+      "elements": [
+        {
+          "word": "タイプ",
+          "reading": "タイプ"
+        }
+      ],
+      "en": "type, style",
+      "ko": "유형"
+    },
+    {
+      "id": 7395,
+      "elements": [
+        {
+          "word": "棚",
+          "reading": "たな"
+        }
+      ],
+      "en": "shelves, rack",
+      "ko": "선반"
+    },
+    {
+      "id": 7394,
+      "elements": [
+        {
+          "word": "急",
+          "reading": "きゅう"
+        }
+      ],
+      "en": "urgent, sudden; steep",
+      "ko": "급하다"
+    },
+    {
+      "id": 7393,
+      "elements": [
+        {
+          "word": "番",
+          "reading": "ばん"
+        },
+        {
+          "word": "組",
+          "reading": "ぐみ"
+        }
+      ],
+      "en": "broadcast program",
+      "ko": "방송 프로그램"
+    },
+    {
+      "id": 7392,
+      "elements": [
+        {
+          "word": "～",
+          "reading": "～"
+        },
+        {
+          "word": "目",
+          "reading": "め"
+        }
+      ],
+      "en": "number ~ sequence, ~nd; ~th",
+      "ko": "~번째"
+    },
+    {
+      "id": 7391,
+      "elements": [
+        {
+          "word": "ピアノ",
+          "reading": "ピアノ"
+        }
+      ],
+      "en": "piano",
+      "ko": "피아노"
+    },
+    {
+      "id": 7390,
+      "elements": [
+        {
+          "word": "関",
+          "reading": "かん"
+        },
+        {
+          "word": "係",
+          "reading": "けい"
+        }
+      ],
+      "en": "relation(ship), connection",
+      "ko": "관계"
+    },
+    {
+      "id": 7396,
+      "elements": [
+        {
+          "word": "木綿",
+          "reading": "もめん"
+        }
+      ],
+      "en": "cotton",
+      "ko": "면"
+    },
+    {
+      "id": 7389,
+      "elements": [
+        {
+          "word": "糸",
+          "reading": "いと"
+        }
+      ],
+      "en": "thread",
+      "ko": "실"
+    },
+    {
+      "id": 7387,
+      "elements": [
+        {
+          "word": "～にくい",
+          "reading": ""
+        }
+      ],
+      "en": "difficult to do ~",
+      "ko": "~하기 어려운"
+    },
+    {
+      "id": 7386,
+      "elements": [
+        {
+          "word": "集まる",
+          "reading": "あつまる"
+        }
+      ],
+      "en": "to gather (v.i.), to collect",
+      "ko": "모이다"
+    },
+    {
+      "id": 7385,
+      "elements": [
+        {
+          "word": "湖",
+          "reading": "みずうみ"
+        }
+      ],
+      "en": "lake",
+      "ko": "호수"
+    },
+    {
+      "id": 7384,
+      "elements": [
+        {
+          "word": "会議",
+          "reading": "かいぎ"
+        }
+      ],
+      "en": "business meeting; conference",
+      "ko": "회의"
+    },
+    {
+      "id": 7383,
+      "elements": [
+        {
+          "word": "競争",
+          "reading": "きょうそう"
+        }
+      ],
+      "en": "competition, contest",
+      "ko": "경쟁"
+    },
+    {
+      "id": 7382,
+      "elements": [
+        {
+          "word": "湯",
+          "reading": "ゆ"
+        }
+      ],
+      "en": "hot water",
+      "ko": "온수"
+    },
+    {
+      "id": 7381,
+      "elements": [
+        {
+          "word": "娘",
+          "reading": "むすめ"
+        }
+      ],
+      "en": "daughter (humble)",
+      "ko": "딸"
+    },
+    {
+      "id": 7378,
+      "elements": [
+        {
+          "word": "翻訳",
+          "reading": "ほんやく"
+        }
+      ],
+      "en": "translation",
+      "ko": "번역"
+    },
+    {
+      "id": 7377,
+      "elements": [
+        {
+          "word": "上がる",
+          "reading": "あがる"
+        }
+      ],
+      "en": "to rise, to go up",
+      "ko": "오르다"
+    },
+    {
+      "id": 7376,
+      "elements": [
+        {
+          "word": "眠る",
+          "reading": "ねむる"
+        }
+      ],
+      "en": "to sleep",
+      "ko": "자다"
+    },
+    {
+      "id": 7375,
+      "elements": [
+        {
+          "word": "テニス",
+          "reading": "テニス"
+        }
+      ],
+      "en": "tennis",
+      "ko": "테니스"
+    },
+    {
+      "id": 7374,
+      "elements": [
+        {
+          "word": "ガソリンスタンド",
+          "reading": "ガソリンスタンド"
+        }
+      ],
+      "en": "gas station, service station",
+      "ko": "주유소"
+    },
+    {
+      "id": 7372,
+      "elements": [
+        {
+          "word": "見物",
+          "reading": "けんぶつ"
+        }
+      ],
+      "en": "sightseeing",
+      "ko": "관광"
+    },
+    {
+      "id": 7371,
+      "elements": [
+        {
+          "word": "看護婦",
+          "reading": "かんごふ"
+        }
+      ],
+      "en": "(female) nurse",
+      "ko": "간호사"
+    },
+    {
+      "id": 7370,
+      "elements": [
+        {
+          "word": "安全",
+          "reading": "あんぜん"
+        }
+      ],
+      "en": "safety, security",
+      "ko": "안전"
+    },
+    {
+      "id": 7369,
+      "elements": [
+        {
+          "word": "～町",
+          "reading": "～ちょう"
+        }
+      ],
+      "en": "the town of ~",
+      "ko": "~정"
+    },
+    {
+      "id": 7368,
+      "elements": [
+        {
+          "word": "別れる",
+          "reading": "わかれる"
+        }
+      ],
+      "en": "to part from, to separate",
+      "ko": "헤어지다"
+    },
+    {
+      "id": 7367,
+      "elements": [
+        {
+          "word": "乗り換える",
+          "reading": "のりかえる"
+        }
+      ],
+      "en": "to transfer (trains), to change (bus, train, etc.)",
+      "ko": "환승하다"
+    },
+    {
+      "id": 7365,
+      "elements": [
+        {
+          "word": "途中",
+          "reading": "とちゅう"
+        }
+      ],
+      "en": "on the way, midway",
+      "ko": "途中"
+    },
+    {
+      "id": 7364,
+      "elements": [
+        {
+          "word": "花見",
+          "reading": "はなみ"
+        }
+      ],
+      "en": "cherry-blossom viewing",
+      "ko": "벚꽃놀이"
+    },
+    {
+      "id": 7363,
+      "elements": [
+        {
+          "word": "下げる",
+          "reading": "さげる"
+        }
+      ],
+      "en": "to lower (v.t.); to hang",
+      "ko": "낮추다"
+    },
+    {
+      "id": 7362,
+      "elements": [
+        {
+          "word": "訪ねる",
+          "reading": "たずねる"
+        }
+      ],
+      "en": "to visit",
+      "ko": "방문하다"
+    },
+    {
+      "id": 7361,
+      "elements": [
+        {
+          "word": "この頃",
+          "reading": "このごろ"
+        }
+      ],
+      "en": "these days, nowadays",
+      "ko": "요즘"
+    },
+    {
+      "id": 7360,
+      "elements": [
+        {
+          "word": "込む",
+          "reading": "こむ"
+        }
+      ],
+      "en": "to be crowded",
+      "ko": "붐비다"
+    },
+    {
+      "id": 7380,
+      "elements": [
+        {
+          "word": "お陰",
+          "reading": "おかげ"
+        }
+      ],
+      "en": "thanks or owing to",
+      "ko": "덕분"
+    },
+    {
+      "id": 7359,
+      "elements": [
+        {
+          "word": "草",
+          "reading": "くさ"
+        }
+      ],
+      "en": "grass",
+      "ko": "풀"
+    },
+    {
+      "id": 7358,
+      "elements": [
+        {
+          "word": "ケーキ",
+          "reading": "ケーキ"
+        }
+      ],
+      "en": "cake",
+      "ko": "케이크"
+    },
+    {
+      "id": 7357,
+      "elements": [
+        {
+          "word": "研究",
+          "reading": "けんきゅう"
+        }
+      ],
+      "en": "study, research, investigation",
+      "ko": "연구"
+    },
+    {
+      "id": 7356,
+      "elements": [
+        {
+          "word": "戻る",
+          "reading": "もどる"
+        }
+      ],
+      "en": "to return (v.i.); to come back",
+      "ko": "돌아가다"
+    },
+    {
+      "id": 7354,
+      "elements": [
+        {
+          "word": "もうすぐ",
+          "reading": "もうすぐ"
+        }
+      ],
+      "en": "very soon; in a few moments; days",
+      "ko": "곧"
+    },
+    {
+      "id": 7351,
+      "elements": [
+        {
+          "word": "復習",
+          "reading": "ふくしゅう"
+        }
+      ],
+      "en": "review (of lessons), revision",
+      "ko": "복습"
+    },
+    {
+      "id": 7350,
+      "elements": [
+        {
+          "word": "特別",
+          "reading": "とくべつ"
+        }
+      ],
+      "en": "special",
+      "ko": "특별한"
+    },
+    {
+      "id": 7349,
+      "elements": [
+        {
+          "word": "全然",
+          "reading": "ぜんぜん"
+        }
+      ],
+      "en": "not at all; wholly, entirely",
+      "ko": "전혀"
+    },
+    {
+      "id": 7348,
+      "elements": [
+        {
+          "word": "参る",
+          "reading": "まいる"
+        }
+      ],
+      "en": "humble expression for 行く and 来る",
+      "ko": "가다(겸손한 표현)"
+    },
+    {
+      "id": 7347,
+      "elements": [
+        {
+          "word": "簡単",
+          "reading": "かんたん"
+        }
+      ],
+      "en": "simple",
+      "ko": "쉽다"
+    },
+    {
+      "id": 7346,
+      "elements": [
+        {
+          "word": "急ぐ",
+          "reading": "いそぐ"
+        }
+      ],
+      "en": "to hurry, to be in a hurry, to rush",
+      "ko": "서두르다"
+    },
+    {
+      "id": 7345,
+      "elements": [
+        {
+          "word": "取り替える",
+          "reading": "とりかえる"
+        }
+      ],
+      "en": "to exchange, to replace",
+      "ko": "바꾸다"
+    },
+    {
+      "id": 7344,
+      "elements": [
+        {
+          "word": "警察",
+          "reading": "けいさつ"
+        }
+      ],
+      "en": "police; police station",
+      "ko": "경찰"
+    },
+    {
+      "id": 7343,
+      "elements": [
+        {
+          "word": "砂",
+          "reading": "すな"
+        }
+      ],
+      "en": "sand",
+      "ko": "모래"
+    },
+    {
+      "id": 7342,
+      "elements": [
+        {
+          "word": "勝つ",
+          "reading": "かつ"
+        }
+      ],
+      "en": "to win",
+      "ko": "이기다"
+    },
+    {
+      "id": 7340,
+      "elements": [
+        {
+          "word": "水泳",
+          "reading": "すいえい"
+        }
+      ],
+      "en": "swimming",
+      "ko": "수영"
+    },
+    {
+      "id": 7339,
+      "elements": [
+        {
+          "word": "汚れる",
+          "reading": "よごれる"
+        }
+      ],
+      "en": "to become dirty",
+      "ko": "더러워지다"
+    },
+    {
+      "id": 7338,
+      "elements": [
+        {
+          "word": "両方",
+          "reading": "りょうほう"
+        }
+      ],
+      "en": "both sides, both parties",
+      "ko": "양쪽"
+    },
+    {
+      "id": 7337,
+      "elements": [
+        {
+          "word": "植える",
+          "reading": "うえる"
+        }
+      ],
+      "en": "to plant",
+      "ko": "심다"
+    },
+    {
+      "id": 7335,
+      "elements": [
+        {
+          "word": "優しい",
+          "reading": "やさしい"
+        }
+      ],
+      "en": "kind (person), gentle (person), easy (problem)",
+      "ko": "친절한"
+    },
+    {
+      "id": 7334,
+      "elements": [
+        {
+          "word": "虫",
+          "reading": "むし"
+        }
+      ],
+      "en": "insect",
+      "ko": "벌레"
+    },
+    {
+      "id": 7333,
+      "elements": [
+        {
+          "word": "コンサート",
+          "reading": "コンサート"
+        }
+      ],
+      "en": "concert",
+      "ko": "콘서트"
+    },
+    {
+      "id": 7331,
+      "elements": [
+        {
+          "word": "動く",
+          "reading": "うごく"
+        }
+      ],
+      "en": "to move",
+      "ko": "움직이다"
+    },
+    {
+      "id": 7330,
+      "elements": [
+        {
+          "word": "舟",
+          "reading": "ふね"
+        }
+      ],
+      "en": "ship, boat",
+      "ko": "배"
+    },
+    {
+      "id": 7328,
+      "elements": [
+        {
+          "word": "紹介",
+          "reading": "しょうかい"
+        }
+      ],
+      "en": "an introduction",
+      "ko": "소개"
+    },
+    {
+      "id": 7327,
+      "elements": [
+        {
+          "word": "工場",
+          "reading": "こうじょう"
+        }
+      ],
+      "en": "factory",
+      "ko": "공장"
+    },
+    {
+      "id": 7326,
+      "elements": [
+        {
+          "word": "研究室",
+          "reading": "けんきゅうしつ"
+        }
+      ],
+      "en": "the professor\u0027s office; laboratory",
+      "ko": "연구실"
+    },
+    {
+      "id": 7325,
+      "elements": [
+        {
+          "word": "ひげ",
+          "reading": "ひげ"
+        }
+      ],
+      "en": "beard",
+      "ko": "수염"
+    },
+    {
+      "id": 7324,
+      "elements": [
+        {
+          "word": "スーツケース",
+          "reading": "スーツケース"
+        }
+      ],
+      "en": "suitcase",
+      "ko": "여행 가방"
+    },
+    {
+      "id": 7323,
+      "elements": [
+        {
+          "word": "移る",
+          "reading": "うつる"
+        }
+      ],
+      "en": "to move (from a house); to transfer (from a department); to shift",
+      "ko": "이동하다"
+    },
+    {
+      "id": 7322,
+      "elements": [
+        {
+          "word": "工業",
+          "reading": "こうぎょう"
+        }
+      ],
+      "en": "(manufacturing) industry",
+      "ko": "산업"
+    },
+    {
+      "id": 7321,
+      "elements": [
+        {
+          "word": "失敗",
+          "reading": "しっぱい"
+        }
+      ],
+      "en": "failure, mistake",
+      "ko": "실패"
+    },
+    {
+      "id": 7320,
+      "elements": [
+        {
+          "word": "代わり",
+          "reading": "かわり"
+        }
+      ],
+      "en": "substitute, replacement",
+      "ko": "대체"
+    },
+    {
+      "id": 7319,
+      "elements": [
+        {
+          "word": "程",
+          "reading": "ほど"
+        }
+      ],
+      "en": "degree, extent",
+      "ko": "정도"
+    },
+    {
+      "id": 7318,
+      "elements": [
+        {
+          "word": "首",
+          "reading": "くび"
+        }
+      ],
+      "en": "neck",
+      "ko": "목"
+    },
+    {
+      "id": 7317,
+      "elements": [
+        {
+          "word": "仕方",
+          "reading": "しかた"
+        }
+      ],
+      "en": "way (of doing something)",
+      "ko": "방법"
+    },
+    {
+      "id": 7316,
+      "elements": [
+        {
+          "word": "自由",
+          "reading": "じゆう"
+        }
+      ],
+      "en": "freedom",
+      "ko": "자유"
+    },
+    {
+      "id": 7315,
+      "elements": [
+        {
+          "word": "向かう",
+          "reading": "むかう"
+        }
+      ],
+      "en": "to face, to go towards",
+      "ko": "향하다"
+    },
+    {
+      "id": 7314,
+      "elements": [
+        {
+          "word": "考える",
+          "reading": "かんがえる"
+        }
+      ],
+      "en": "to think (about); to consider",
+      "ko": "생각하다"
+    },
+    {
+      "id": 7313,
+      "elements": [
+        {
+          "word": "アクセサリー",
+          "reading": "アクセサリー"
+        }
+      ],
+      "en": "accessory",
+      "ko": "액세서리"
+    },
+    {
+      "id": 7312,
+      "elements": [
+        {
+          "word": "スーパー (マーケット)",
+          "reading": "スーパー (マーケット)"
+        }
+      ],
+      "en": "supermarket",
+      "ko": "슈퍼마켓"
+    },
+    {
+      "id": 7311,
+      "elements": [
+        {
+          "word": "倒れる",
+          "reading": "たおれる"
+        }
+      ],
+      "en": "to collapse, to break down",
+      "ko": "넘어지다"
+    },
+    {
+      "id": 7310,
+      "elements": [
+        {
+          "word": "濡れる",
+          "reading": "ぬれる"
+        }
+      ],
+      "en": "to get wet",
+      "ko": "젖다"
+    },
+    {
+      "id": 7309,
+      "elements": [
+        {
+          "word": "眠い",
+          "reading": "ねむい"
+        }
+      ],
+      "en": "sleepy, drowsy",
+      "ko": "졸리다"
+    },
+    {
+      "id": 7308,
+      "elements": [
+        {
+          "word": "おっしゃる",
+          "reading": "おっしゃる"
+        }
+      ],
+      "en": "-- honorific expression for いう --",
+      "ko": "말씀하다"
+    },
+    {
+      "id": 7307,
+      "elements": [
+        {
+          "word": "～君",
+          "reading": "～くん"
+        }
+      ],
+      "en": "Mr. (junior) ~, master ~",
+      "ko": "~군"
+    },
+    {
+      "id": 7306,
+      "elements": [
+        {
+          "word": "回る、回す",
+          "reading": "まわる、まわす"
+        }
+      ],
+      "en": "to go around, to revolve",
+      "ko": "돌다, 돌리다"
+    },
+    {
+      "id": 7305,
+      "elements": [
+        {
+          "word": "いじめる",
+          "reading": "いじめる"
+        }
+      ],
+      "en": "to bully, to torment",
+      "ko": "괴롭히다"
+    },
+    {
+      "id": 7304,
+      "elements": [
+        {
+          "word": "新聞社",
+          "reading": "しんぶんしゃ"
+        }
+      ],
+      "en": "newspaper company",
+      "ko": "신문사"
+    },
+    {
+      "id": 7303,
+      "elements": [
+        {
+          "word": "背中",
+          "reading": "せなか"
+        }
+      ],
+      "en": "back (of body)",
+      "ko": "등"
+    },
+    {
+      "id": 7302,
+      "elements": [
+        {
+          "word": "割れる",
+          "reading": "われる"
+        }
+      ],
+      "en": "to break",
+      "ko": "깨지다"
+    },
+    {
+      "id": 7301,
+      "elements": [
+        {
+          "word": "拝見",
+          "reading": "はいけんする"
+        }
+      ],
+      "en": "(humble) (polite) seeing, look at",
+      "ko": "(존댓말) 보다"
+    },
+    {
+      "id": 7299,
+      "elements": [
+        {
+          "word": "明",
+          "reading": "あ"
+        },
+        {
+          "word": "日",
+          "reading": "す"
+        }
+      ],
+      "en": "tomorrow",
+      "ko": "내일"
+    },
+    {
+      "id": 7293,
+      "elements": [
+        {
+          "word": "点",
+          "reading": "つ"
+        },
+        {
+          "word": "く",
+          "reading": ""
+        }
+      ],
+      "en": "to be started, to be switched on",
+      "ko": "켜지다"
+    },
+    {
+      "id": 7292,
+      "elements": [
+        {
+          "word": "冷",
+          "reading": "ひ"
+        },
+        {
+          "word": "える",
+          "reading": ""
+        }
+      ],
+      "en": "to grow cold, to cool down",
+      "ko": "차가워지다"
+    },
+    {
+      "id": 7291,
+      "elements": [
+        {
+          "word": "君",
+          "reading": "きみ"
+        }
+      ],
+      "en": "you (informal for men)",
+      "ko": "너"
+    },
+    {
+      "id": 7290,
+      "elements": [
+        {
+          "word": "焼",
+          "reading": "や"
+        },
+        {
+          "word": "ける",
+          "reading": ""
+        }
+      ],
+      "en": "to burn, to be roasted",
+      "ko": "타다"
+    },
+    {
+      "id": 7289,
+      "elements": [
+        {
+          "word": "習慣",
+          "reading": "しゅうかん"
+        }
+      ],
+      "en": "custom (in reference to culture)",
+      "ko": "습관"
+    },
+    {
+      "id": 7287,
+      "elements": [
+        {
+          "word": "文化",
+          "reading": "ぶんか"
+        }
+      ],
+      "en": "culture",
+      "ko": "문화"
+    },
+    {
+      "id": 7286,
+      "elements": [
+        {
+          "word": "数学",
+          "reading": "すうがく"
+        }
+      ],
+      "en": "mathematics",
+      "ko": "수학"
+    },
+    {
+      "id": 7285,
+      "elements": [
+        {
+          "word": "億",
+          "reading": "おく"
+        }
+      ],
+      "en": "hundred million",
+      "ko": "억"
+    },
+    {
+      "id": 7284,
+      "elements": [
+        {
+          "word": "将来",
+          "reading": "しょうらい"
+        }
+      ],
+      "en": "(in the) future; prospects",
+      "ko": "미래"
+    },
+    {
+      "id": 7283,
+      "elements": [
+        {
+          "word": "近",
+          "reading": "きん"
+        },
+        {
+          "word": "所",
+          "reading": "じょ"
+        }
+      ],
+      "en": "neighborhood",
+      "ko": "근처"
+    },
+    {
+      "id": 7281,
+      "elements": [
+        {
+          "word": "約束",
+          "reading": "やくそく"
+        }
+      ],
+      "en": "arrangement, appointment, promise",
+      "ko": "약속"
+    },
+    {
+      "id": 7280,
+      "elements": [
+        {
+          "word": "先輩",
+          "reading": "せんぱい"
+        }
+      ],
+      "en": "senior members of a group",
+      "ko": "선배"
+    },
+    {
+      "id": 7278,
+      "elements": [
+        {
+          "word": "直",
+          "reading": "なお"
+        },
+        {
+          "word": "す",
+          "reading": ""
+        }
+      ],
+      "en": "to correct (v.t.); to fix",
+      "ko": "수선하다"
+    },
+    {
+      "id": 7277,
+      "elements": [
+        {
+          "word": "集",
+          "reading": "あつ"
+        },
+        {
+          "word": "める",
+          "reading": ""
+        }
+      ],
+      "en": "to collect, to gather (v.t.), to assemble",
+      "ko": "모으다"
+    },
+    {
+      "id": 7276,
+      "elements": [
+        {
+          "word": "直",
+          "reading": "なお"
+        },
+        {
+          "word": "る",
+          "reading": ""
+        }
+      ],
+      "en": "to be fixed",
+      "ko": "수선되다"
+    },
+    {
+      "id": 7275,
+      "elements": [
+        {
+          "word": "安心",
+          "reading": "あんしん"
+        }
+      ],
+      "en": "peace of mind, relief",
+      "ko": "안심"
+    },
+    {
+      "id": 7273,
+      "elements": [
+        {
+          "word": "最初",
+          "reading": "さいしょ"
+        }
+      ],
+      "en": "beginning, first",
+      "ko": "처음"
+    },
+    {
+      "id": 7272,
+      "elements": [
+        {
+          "word": "～",
+          "reading": "～"
+        },
+        {
+          "word": "おき",
+          "reading": ""
+        }
+      ],
+      "en": "after every ~",
+      "ko": "～할 때마다"
+    },
+    {
+      "id": 7271,
+      "elements": [
+        {
+          "word": "様",
+          "reading": "よう"
+        }
+      ],
+      "en": "way, manner, kind",
+      "ko": "방법"
+    },
+    {
+      "id": 7270,
+      "elements": [
+        {
+          "word": "注",
+          "reading": "ちゅう"
+        },
+        {
+          "word": "射",
+          "reading": "しゃ"
+        }
+      ],
+      "en": "injection",
+      "ko": "주사"
+    },
+    {
+      "id": 7265,
+      "elements": [
+        {
+          "word": "汽",
+          "reading": "き"
+        },
+        {
+          "word": "車",
+          "reading": "しゃ"
+        }
+      ],
+      "en": "train (steam)",
+      "ko": "기차"
+    },
+    {
+      "id": 7264,
+      "elements": [
+        {
+          "word": "カーテン",
+          "reading": ""
+        }
+      ],
+      "en": "curtain",
+      "ko": "커튼"
+    },
+    {
+      "id": 7262,
+      "elements": [
+        {
+          "word": "展",
+          "reading": "てん"
+        },
+        {
+          "word": "覧",
+          "reading": "らん"
+        },
+        {
+          "word": "会",
+          "reading": "かい"
+        }
+      ],
+      "en": "exhibition",
+      "ko": "전시회"
+    },
+    {
+      "id": 7259,
+      "elements": [
+        {
+          "word": "最",
+          "reading": "さい"
+        },
+        {
+          "word": "後",
+          "reading": "ご"
+        }
+      ],
+      "en": "last, end",
+      "ko": "마지막"
+    },
+    {
+      "id": 7258,
+      "elements": [
+        {
+          "word": "～",
+          "reading": "～"
+        },
+        {
+          "word": "代",
+          "reading": "だい"
+        }
+      ],
+      "en": "~ age; period",
+      "ko": "~대"
+    },
+    {
+      "id": 7257,
+      "elements": [
+        {
+          "word": "合",
+          "reading": "あ"
+        },
+        {
+          "word": "う",
+          "reading": ""
+        }
+      ],
+      "en": "to fit, to match",
+      "ko": "맞다"
+    },
+    {
+      "id": 7255,
+      "elements": [
+        {
+          "word": "あ",
+          "reading": ""
+        }
+      ],
+      "en": "Ah",
+      "ko": "아"
+    },
+    {
+      "id": 7254,
+      "elements": [
+        {
+          "word": "空",
+          "reading": "す"
+        },
+        {
+          "word": "く",
+          "reading": ""
+        }
+      ],
+      "en": "to be empty (in reference to people), to be less crowded",
+      "ko": "비다"
+    },
+    {
+      "id": 7253,
+      "elements": [
+        {
+          "word": "褒",
+          "reading": "ほ"
+        },
+        {
+          "word": "める",
+          "reading": ""
+        }
+      ],
+      "en": "to praise; to say nice things",
+      "ko": "칭찬하다"
+    },
+    {
+      "id": 7252,
+      "elements": [
+        {
+          "word": "アジア",
+          "reading": ""
+        }
+      ],
+      "en": "Asia",
+      "ko": "아시아"
+    },
+    {
+      "id": 7251,
+      "elements": [
+        {
+          "word": "字",
+          "reading": "じ"
+        }
+      ],
+      "en": "letter; character",
+      "ko": "글자"
+    },
+    {
+      "id": 7249,
+      "elements": [
+        {
+          "word": "ご",
+          "reading": "ご"
+        },
+        {
+          "word": "存",
+          "reading": "ぞん"
+        },
+        {
+          "word": "じ",
+          "reading": ""
+        }
+      ],
+      "en": "knowing, acquaintance",
+      "ko": "알고 있다"
+    },
+    {
+      "id": 7248,
+      "elements": [
+        {
+          "word": "～",
+          "reading": "～"
+        },
+        {
+          "word": "様",
+          "reading": "さま"
+        }
+      ],
+      "en": "Mr., Mrs., Ms.",
+      "ko": "~님"
+    },
+    {
+      "id": 7247,
+      "elements": [
+        {
+          "word": "席",
+          "reading": "せき"
+        }
+      ],
+      "en": "a seat",
+      "ko": "자리"
+    },
+    {
+      "id": 7245,
+      "elements": [
+        {
+          "word": "光",
+          "reading": "ひかり"
+        }
+      ],
+      "en": "light",
+      "ko": "빛"
+    },
+    {
+      "id": 7244,
+      "elements": [
+        {
+          "word": "文",
+          "reading": "ぶん"
+        },
+        {
+          "word": "学",
+          "reading": "がく"
+        }
+      ],
+      "en": "literature",
+      "ko": "문학"
+    },
+    {
+      "id": 7243,
+      "elements": [
+        {
+          "word": "運",
+          "reading": "はこ"
+        },
+        {
+          "word": "ぶ",
+          "reading": ""
+        }
+      ],
+      "en": "to transport, to carry",
+      "ko": "운반하다"
+    },
+    {
+      "id": 7238,
+      "elements": [
+        {
+          "word": "くださ",
+          "reading": "くださ"
+        },
+        {
+          "word": "る",
+          "reading": "る"
+        }
+      ],
+      "en": "(hon.) to give, to confer",
+      "ko": "주시다"
+    },
+    {
+      "id": 7237,
+      "elements": [
+        {
+          "word": "なるほど",
+          "reading": "なるほど"
+        }
+      ],
+      "en": "I see; I now understand",
+      "ko": "그렇군요"
+    },
+    {
+      "id": 7229,
+      "elements": [
+        {
+          "word": "～お",
+          "reading": "～お"
+        },
+        {
+          "word": "わ",
+          "reading": "わ"
+        },
+        {
+          "word": "る",
+          "reading": "る"
+        }
+      ],
+      "en": "to finish doing ~",
+      "ko": "~ 끝나다"
+    },
+    {
+      "id": 7212,
+      "elements": [
+        {
+          "word": "ファ",
+          "reading": "ファ"
+        },
+        {
+          "word": "ックス",
+          "reading": "ックス"
+        }
+      ],
+      "en": "fax",
+      "ko": "팩스"
+    },
+    {
+      "id": 7210,
+      "elements": [
+        {
+          "word": "政",
+          "reading": "せい"
+        },
+        {
+          "word": "治",
+          "reading": "じ"
+        }
+      ],
+      "en": "politics",
+      "ko": "정치"
+    },
+    {
+      "id": 7208,
+      "elements": [
+        {
+          "word": "尋",
+          "reading": "たず"
+        },
+        {
+          "word": "ねる",
+          "reading": ""
+        }
+      ],
+      "en": "to inquire (same as 質問する)",
+      "ko": "문의하다"
+    },
+    {
+      "id": 7207,
+      "elements": [
+        {
+          "word": "騒",
+          "reading": "さわ"
+        },
+        {
+          "word": "ぐ",
+          "reading": ""
+        }
+      ],
+      "en": "to make noise, to clamor",
+      "ko": "소란을 피우다"
+    },
+    {
+      "id": 7205,
+      "elements": [
+        {
+          "word": "送",
+          "reading": "おく"
+        },
+        {
+          "word": "る",
+          "reading": ""
+        }
+      ],
+      "en": "to send, to dispatch",
+      "ko": "보내다"
+    },
+    {
+      "id": 7204,
+      "elements": [
+        {
+          "word": "そろそろ",
+          "reading": ""
+        }
+      ],
+      "en": "gradually, soon",
+      "ko": "조금씩"
+    },
+    {
+      "id": 7203,
+      "elements": [
+        {
+          "word": "専",
+          "reading": "せん"
+        },
+        {
+          "word": "門",
+          "reading": "もん"
+        }
+      ],
+      "en": "major; speciality",
+      "ko": "전문"
+    },
+    {
+      "id": 7202,
+      "elements": [
+        {
+          "word": "枝",
+          "reading": "えだ"
+        }
+      ],
+      "en": "branch, twig",
+      "ko": "나뭇가지"
+    },
+    {
+      "id": 7200,
+      "elements": [
+        {
+          "word": "卒",
+          "reading": "そつ"
+        },
+        {
+          "word": "業",
+          "reading": "ぎょう"
+        }
+      ],
+      "en": "graduation",
+      "ko": "졸업"
+    },
+    {
+      "id": 7199,
+      "elements": [
+        {
+          "word": "間",
+          "reading": "あいだ"
+        }
+      ],
+      "en": "space, interval",
+      "ko": "사이"
+    },
+    {
+      "id": 7198,
+      "elements": [
+        {
+          "word": "彼女",
+          "reading": "かのじょ"
+        }
+      ],
+      "en": "girlfriend; she",
+      "ko": "여자친구"
+    },
+    {
+      "id": 7197,
+      "elements": [
+        {
+          "word": "天",
+          "reading": "てん"
+        },
+        {
+          "word": "気",
+          "reading": "き"
+        },
+        {
+          "word": "予",
+          "reading": "よ"
+        },
+        {
+          "word": "報",
+          "reading": "ほう"
+        }
+      ],
+      "en": "weather forecast",
+      "ko": "날씨 예보"
+    },
+    {
+      "id": 7196,
+      "elements": [
+        {
+          "word": "髪",
+          "reading": "かみ"
+        }
+      ],
+      "en": "hair",
+      "ko": "머리카락"
+    },
+    {
+      "id": 7195,
+      "elements": [
+        {
+          "word": "危",
+          "reading": "き"
+        },
+        {
+          "word": "険",
+          "reading": "けん"
+        }
+      ],
+      "en": "danger, risk, hazard",
+      "ko": "위험"
+    },
+    {
+      "id": 7193,
+      "elements": [
+        {
+          "word": "駐",
+          "reading": "ちゅう"
+        },
+        {
+          "word": "車",
+          "reading": "しゃ"
+        },
+        {
+          "word": "場",
+          "reading": "じょう"
+        }
+      ],
+      "en": "parking lot",
+      "ko": "주차장"
+    },
+    {
+      "id": 7191,
+      "elements": [
+        {
+          "word": "具合",
+          "reading": "ぐあい"
+        }
+      ],
+      "en": "condition, state, health",
+      "ko": "상태"
+    },
+    {
+      "id": 7189,
+      "elements": [
+        {
+          "word": "妻",
+          "reading": "つま"
+        }
+      ],
+      "en": "wife (humble)",
+      "ko": "아내"
+    },
+    {
+      "id": 7188,
+      "elements": [
+        {
+          "word": "～(に) よると",
+          "reading": ""
+        }
+      ],
+      "en": "according to ~",
+      "ko": "에 따르면"
+    },
+    {
+      "id": 7186,
+      "elements": [
+        {
+          "word": "特",
+          "reading": "とっ"
+        },
+        {
+          "word": "急",
+          "reading": "きゅう"
+        }
+      ],
+      "en": "limited express (train faster than an express)",
+      "ko": "급행열차"
+    },
+    {
+      "id": 7185,
+      "elements": [
+        {
+          "word": "～まま",
+          "reading": ""
+        }
+      ],
+      "en": "as it is",
+      "ko": "그대로"
+    },
+    {
+      "id": 7184,
+      "elements": [
+        {
+          "word": "以上",
+          "reading": "いじょう"
+        }
+      ],
+      "en": "more than; this is all",
+      "ko": "이상"
+    },
+    {
+      "id": 7183,
+      "elements": [
+        {
+          "word": "それほど",
+          "reading": ""
+        }
+      ],
+      "en": "to that degree; extent",
+      "ko": "그 정도"
+    },
+    {
+      "id": 7182,
+      "elements": [
+        {
+          "word": "滑",
+          "reading": "すべ"
+        },
+        {
+          "word": "る",
+          "reading": ""
+        }
+      ],
+      "en": "to slide, to slip",
+      "ko": "미끄러지다"
+    },
+    {
+      "id": 7181,
+      "elements": [
+        {
+          "word": "道具",
+          "reading": "どうぐ"
+        }
+      ],
+      "en": "tool",
+      "ko": "도구"
+    },
+    {
+      "id": 7180,
+      "elements": [
+        {
+          "word": "島",
+          "reading": "しま"
+        }
+      ],
+      "en": "island",
+      "ko": "섬"
+    },
+    {
+      "id": 7179,
+      "elements": [
+        {
+          "word": "説明",
+          "reading": "せつめい"
+        }
+      ],
+      "en": "explanation",
+      "ko": "설명"
+    },
+    {
+      "id": 7177,
+      "elements": [
+        {
+          "word": "伝える",
+          "reading": "つたえる"
+        }
+      ],
+      "en": "to convey (a message); to tell, to report",
+      "ko": "전하다"
+    },
+    {
+      "id": 7176,
+      "elements": [
+        {
+          "word": "産業",
+          "reading": "さんぎょう"
+        }
+      ],
+      "en": "industry",
+      "ko": "산업"
+    },
+    {
+      "id": 7175,
+      "elements": [
+        {
+          "word": "都",
+          "reading": "と"
+        }
+      ],
+      "en": "metropolitan",
+      "ko": "도시"
+    },
+    {
+      "id": 7174,
+      "elements": [
+        {
+          "word": "返事",
+          "reading": "へんじ"
+        }
+      ],
+      "en": "reply, answer",
+      "ko": "답장"
+    },
+    {
+      "id": 7173,
+      "elements": [
+        {
+          "word": "輸入",
+          "reading": "ゆにゅう"
+        }
+      ],
+      "en": "import",
+      "ko": "수입"
+    },
+    {
+      "id": 7172,
+      "elements": [
+        {
+          "word": "正しい",
+          "reading": "ただしい"
+        }
+      ],
+      "en": "correct",
+      "ko": "옳다"
+    },
+    {
+      "id": 7171,
+      "elements": [
+        {
+          "word": "折れる",
+          "reading": "おれる"
+        }
+      ],
+      "en": "to break, to be folded, to give in; to turn (a corner)",
+      "ko": "절다"
+    },
+    {
+      "id": 7170,
+      "elements": [
+        {
+          "word": "大体",
+          "reading": "だいたい"
+        }
+      ],
+      "en": "approximately; in most cases; in general; to begin with (same as もともと)",
+      "ko": "대략"
+    },
+    {
+      "id": 7169,
+      "elements": [
+        {
+          "word": "遠く",
+          "reading": "とおく"
+        }
+      ],
+      "en": "far away, distant",
+      "ko": "멀리"
+    },
+    {
+      "id": 7168,
+      "elements": [
+        {
+          "word": "まず",
+          "reading": "まず"
+        }
+      ],
+      "en": "first (of all), to start with",
+      "ko": "먼저"
+    },
+    {
+      "id": 7167,
+      "elements": [
+        {
+          "word": "きっと",
+          "reading": "きっと"
+        }
+      ],
+      "en": "surely, definitely, undoubtedly, certainly",
+      "ko": "분명히"
+    },
+    {
+      "id": 7166,
+      "elements": [
+        {
+          "word": "音",
+          "reading": "おと"
+        }
+      ],
+      "en": "sound, note",
+      "ko": "소리"
+    },
+    {
+      "id": 7165,
+      "elements": [
+        {
+          "word": "十分",
+          "reading": "じゅうぶん"
+        }
+      ],
+      "en": "enough",
+      "ko": "충분하다"
+    },
+    {
+      "id": 7164,
+      "elements": [
+        {
+          "word": "見える",
+          "reading": "みえる"
+        }
+      ],
+      "en": "to be visible; -- polite verb meaning 来る (くる) --",
+      "ko": "보이다"
+    },
+    {
+      "id": 7163,
+      "elements": [
+        {
+          "word": "～始める",
+          "reading": "～はじめる"
+        }
+      ],
+      "en": "to start doing ~",
+      "ko": "~시작하다"
+    },
+    {
+      "id": 7162,
+      "elements": [
+        {
+          "word": "支度",
+          "reading": "したくする"
+        }
+      ],
+      "en": "preparation",
+      "ko": "준비"
+    },
+    {
+      "id": 7161,
+      "elements": [
+        {
+          "word": "遊び",
+          "reading": "あそび"
+        }
+      ],
+      "en": "play",
+      "ko": "놀이"
+    },
+    {
+      "id": 7160,
+      "elements": [
+        {
+          "word": "引き出し",
+          "reading": "ひきだし"
+        }
+      ],
+      "en": "drawer",
+      "ko": "서랍"
+    },
+    {
+      "id": 7159,
+      "elements": [
+        {
+          "word": "市",
+          "reading": "し"
+        }
+      ],
+      "en": "city",
+      "ko": "도시"
+    },
+    {
+      "id": 7158,
+      "elements": [
+        {
+          "word": "ハンバーグ",
+          "reading": "ハンバーグ"
+        }
+      ],
+      "en": "hamburger steak",
+      "ko": "햄버거 스테이크"
+    },
+    {
+      "id": 7157,
+      "elements": [
+        {
+          "word": "済む",
+          "reading": "すむ"
+        }
+      ],
+      "en": "to finish, to end",
+      "ko": "끝나다"
+    },
+    {
+      "id": 7156,
+      "elements": [
+        {
+          "word": "以外",
+          "reading": "いがい"
+        }
+      ],
+      "en": "other than, with the exception of, excepting",
+      "ko": "이외에"
+    },
+    {
+      "id": 7155,
+      "elements": [
+        {
+          "word": "変わる",
+          "reading": "かわる"
+        }
+      ],
+      "en": "to change (v.i.), to be transformed, to vary",
+      "ko": "바뀌다"
+    },
+    {
+      "id": 7154,
+      "elements": [
+        {
+          "word": "おいでになる",
+          "reading": "おいでになる"
+        }
+      ],
+      "en": "(hon.) to be",
+      "ko": "오시다"
+    },
+    {
+      "id": 7153,
+      "elements": [
+        {
+          "word": "為",
+          "reading": "ため"
+        }
+      ],
+      "en": "good, advantage, in order to",
+      "ko": "위해"
+    },
+    {
+      "id": 7152,
+      "elements": [
+        {
+          "word": "裏",
+          "reading": "うら"
+        }
+      ],
+      "en": "reverse side, back",
+      "ko": "뒤"
+    },
+    {
+      "id": 7151,
+      "elements": [
+        {
+          "word": "是非",
+          "reading": "ぜひ"
+        }
+      ],
+      "en": "certainly, by all means; without fail",
+      "ko": "반드시"
+    },
+    {
+      "id": 7150,
+      "elements": [
+        {
+          "word": "こう",
+          "reading": ""
+        }
+      ],
+      "en": "like this, this way",
+      "ko": "이렇게"
+    },
+    {
+      "id": 7149,
+      "elements": [
+        {
+          "word": "経",
+          "reading": "けい"
+        },
+        {
+          "word": "済",
+          "reading": "ざい"
+        }
+      ],
+      "en": "economics, finance, economy",
+      "ko": "경제"
+    },
+    {
+      "id": 7148,
+      "elements": [
+        {
+          "word": "下",
+          "reading": "した"
+        },
+        {
+          "word": "着",
+          "reading": "ぎ"
+        }
+      ],
+      "en": "underwear",
+      "ko": "속옷"
+    },
+    {
+      "id": 7147,
+      "elements": [
+        {
+          "word": "通り",
+          "reading": "とおり"
+        }
+      ],
+      "en": "~ Street, ~ Avenue",
+      "ko": "거리"
+    },
+    {
+      "id": 7143,
+      "elements": [
+        {
+          "word": "しばらく",
+          "reading": ""
+        }
+      ],
+      "en": "little while",
+      "ko": "잠깐"
+    },
+    {
+      "id": 7142,
+      "elements": [
+        {
+          "word": "レジ",
+          "reading": ""
+        }
+      ],
+      "en": "register",
+      "ko": "レジ"
+    },
+    {
+      "id": 7140,
+      "elements": [
+        {
+          "word": "子",
+          "reading": "こ"
+        }
+      ],
+      "en": "child",
+      "ko": "아이"
+    },
+    {
+      "id": 7139,
+      "elements": [
+        {
+          "word": "講",
+          "reading": "こう"
+        },
+        {
+          "word": "堂",
+          "reading": "どう"
+        }
+      ],
+      "en": "auditorium",
+      "ko": "강당"
+    },
+    {
+      "id": 7137,
+      "elements": [
+        {
+          "word": "うまい",
+          "reading": ""
+        }
+      ],
+      "en": "delicious; skillful; fortunate",
+      "ko": "맛있다"
+    },
+    {
+      "id": 7136,
+      "elements": [
+        {
+          "word": "びっくり",
+          "reading": "びっくり"
+        },
+        {
+          "word": "する",
+          "reading": ""
+        }
+      ],
+      "en": "to be surprised",
+      "ko": "깜짝 놀라다"
+    },
+    {
+      "id": 7135,
+      "elements": [
+        {
+          "word": "サンダル",
+          "reading": ""
+        }
+      ],
+      "en": "sandal",
+      "ko": "샌들"
+    },
+    {
+      "id": 7134,
+      "elements": [
+        {
+          "word": "叱",
+          "reading": "しか"
+        },
+        {
+          "word": "る",
+          "reading": ""
+        }
+      ],
+      "en": "to scold",
+      "ko": "혼내다"
+    },
+    {
+      "id": 7133,
+      "elements": [
+        {
+          "word": "電",
+          "reading": "でん"
+        },
+        {
+          "word": "灯",
+          "reading": "とう"
+        }
+      ],
+      "en": "electric light",
+      "ko": "전등"
+    },
+    {
+      "id": 7132,
+      "elements": [
+        {
+          "word": "押し",
+          "reading": "おし"
+        },
+        {
+          "word": "入れ",
+          "reading": "いれ"
+        }
+      ],
+      "en": "closet",
+      "ko": "押し入れ"
+    },
+    {
+      "id": 7131,
+      "elements": [
+        {
+          "word": "～",
+          "reading": "～"
+        },
+        {
+          "word": "やすい",
+          "reading": ""
+        }
+      ],
+      "en": "easy to do ~",
+      "ko": "~하기 쉽다"
+    },
+    {
+      "id": 7130,
+      "elements": [
+        {
+          "word": "随分",
+          "reading": "ずいぶん"
+        }
+      ],
+      "en": "extremely",
+      "ko": "매우"
+    },
+    {
+      "id": 7129,
+      "elements": [
+        {
+          "word": "中々",
+          "reading": "なかなか"
+        }
+      ],
+      "en": "very, considerably, quite",
+      "ko": "꽤"
+    },
+    {
+      "id": 7127,
+      "elements": [
+        {
+          "word": "ひどい",
+          "reading": ""
+        }
+      ],
+      "en": "terrible, awful, unfair, cruel",
+      "ko": "끔찍하다"
+    },
+    {
+      "id": 7126,
+      "elements": [
+        {
+          "word": "毛",
+          "reading": "け"
+        }
+      ],
+      "en": "hair, fur",
+      "ko": "털"
+    },
+    {
+      "id": 7124,
+      "elements": [
+        {
+          "word": "血",
+          "reading": "ち"
+        }
+      ],
+      "en": "blood",
+      "ko": "피"
+    },
+    {
+      "id": 7123,
+      "elements": [
+        {
+          "word": "不",
+          "reading": "ふ"
+        },
+        {
+          "word": "便",
+          "reading": "べん"
+        }
+      ],
+      "en": "inconvenience",
+      "ko": "불편"
+    },
+    {
+      "id": 7122,
+      "elements": [
+        {
+          "word": "歴",
+          "reading": "れき"
+        },
+        {
+          "word": "史",
+          "reading": "し"
+        }
+      ],
+      "en": "history",
+      "ko": "역사"
+    },
+    {
+      "id": 7121,
+      "elements": [
+        {
+          "word": "周",
+          "reading": "まわ"
+        },
+        {
+          "word": "り",
+          "reading": ""
+        }
+      ],
+      "en": "surroundings",
+      "ko": "주변"
+    },
+    {
+      "id": 7119,
+      "elements": [
+        {
+          "word": "喉",
+          "reading": "のど"
+        }
+      ],
+      "en": "throat",
+      "ko": "목"
+    },
+    {
+      "id": 7118,
+      "elements": [
+        {
+          "word": "夢",
+          "reading": "ゆめ"
+        }
+      ],
+      "en": "a dream",
+      "ko": "꿈"
+    },
+    {
+      "id": 7115,
+      "elements": [
+        {
+          "word": "隅",
+          "reading": "すみ"
+        }
+      ],
+      "en": "corner",
+      "ko": "구석"
+    },
+    {
+      "id": 7114,
+      "elements": [
+        {
+          "word": "国際",
+          "reading": "こくさい"
+        }
+      ],
+      "en": "international",
+      "ko": "국제"
+    },
+    {
+      "id": 7113,
+      "elements": [
+        {
+          "word": "邪魔",
+          "reading": "じゃま"
+        }
+      ],
+      "en": "hindrance, intrusion",
+      "ko": "방해"
+    },
+    {
+      "id": 7112,
+      "elements": [
+        {
+          "word": "米",
+          "reading": "こめ"
+        }
+      ],
+      "en": "uncooked rice",
+      "ko": "쌀"
+    },
+    {
+      "id": 7111,
+      "elements": [
+        {
+          "word": "女性",
+          "reading": "じょせい"
+        }
+      ],
+      "en": "woman",
+      "ko": "여성"
+    },
+    {
+      "id": 7110,
+      "elements": [
+        {
+          "word": "教育",
+          "reading": "きょういく"
+        }
+      ],
+      "en": "education",
+      "ko": "교육"
+    },
+    {
+      "id": 7109,
+      "elements": [
+        {
+          "word": "昼間",
+          "reading": "ひるま"
+        }
+      ],
+      "en": "daytime, during the day",
+      "ko": "낮"
+    },
+    {
+      "id": 7107,
+      "elements": [
+        {
+          "word": "あんな",
+          "reading": ""
+        }
+      ],
+      "en": "such, like that",
+      "ko": "그런"
+    },
+    {
+      "id": 7105,
+      "elements": [
+        {
+          "word": "～ちゃん",
+          "reading": ""
+        }
+      ],
+      "en": "suffix for familiar (female) person",
+      "ko": "~ちゃん"
+    },
+    {
+      "id": 7102,
+      "elements": [
+        {
+          "word": "おもちゃ",
+          "reading": "おもちゃ"
+        }
+      ],
+      "en": "a toy",
+      "ko": "장난감"
+    },
+    {
+      "id": 7101,
+      "elements": [
+        {
+          "word": "着",
+          "reading": "き"
+        },
+        {
+          "word": "物",
+          "reading": "もの"
+        }
+      ],
+      "en": "kimono; Japanese traditional dress",
+      "ko": "옷"
+    },
+    {
+      "id": 7099,
+      "elements": [
+        {
+          "word": "理由",
+          "reading": "りゆう"
+        }
+      ],
+      "en": "reason",
+      "ko": "이유"
+    },
+    {
+      "id": 7098,
+      "elements": [
+        {
+          "word": "男性",
+          "reading": "だんせい"
+        }
+      ],
+      "en": "man; male",
+      "ko": "남성"
+    },
+    {
+      "id": 7097,
+      "elements": [
+        {
+          "word": "アメリカ",
+          "reading": "アメリカ"
+        }
+      ],
+      "en": "America, U.S.A.",
+      "ko": "미국"
+    },
+    {
+      "id": 7096,
+      "elements": [
+        {
+          "word": "一",
+          "reading": "いっ"
+        },
+        {
+          "word": "杯",
+          "reading": "ぱい"
+        }
+      ],
+      "en": "full, to the utmost",
+      "ko": "꽉 차다"
+    },
+    {
+      "id": 7095,
+      "elements": [
+        {
+          "word": "彼",
+          "reading": "かれ"
+        },
+        {
+          "word": "ら",
+          "reading": ""
+        }
+      ],
+      "en": "they (usually male)",
+      "ko": "그들"
+    },
+    {
+      "id": 7094,
+      "elements": [
+        {
+          "word": "教会",
+          "reading": "きょうかい"
+        }
+      ],
+      "en": "church",
+      "ko": "교회"
+    },
+    {
+      "id": 7093,
+      "elements": [
+        {
+          "word": "足",
+          "reading": "た"
+        },
+        {
+          "word": "す",
+          "reading": ""
+        }
+      ],
+      "en": "to add (numbers)",
+      "ko": "더하다"
+    },
+    {
+      "id": 7092,
+      "elements": [
+        {
+          "word": "火",
+          "reading": "か"
+        },
+        {
+          "word": "事",
+          "reading": "じ"
+        }
+      ],
+      "en": "fire",
+      "ko": "화재"
+    },
+    {
+      "id": 7091,
+      "elements": [
+        {
+          "word": "部",
+          "reading": "ぶ"
+        },
+        {
+          "word": "長",
+          "reading": "ちょう"
+        }
+      ],
+      "en": "department (division) manager",
+      "ko": "부장"
+    },
+    {
+      "id": 7090,
+      "elements": [
+        {
+          "word": "パ",
+          "reading": "パ"
+        },
+        {
+          "word": "ソ",
+          "reading": "ソ"
+        },
+        {
+          "word": "コン",
+          "reading": "コン"
+        }
+      ],
+      "en": "(personal) computer",
+      "ko": "컴퓨터"
+    },
+    {
+      "id": 7088,
+      "elements": [
+        {
+          "word": "片",
+          "reading": "かた"
+        },
+        {
+          "word": "付け",
+          "reading": "づけ"
+        },
+        {
+          "word": "る",
+          "reading": ""
+        }
+      ],
+      "en": "to (clean) tidy up (v.t.), to put away",
+      "ko": "정리하다"
+    },
+    {
+      "id": 7084,
+      "elements": [
+        {
+          "word": "港",
+          "reading": "みなと"
+        }
+      ],
+      "en": "harbor, port",
+      "ko": "항구"
+    },
+    {
+      "id": 7083,
+      "elements": [
+        {
+          "word": "祖父",
+          "reading": "そふ"
+        }
+      ],
+      "en": "grandfather",
+      "ko": "할아버지"
+    },
+    {
+      "id": 7082,
+      "elements": [
+        {
+          "word": "気持ち",
+          "reading": "きもち"
+        }
+      ],
+      "en": "feeling, sensation, mood",
+      "ko": "기분"
+    },
+    {
+      "id": 7081,
+      "elements": [
+        {
+          "word": "差し",
+          "reading": "さし"
+        },
+        {
+          "word": "上げる",
+          "reading": "あげる"
+        }
+      ],
+      "en": "-- humble expression for あげる --",
+      "ko": "주다"
+    },
+    {
+      "id": 7079,
+      "elements": [
+        {
+          "word": "科学",
+          "reading": "かがく"
+        }
+      ],
+      "en": "science",
+      "ko": "과학"
+    },
+    {
+      "id": 7078,
+      "elements": [
+        {
+          "word": "亡",
+          "reading": "な"
+        },
+        {
+          "word": "くなる",
+          "reading": "くなる"
+        }
+      ],
+      "en": "to pass away",
+      "ko": "죽다"
+    },
+    {
+      "id": 7076,
+      "elements": [
+        {
+          "word": "都合",
+          "reading": "つごう"
+        }
+      ],
+      "en": "circumstances, convenience",
+      "ko": "편리함"
+    },
+    {
+      "id": 7075,
+      "elements": [
+        {
+          "word": "冷",
+          "reading": "れい"
+        },
+        {
+          "word": "房",
+          "reading": "ぼう"
+        }
+      ],
+      "en": "cooling, air conditioning",
+      "ko": "에어컨"
+    },
+    {
+      "id": 7074,
+      "elements": [
+        {
+          "word": "引っ",
+          "reading": "ひっ"
+        },
+        {
+          "word": "越",
+          "reading": "こ"
+        },
+        {
+          "word": "す",
+          "reading": "す"
+        }
+      ],
+      "en": "to move to a new place of residence",
+      "ko": "이사하다"
+    },
+    {
+      "id": 7073,
+      "elements": [
+        {
+          "word": "興味",
+          "reading": "きょうみ"
+        }
+      ],
+      "en": "interest (in something)",
+      "ko": "관심"
+    },
+    {
+      "id": 7072,
+      "elements": [
+        {
+          "word": "踊り",
+          "reading": "おどり"
+        }
+      ],
+      "en": "dance",
+      "ko": "춤"
+    },
+    {
+      "id": 7071,
+      "elements": [
+        {
+          "word": "ごちそう",
+          "reading": "ごちそう"
+        }
+      ],
+      "en": "feast, treating (someone)",
+      "ko": "잔치"
+    },
+    {
+      "id": 7070,
+      "elements": [
+        {
+          "word": "校長",
+          "reading": "こうちょう"
+        }
+      ],
+      "en": "principal, headmaster",
+      "ko": "교장"
+    },
+    {
+      "id": 7069,
+      "elements": [
+        {
+          "word": "手",
+          "reading": "て"
+        },
+        {
+          "word": "袋",
+          "reading": "ぶくろ"
+        }
+      ],
+      "en": "glove(s)",
+      "ko": "장갑"
+    },
+    {
+      "id": 7068,
+      "elements": [
+        {
+          "word": "空港",
+          "reading": "くうこう"
+        }
+      ],
+      "en": "airport",
+      "ko": "공항"
+    },
+    {
+      "id": 7067,
+      "elements": [
+        {
+          "word": "味",
+          "reading": "あじ"
+        }
+      ],
+      "en": "flavor, taste",
+      "ko": "맛"
+    },
+    {
+      "id": 7066,
+      "elements": [
+        {
+          "word": "皆",
+          "reading": "みな"
+        }
+      ],
+      "en": "everyone",
+      "ko": "모두"
+    },
+    {
+      "id": 7065,
+      "elements": [
+        {
+          "word": "急",
+          "reading": "きゅう"
+        },
+        {
+          "word": "行",
+          "reading": "こう"
+        }
+      ],
+      "en": "express train or bus",
+      "ko": "급행"
+    },
+    {
+      "id": 7064,
+      "elements": [
+        {
+          "word": "喜",
+          "reading": "よろこ"
+        },
+        {
+          "word": "ぶ",
+          "reading": ""
+        }
+      ],
+      "en": "to rejoice, to be delighted, to be glad",
+      "ko": "기뻐하다"
+    },
+    {
+      "id": 7063,
+      "elements": [
+        {
+          "word": "ワ",
+          "reading": "ワ"
+        },
+        {
+          "word": "ープ",
+          "reading": "ープ"
+        },
+        {
+          "word": "ロ",
+          "reading": "ロ"
+        }
+      ],
+      "en": "word processor",
+      "ko": "워드프로세서"
+    },
+    {
+      "id": 7062,
+      "elements": [
+        {
+          "word": "交通",
+          "reading": "こうつう"
+        }
+      ],
+      "en": "traffic, transportation",
+      "ko": "교통"
+    },
+    {
+      "id": 7061,
+      "elements": [
+        {
+          "word": "空",
+          "reading": "くう"
+        },
+        {
+          "word": "気",
+          "reading": "き"
+        }
+      ],
+      "en": "air, atmosphere",
+      "ko": "공기"
+    },
+    {
+      "id": 7060,
+      "elements": [
+        {
+          "word": "会",
+          "reading": "かい"
+        },
+        {
+          "word": "話",
+          "reading": "わ"
+        }
+      ],
+      "en": "conversation",
+      "ko": "대화"
+    },
+    {
+      "id": 7058,
+      "elements": [
+        {
+          "word": "おつり",
+          "reading": "おつり"
+        }
+      ],
+      "en": "change; balance of money returned to the purchaser",
+      "ko": "거스름돈"
+    },
+    {
+      "id": 7057,
+      "elements": [
+        {
+          "word": "今",
+          "reading": "こん"
+        },
+        {
+          "word": "夜",
+          "reading": "や"
+        }
+      ],
+      "en": "this evening, tonight",
+      "ko": "오늘밤"
+    },
+    {
+      "id": 7056,
+      "elements": [
+        {
+          "word": "よろしい",
+          "reading": "よろしい"
+        }
+      ],
+      "en": "(hon.) good, OK, all right",
+      "ko": "좋습니다"
+    },
+    {
+      "id": 7055,
+      "elements": [
+        {
+          "word": "泊",
+          "reading": "と"
+        },
+        {
+          "word": "まる",
+          "reading": "まる"
+        }
+      ],
+      "en": "to stay (over night) (v.i.)",
+      "ko": "묵다"
+    },
+    {
+      "id": 7054,
+      "elements": [
+        {
+          "word": "店員",
+          "reading": "てんいん"
+        }
+      ],
+      "en": "clerk; shop-employee",
+      "ko": "직원"
+    },
+    {
+      "id": 7052,
+      "elements": [
+        {
+          "word": "真面目",
+          "reading": "まじめ"
+        }
+      ],
+      "en": "diligent, serious",
+      "ko": "진지하다"
+    },
+    {
+      "id": 7051,
+      "elements": [
+        {
+          "word": "試験",
+          "reading": "しけん"
+        }
+      ],
+      "en": "an exam",
+      "ko": "시험"
+    },
+    {
+      "id": 7050,
+      "elements": [
+        {
+          "word": "申す",
+          "reading": "もうす"
+        }
+      ],
+      "en": "-- extra-modest (humble) expression for 言う (いう) --",
+      "ko": "말하다"
+    },
+    {
+      "id": 7049,
+      "elements": [
+        {
+          "word": "おる",
+          "reading": "おる"
+        }
+      ],
+      "en": "-- extra-modest expression for いる --",
+      "ko": "있다"
+    },
+    {
+      "id": 7048,
+      "elements": [
+        {
+          "word": "反対",
+          "reading": "はんたい"
+        }
+      ],
+      "en": "oppose, opposition, resistance",
+      "ko": "반대"
+    },
+    {
+      "id": 7047,
+      "elements": [
+        {
+          "word": "貿易",
+          "reading": "ぼうえき"
+        }
+      ],
+      "en": "trade",
+      "ko": "무역"
+    },
+    {
+      "id": 7046,
+      "elements": [
+        {
+          "word": "楽む",
+          "reading": "たのしむ"
+        }
+      ],
+      "en": "to enjoy",
+      "ko": "즐기다"
+    },
+    {
+      "id": 7045,
+      "elements": [
+        {
+          "word": "進む",
+          "reading": "すすむ"
+        }
+      ],
+      "en": "to advance, to proceed",
+      "ko": "진행하다"
+    },
+    {
+      "id": 7044,
+      "elements": [
+        {
+          "word": "法律",
+          "reading": "ほうりつ"
+        }
+      ],
+      "en": "law",
+      "ko": "법률"
+    },
+    {
+      "id": 7043,
+      "elements": [
+        {
+          "word": "はず",
+          "reading": "はず"
+        }
+      ],
+      "en": "it should be so",
+      "ko": "~할 것 같다"
+    },
+    {
+      "id": 7042,
+      "elements": [
+        {
+          "word": "鏡",
+          "reading": "かがみ"
+        }
+      ],
+      "en": "mirror",
+      "ko": "거울"
+    },
+    {
+      "id": 7041,
+      "elements": [
+        {
+          "word": "招待",
+          "reading": "しょうたいする"
+        }
+      ],
+      "en": "invitation",
+      "ko": "초대하다"
+    },
+    {
+      "id": 7040,
+      "elements": [
+        {
+          "word": "ジャム",
+          "reading": "ジャム"
+        }
+      ],
+      "en": "jam",
+      "ko": "잼"
+    },
+    {
+      "id": 7039,
+      "elements": [
+        {
+          "word": "下宿",
+          "reading": "げしゅく"
+        }
+      ],
+      "en": "lodging, boarding house",
+      "ko": "下宿"
+    },
+    {
+      "id": 7038,
+      "elements": [
+        {
+          "word": "小鳥",
+          "reading": "ことり"
+        }
+      ],
+      "en": "small bird",
+      "ko": "새"
+    },
+    {
+      "id": 7037,
+      "elements": [
+        {
+          "word": "技術",
+          "reading": "ぎじゅつ"
+        }
+      ],
+      "en": "technique, technology, skill",
+      "ko": "기술"
+    },
+    {
+      "id": 7036,
+      "elements": [
+        {
+          "word": "連れる",
+          "reading": "つれる"
+        }
+      ],
+      "en": "to lead, to take (a person)",
+      "ko": "데려가다"
+    },
+    {
+      "id": 7035,
+      "elements": [
+        {
+          "word": "通う",
+          "reading": "かよう"
+        }
+      ],
+      "en": "to go back and forth; to commute",
+      "ko": "통학하다"
+    },
+    {
+      "id": 7034,
+      "elements": [
+        {
+          "word": "案内",
+          "reading": "あんないする"
+        }
+      ],
+      "en": "information, guidance",
+      "ko": "안내하다"
+    },
+    {
+      "id": 7033,
+      "elements": [
+        {
+          "word": "乗り物",
+          "reading": "のりもの"
+        }
+      ],
+      "en": "vehicle",
+      "ko": "교통수단"
+    },
+    {
+      "id": 7032,
+      "elements": [
+        {
+          "word": "お祝い",
+          "reading": "おいわい"
+        }
+      ],
+      "en": "congratulation, celebration",
+      "ko": "축하"
+    },
+    {
+      "id": 7031,
+      "elements": [
+        {
+          "word": "味噌",
+          "reading": "みそ"
+        }
+      ],
+      "en": "miso, bean paste",
+      "ko": "된장"
+    },
+    {
+      "id": 7029,
+      "elements": [
+        {
+          "word": "火",
+          "reading": "ひ"
+        }
+      ],
+      "en": "fire",
+      "ko": "불"
+    },
+    {
+      "id": 7028,
+      "elements": [
+        {
+          "word": "寂",
+          "reading": "さび"
+        },
+        {
+          "word": "しい",
+          "reading": ""
+        }
+      ],
+      "en": "lonely, lonesome",
+      "ko": "쓸쓸하다"
+    },
+    {
+      "id": 7025,
+      "elements": [
+        {
+          "word": "消し",
+          "reading": "けし"
+        },
+        {
+          "word": "ゴム",
+          "reading": ""
+        }
+      ],
+      "en": "eraser",
+      "ko": "지우개"
+    },
+    {
+      "id": 7023,
+      "elements": [
+        {
+          "word": "アナウンサー",
+          "reading": "アナウンサー"
+        }
+      ],
+      "en": "announcer",
+      "ko": "방송 아나운서"
+    },
+    {
+      "id": 7022,
+      "elements": [
+        {
+          "word": "すっかり",
+          "reading": "すっかり"
+        }
+      ],
+      "en": "all, completely",
+      "ko": "완전히"
+    },
+    {
+      "id": 7020,
+      "elements": [
+        {
+          "word": "形",
+          "reading": "かたち"
+        }
+      ],
+      "en": "shape",
+      "ko": "모양"
+    },
+    {
+      "id": 7019,
+      "elements": [
+        {
+          "word": "探",
+          "reading": "さが"
+        },
+        {
+          "word": "す",
+          "reading": ""
+        }
+      ],
+      "en": "to search, to seek, to look for",
+      "ko": "찾다"
+    },
+    {
+      "id": 7015,
+      "elements": [
+        {
+          "word": "用",
+          "reading": "よう"
+        }
+      ],
+      "en": "errand, task, business (to take care of)",
+      "ko": "용건"
+    },
+    {
+      "id": 7013,
+      "elements": [
+        {
+          "word": "ご主人",
+          "reading": "ごしゅじん"
+        }
+      ],
+      "en": "(your, her) husband",
+      "ko": "남편"
+    },
+    {
+      "id": 7012,
+      "elements": [
+        {
+          "word": "塗",
+          "reading": "ぬ"
+        },
+        {
+          "word": "る",
+          "reading": ""
+        }
+      ],
+      "en": "to paint, to plaster",
+      "ko": "바르다"
+    },
+    {
+      "id": 7010,
+      "elements": [
+        {
+          "word": "踊",
+          "reading": "おど"
+        },
+        {
+          "word": "る",
+          "reading": ""
+        }
+      ],
+      "en": "to dance",
+      "ko": "춤추다"
+    },
+    {
+      "id": 7008,
+      "elements": [
+        {
+          "word": "石",
+          "reading": "いし"
+        }
+      ],
+      "en": "stone",
+      "ko": "돌"
+    },
+    {
+      "id": 7007,
+      "elements": [
+        {
+          "word": "乾",
+          "reading": "かわ"
+        },
+        {
+          "word": "く",
+          "reading": ""
+        }
+      ],
+      "en": "to get dry",
+      "ko": "마르다"
+    },
+    {
+      "id": 7006,
+      "elements": [
+        {
+          "word": "オーバー",
+          "reading": "オーバー"
+        }
+      ],
+      "en": "overcoat; over, exceeding, exaggeration",
+      "ko": "외투"
+    },
+    {
+      "id": 7004,
+      "elements": [
+        {
+          "word": "以内",
+          "reading": "いない"
+        }
+      ],
+      "en": "within, less (no more) than",
+      "ko": "이내"
+    },
+    {
+      "id": 7003,
+      "elements": [
+        {
+          "word": "森",
+          "reading": "もり"
+        }
+      ],
+      "en": "forest",
+      "ko": "숲"
+    },
+    {
+      "id": 7001,
+      "elements": [
+        {
+          "word": "ステーキ",
+          "reading": "ステーキ"
+        }
+      ],
+      "en": "steak",
+      "ko": "스테이크"
+    },
+    {
+      "id": 7000,
+      "elements": [
+        {
+          "word": "確か",
+          "reading": "たしか"
+        }
+      ],
+      "en": "if I remember correctly; certain, definite",
+      "ko": "확실하다"
+    },
+    {
+      "id": 6999,
+      "elements": [
+        {
+          "word": "景",
+          "reading": "け"
+        },
+        {
+          "word": "色",
+          "reading": "しき"
+        }
+      ],
+      "en": "scenery, landscape",
+      "ko": "경치"
+    },
+    {
+      "id": 6997,
+      "elements": [
+        {
+          "word": "届",
+          "reading": "とど"
+        },
+        {
+          "word": "ける",
+          "reading": "ける"
+        }
+      ],
+      "en": "to deliver (v.t.)",
+      "ko": "전달하다"
+    },
+    {
+      "id": 6996,
+      "elements": [
+        {
+          "word": "サラダ",
+          "reading": "サラダ"
+        }
+      ],
+      "en": "salad",
+      "ko": "샐러드"
+    },
+    {
+      "id": 6995,
+      "elements": [
+        {
+          "word": "～だす",
+          "reading": "～だす"
+        }
+      ],
+      "en": "to start doing ~",
+      "ko": "~하다 시작하다"
+    },
+    {
+      "id": 6994,
+      "elements": [
+        {
+          "word": "心",
+          "reading": "こころ"
+        }
+      ],
+      "en": "heart, mind",
+      "ko": "마음"
+    },
+    {
+      "id": 6993,
+      "elements": [
+        {
+          "word": "～ばかり",
+          "reading": "～ばかり"
+        }
+      ],
+      "en": "just did ~, only",
+      "ko": "~뿐"
+    },
+    {
+      "id": 6992,
+      "elements": [
+        {
+          "word": "選",
+          "reading": "えら"
+        },
+        {
+          "word": "ぶ",
+          "reading": "ぶ"
+        }
+      ],
+      "en": "to choose; to select",
+      "ko": "고르다"
+    },
+    {
+      "id": 6991,
+      "elements": [
+        {
+          "word": "以下",
+          "reading": "いか"
+        }
+      ],
+      "en": "less than, below",
+      "ko": "이하"
+    },
+    {
+      "id": 6990,
+      "elements": [
+        {
+          "word": "けが",
+          "reading": "けが"
+        },
+        {
+          "word": "する",
+          "reading": "する"
+        }
+      ],
+      "en": "injury (to animate object), hurt",
+      "ko": "부상하다"
+    },
+    {
+      "id": 6989,
+      "elements": [
+        {
+          "word": "または",
+          "reading": "または"
+        }
+      ],
+      "en": "or, otherwise",
+      "ko": "또는"
+    },
+    {
+      "id": 6988,
+      "elements": [
+        {
+          "word": "増",
+          "reading": "ふ"
+        },
+        {
+          "word": "える",
+          "reading": "える"
+        }
+      ],
+      "en": "to increase, to multiply",
+      "ko": "늘다"
+    },
+    {
+      "id": 6987,
+      "elements": [
+        {
+          "word": "スクリーン",
+          "reading": "スクリーン"
+        }
+      ],
+      "en": "screen",
+      "ko": "화면"
+    },
+    {
+      "id": 6986,
+      "elements": [
+        {
+          "word": "内",
+          "reading": "うち"
+        }
+      ],
+      "en": "within, inside",
+      "ko": "안"
+    },
+    {
+      "id": 6985,
+      "elements": [
+        {
+          "word": "受付",
+          "reading": "うけつけ"
+        }
+      ],
+      "en": "reception(ist) desk",
+      "ko": "접수"
+    },
+    {
+      "id": 6984,
+      "elements": [
+        {
+          "word": "漬",
+          "reading": "つ"
+        },
+        {
+          "word": "ける",
+          "reading": "ける"
+        }
+      ],
+      "en": "to soak, to moisten, to pickle",
+      "ko": "담그다"
+    },
+    {
+      "id": 6983,
+      "elements": [
+        {
+          "word": "もちろん",
+          "reading": "もちろん"
+        }
+      ],
+      "en": "certainly, of course",
+      "ko": "물론"
+    },
+    {
+      "id": 6982,
+      "elements": [
+        {
+          "word": "答",
+          "reading": "こたえ"
+        }
+      ],
+      "en": "answer, response",
+      "ko": "답"
+    },
+    {
+      "id": 6981,
+      "elements": [
+        {
+          "word": "場所",
+          "reading": "ばしょ"
+        }
+      ],
+      "en": "place, location",
+      "ko": "장소"
+    },
+    {
+      "id": 6980,
+      "elements": [
+        {
+          "word": "祖母",
+          "reading": "そぼ"
+        }
+      ],
+      "en": "grandmother",
+      "ko": "할머니"
+    },
+    {
+      "id": 6978,
+      "elements": [
+        {
+          "word": "驚く",
+          "reading": "おどろく"
+        }
+      ],
+      "en": "to be surprised, to be astonished",
+      "ko": "놀라다"
+    },
+    {
+      "id": 6977,
+      "elements": [
+        {
+          "word": "原因",
+          "reading": "げんいん"
+        }
+      ],
+      "en": "cause, origin, source",
+      "ko": "원인"
+    },
+    {
+      "id": 6976,
+      "elements": [
+        {
+          "word": "～員",
+          "reading": "～いん"
+        }
+      ],
+      "en": "member of ~",
+      "ko": "~원"
+    },
+    {
+      "id": 6975,
+      "elements": [
+        {
+          "word": "くれる",
+          "reading": "くれる"
+        }
+      ],
+      "en": "to give, to do for",
+      "ko": "주다"
+    },
+    {
+      "id": 6974,
+      "elements": [
+        {
+          "word": "立てる",
+          "reading": "たてる"
+        }
+      ],
+      "en": "to stand (something) up, to erect (something)",
+      "ko": "세우다"
+    },
+    {
+      "id": 6973,
+      "elements": [
+        {
+          "word": "残",
+          "reading": "のこ"
+        },
+        {
+          "word": "る",
+          "reading": "る"
+        }
+      ],
+      "en": "to remain (v.i.), to be left",
+      "ko": "남다"
+    },
+    {
+      "id": 6972,
+      "elements": [
+        {
+          "word": "辞典",
+          "reading": "じてん"
+        }
+      ],
+      "en": "encyclopedia, reference book",
+      "ko": "사전"
+    },
+    {
+      "id": 6971,
+      "elements": [
+        {
+          "word": "変",
+          "reading": "へん"
+        }
+      ],
+      "en": "strange, odd",
+      "ko": "이상하다"
+    },
+    {
+      "id": 6969,
+      "elements": [
+        {
+          "word": "おかしい",
+          "reading": "おかしい"
+        }
+      ],
+      "en": "strange; odd; funny",
+      "ko": " 이상한"
+    },
+    {
+      "id": 6968,
+      "elements": [
+        {
+          "word": "赤",
+          "reading": "あ"
+        },
+        {
+          "word": "ん坊",
+          "reading": "かんぼう"
+        }
+      ],
+      "en": "baby",
+      "ko": "아기"
+    },
+    {
+      "id": 6967,
+      "elements": [
+        {
+          "word": "ベル",
+          "reading": "ベル"
+        }
+      ],
+      "en": "bell",
+      "ko": "벨"
+    },
+    {
+      "id": 6966,
+      "elements": [
+        {
+          "word": "匂",
+          "reading": "にお"
+        },
+        {
+          "word": "い",
+          "reading": "い"
+        }
+      ],
+      "en": "odor, smell",
+      "ko": "냄새"
+    },
+    {
+      "id": 6965,
+      "elements": [
+        {
+          "word": "水",
+          "reading": "すい"
+        },
+        {
+          "word": "道",
+          "reading": "どう"
+        }
+      ],
+      "en": "water service, water line",
+      "ko": "수도"
+    },
+    {
+      "id": 6964,
+      "elements": [
+        {
+          "word": "お祭り",
+          "reading": "おまつり"
+        }
+      ],
+      "en": "festival",
+      "ko": "축제"
+    },
+    {
+      "id": 6963,
+      "elements": [
+        {
+          "word": "熱",
+          "reading": "ねつ"
+        }
+      ],
+      "en": "fever, temperature",
+      "ko": "열"
+    },
+    {
+      "id": 6962,
+      "elements": [
+        {
+          "word": "治",
+          "reading": "なお"
+        },
+        {
+          "word": "る",
+          "reading": "る"
+        }
+      ],
+      "en": "to get better; to recover from illness (v.i.)",
+      "ko": "낫다"
+    },
+    {
+      "id": 6960,
+      "elements": [
+        {
+          "word": "もらう",
+          "reading": "もらう"
+        }
+      ],
+      "en": "to receive",
+      "ko": "받다"
+    },
+    {
+      "id": 6959,
+      "elements": [
+        {
+          "word": "始め",
+          "reading": "はじ"
+        },
+        {
+          "word": "る",
+          "reading": "める"
+        }
+      ],
+      "en": "to start, to begin",
+      "ko": "시작하다"
+    },
+    {
+      "id": 6958,
+      "elements": [
+        {
+          "word": "熱心",
+          "reading": "ねっしん"
+        }
+      ],
+      "en": "enthusiasm",
+      "ko": "열심"
+    },
+    {
+      "id": 6957,
+      "elements": [
+        {
+          "word": "歯",
+          "reading": "はい"
+        },
+        {
+          "word": "医者",
+          "reading": "しゃ"
+        }
+      ],
+      "en": "dentist",
+      "ko": "치과의사"
+    },
+    {
+      "id": 6956,
+      "elements": [
+        {
+          "word": "知",
+          "reading": "しら"
+        },
+        {
+          "word": "らせる",
+          "reading": "せる"
+        }
+      ],
+      "en": "to notify",
+      "ko": "알리다"
+    },
+    {
+      "id": 6955,
+      "elements": [
+        {
+          "word": "親切",
+          "reading": "しんせつ"
+        }
+      ],
+      "en": "kindness",
+      "ko": "친절"
+    },
+    {
+      "id": 6954,
+      "elements": [
+        {
+          "word": "お礼",
+          "reading": "おれい"
+        }
+      ],
+      "en": "expression of gratitude; thanking; gift of appreciation; bow",
+      "ko": "감사"
+    },
+    {
+      "id": 6953,
+      "elements": [
+        {
+          "word": "一度",
+          "reading": "いちど"
+        }
+      ],
+      "en": "once, one time",
+      "ko": "한 번"
+    },
+    {
+      "id": 6952,
+      "elements": [
+        {
+          "word": "壁",
+          "reading": "かべ"
+        }
+      ],
+      "en": "wall",
+      "ko": "벽"
+    },
+    {
+      "id": 6951,
+      "elements": [
+        {
+          "word": "終わり",
+          "reading": "おわり"
+        }
+      ],
+      "en": "end",
+      "ko": "끝"
+    },
+    {
+      "id": 6950,
+      "elements": [
+        {
+          "word": "文法",
+          "reading": "ぶんぽう"
+        }
+      ],
+      "en": "grammar",
+      "ko": "문법"
+    },
+    {
+      "id": 6949,
+      "elements": [
+        {
+          "word": "美術館",
+          "reading": "びじゅつかん"
+        }
+      ],
+      "en": "art gallery, art museum",
+      "ko": "미술관"
+    },
+    {
+      "id": 6948,
+      "elements": [
+        {
+          "word": "素晴らしい",
+          "reading": "すばらしい"
+        }
+      ],
+      "en": "wonderful; terrific",
+      "ko": "멋진"
+    },
+    {
+      "id": 6947,
+      "elements": [
+        {
+          "word": "適当",
+          "reading": "てきとう"
+        }
+      ],
+      "en": "fitness, suitability",
+      "ko": "적절한"
+    },
+    {
+      "id": 6946,
+      "elements": [
+        {
+          "word": "試合",
+          "reading": "しあい"
+        }
+      ],
+      "en": "match, game, competition",
+      "ko": "경기"
+    },
+    {
+      "id": 6945,
+      "elements": [
+        {
+          "word": "どんどん",
+          "reading": "どんどん"
+        }
+      ],
+      "en": "quickly and steadily; at a rapid pace",
+      "ko": "빠르게"
+    },
+    {
+      "id": 6944,
+      "elements": [
+        {
+          "word": "事",
+          "reading": "こと"
+        }
+      ],
+      "en": "thing(s), matter(s), fact",
+      "ko": "것"
+    },
+    {
+      "id": 6943,
+      "elements": [
+        {
+          "word": "なさる",
+          "reading": "なさる"
+        }
+      ],
+      "en": "-- honorific expression for する --",
+      "ko": "하다 (존댓말)"
+    },
+    {
+      "id": 6942,
+      "elements": [
+        {
+          "word": "捨",
+          "reading": "す"
+        },
+        {
+          "word": "てる",
+          "reading": "てる"
+        }
+      ],
+      "en": "throw away (trash), dump, discard",
+      "ko": "버리다"
+    },
+    {
+      "id": 6941,
+      "elements": [
+        {
+          "word": "美",
+          "reading": "うつく"
+        },
+        {
+          "word": "しい",
+          "reading": "しい"
+        }
+      ],
+      "en": "beautiful, lovely",
+      "ko": "아름다운"
+    },
+    {
+      "id": 6940,
+      "elements": [
+        {
+          "word": "昔",
+          "reading": "むかし"
+        }
+      ],
+      "en": "old days; past",
+      "ko": "옛날"
+    },
+    {
+      "id": 6939,
+      "elements": [
+        {
+          "word": "客",
+          "reading": "きゃく"
+        }
+      ],
+      "en": "guest, customer",
+      "ko": "손님"
+    },
+    {
+      "id": 6937,
+      "elements": [
+        {
+          "word": "連",
+          "reading": "れん"
+        },
+        {
+          "word": "絡",
+          "reading": "らく"
+        }
+      ],
+      "en": "communication, contact, connection",
+      "ko": "연락"
+    },
+    {
+      "id": 6935,
+      "elements": [
+        {
+          "word": "決して",
+          "reading": "けっして"
+        }
+      ],
+      "en": "never",
+      "ko": "절대로"
+    },
+    {
+      "id": 6934,
+      "elements": [
+        {
+          "word": "柔",
+          "reading": "じゅう"
+        },
+        {
+          "word": "道",
+          "reading": "どう"
+        }
+      ],
+      "en": "judo",
+      "ko": "유도"
+    },
+    {
+      "id": 6933,
+      "elements": [
+        {
+          "word": "飛",
+          "reading": "ひ"
+        },
+        {
+          "word": "行",
+          "reading": "こう"
+        },
+        {
+          "word": "場",
+          "reading": "じょう"
+        }
+      ],
+      "en": "airport",
+      "ko": "공항"
+    },
+    {
+      "id": 6931,
+      "elements": [
+        {
+          "word": "坂",
+          "reading": "さか"
+        }
+      ],
+      "en": "slope, hill",
+      "ko": "언덕"
+    },
+    {
+      "id": 6930,
+      "elements": [
+        {
+          "word": "雲",
+          "reading": "くも"
+        }
+      ],
+      "en": "cloud",
+      "ko": "구름"
+    },
+    {
+      "id": 6929,
+      "elements": [
+        {
+          "word": "夫",
+          "reading": "おっと"
+        }
+      ],
+      "en": "husband",
+      "ko": "남편"
+    },
+    {
+      "id": 6928,
+      "elements": [
+        {
+          "word": "光",
+          "reading": "ひ"
+        },
+        {
+          "word": "る",
+          "reading": "かる"
+        }
+      ],
+      "en": "to shine, to glitter",
+      "ko": "빛나다"
+    },
+    {
+      "id": 6927,
+      "elements": [
+        {
+          "word": "パパ",
+          "reading": "パパ"
+        }
+      ],
+      "en": "papa, daddy",
+      "ko": "아빠"
+    },
+    {
+      "id": 6926,
+      "elements": [
+        {
+          "word": "寝",
+          "reading": "ね"
+        },
+        {
+          "word": "坊",
+          "reading": "ぼう"
+        }
+      ],
+      "en": "sleeping in late",
+      "ko": "늦잠"
+    },
+    {
+      "id": 6925,
+      "elements": [
+        {
+          "word": "調",
+          "reading": "しら"
+        },
+        {
+          "word": "べる",
+          "reading": "べる"
+        }
+      ],
+      "en": "to check; to look up; to inquire; to search",
+      "ko": "조사하다"
+    },
+    {
+      "id": 6924,
+      "elements": [
+        {
+          "word": "決",
+          "reading": "き"
+        },
+        {
+          "word": "める",
+          "reading": "める"
+        }
+      ],
+      "en": "to decide (v.t.)",
+      "ko": "결정하다"
+    },
+    {
+      "id": 6923,
+      "elements": [
+        {
+          "word": "戦",
+          "reading": "せん"
+        },
+        {
+          "word": "争",
+          "reading": "そう"
+        }
+      ],
+      "en": "war",
+      "ko": "전쟁"
+    },
+    {
+      "id": 6922,
+      "elements": [
+        {
+          "word": "線",
+          "reading": "せん"
+        }
+      ],
+      "en": "line, wire",
+      "ko": "선"
+    },
+    {
+      "id": 6921,
+      "elements": [
+        {
+          "word": "痩",
+          "reading": "や"
+        },
+        {
+          "word": "せる",
+          "reading": "せる"
+        }
+      ],
+      "en": "to lose weight",
+      "ko": "마르다"
+    },
+    {
+      "id": 6920,
+      "elements": [
+        {
+          "word": "倍",
+          "reading": "ばい"
+        }
+      ],
+      "en": "double",
+      "ko": "배"
+    },
+    {
+      "id": 6919,
+      "elements": [
+        {
+          "word": "林",
+          "reading": "はやし"
+        }
+      ],
+      "en": "woods, forest",
+      "ko": "숲"
+    },
+    {
+      "id": 6918,
+      "elements": [
+        {
+          "word": "再",
+          "reading": "さ"
+        },
+        {
+          "word": "来",
+          "reading": "らい"
+        },
+        {
+          "word": "月",
+          "reading": "げつ"
+        }
+      ],
+      "en": "the month after next",
+      "ko": "다음달 다음달"
+    },
+    {
+      "id": 6917,
+      "elements": [
+        {
+          "word": "住",
+          "reading": "じゅう"
+        },
+        {
+          "word": "所",
+          "reading": "しょ"
+        }
+      ],
+      "en": "address; place of residence",
+      "ko": "주소"
+    },
+    {
+      "id": 6916,
+      "elements": [
+        {
+          "word": "世界",
+          "reading": "せかい"
+        }
+      ],
+      "en": "world",
+      "ko": "세계"
+    },
+    {
+      "id": 6913,
+      "elements": [
+        {
+          "word": "ぶどう",
+          "reading": "ぶどう"
+        }
+      ],
+      "en": "grapes",
+      "ko": "포도"
+    },
+    {
+      "id": 6912,
+      "elements": [
+        {
+          "word": "行",
+          "reading": "おこな"
+        },
+        {
+          "word": "う",
+          "reading": "う"
+        }
+      ],
+      "en": "to carry out; to conduct (typically used in written language)",
+      "ko": "행하다"
+    },
+    {
+      "id": 6910,
+      "elements": [
+        {
+          "word": "やっと",
+          "reading": ""
+        }
+      ],
+      "en": "at last, finally",
+      "ko": "마침내"
+    },
+    {
+      "id": 6907,
+      "elements": [
+        {
+          "word": "そんな",
+          "reading": ""
+        }
+      ],
+      "en": "such, like that, that sort of",
+      "ko": "그런"
+    },
+    {
+      "id": 6902,
+      "elements": [
+        {
+          "word": "故障",
+          "reading": "こしょうする"
+        }
+      ],
+      "en": "breakdown",
+      "ko": "고장"
+    },
+    {
+      "id": 6901,
+      "elements": [
+        {
+          "word": "投げる",
+          "reading": "なげる"
+        }
+      ],
+      "en": "to pitch, to cast away",
+      "ko": "던지다"
+    },
+    {
+      "id": 6899,
+      "elements": [
+        {
+          "word": "けんかする",
+          "reading": ""
+        }
+      ],
+      "en": "quarrel",
+      "ko": "싸우다"
+    },
+    {
+      "id": 6898,
+      "elements": [
+        {
+          "word": "ビル",
+          "reading": ""
+        }
+      ],
+      "en": "(abbr.) building",
+      "ko": "빌딩"
+    },
+    {
+      "id": 6897,
+      "elements": [
+        {
+          "word": "用事",
+          "reading": "ようじ"
+        }
+      ],
+      "en": "business to take care of; tasks; errands",
+      "ko": "일"
+    },
+    {
+      "id": 6896,
+      "elements": [
+        {
+          "word": "いくら～ても",
+          "reading": ""
+        }
+      ],
+      "en": "however much one may ~",
+      "ko": "얼마나 ~하더라도"
+    },
+    {
+      "id": 6894,
+      "elements": [
+        {
+          "word": "止める",
+          "reading": "とめる"
+        }
+      ],
+      "en": "to stop (something)",
+      "ko": "멈추다"
+    },
+    {
+      "id": 6893,
+      "elements": [
+        {
+          "word": "飾る",
+          "reading": "かざる"
+        }
+      ],
+      "en": "to decorate, to adorn",
+      "ko": "장식하다"
+    },
+    {
+      "id": 6892,
+      "elements": [
+        {
+          "word": "利用",
+          "reading": "りよう"
+        }
+      ],
+      "en": "use, utilization",
+      "ko": "이용"
+    },
+    {
+      "id": 6891,
+      "elements": [
+        {
+          "word": "人形",
+          "reading": "にんぎょう"
+        }
+      ],
+      "en": "doll, figure",
+      "ko": "인형"
+    },
+    {
+      "id": 6890,
+      "elements": [
+        {
+          "word": "品物",
+          "reading": "しなもの"
+        }
+      ],
+      "en": "goods",
+      "ko": "물건"
+    },
+    {
+      "id": 6889,
+      "elements": [
+        {
+          "word": "会議室",
+          "reading": "かいぎしつ"
+        }
+      ],
+      "en": "conference room",
+      "ko": "회의실"
+    },
+    {
+      "id": 6888,
+      "elements": [
+        {
+          "word": "サンドイッチ",
+          "reading": ""
+        }
+      ],
+      "en": "sandwich",
+      "ko": "샌드위치"
+    },
+    {
+      "id": 6887,
+      "elements": [
+        {
+          "word": "無理",
+          "reading": "むり"
+        }
+      ],
+      "en": "unreasonable, impossible",
+      "ko": "불가능한"
+    },
+    {
+      "id": 6886,
+      "elements": [
+        {
+          "word": "なるべく",
+          "reading": ""
+        }
+      ],
+      "en": "if possible, as much as possible",
+      "ko": "가능하면"
+    },
+    {
+      "id": 6885,
+      "elements": [
+        {
+          "word": "包む",
+          "reading": "つつむ"
+        }
+      ],
+      "en": "to wrap, to cover",
+      "ko": "싸다"
+    },
+    {
+      "id": 6884,
+      "elements": [
+        {
+          "word": "怖い",
+          "reading": "こわい"
+        }
+      ],
+      "en": "scary, frightening",
+      "ko": "무서운"
+    },
+    {
+      "id": 6883,
+      "elements": [
+        {
+          "word": "さっき",
+          "reading": ""
+        }
+      ],
+      "en": "a little while ago",
+      "ko": "방금 전"
+    },
+    {
+      "id": 6882,
+      "elements": [
+        {
+          "word": "地理",
+          "reading": "ちり"
+        }
+      ],
+      "en": "geography",
+      "ko": "지리"
+    },
+    {
+      "id": 6881,
+      "elements": [
+        {
+          "word": "丁寧",
+          "reading": "ていねい"
+        }
+      ],
+      "en": "polite, courteous, careful",
+      "ko": "정중한"
+    },
+    {
+      "id": 6879,
+      "elements": [
+        {
+          "word": "残念",
+          "reading": "ざんねん"
+        }
+      ],
+      "en": "regret; regrettable",
+      "ko": "후회"
+    },
+    {
+      "id": 6878,
+      "elements": [
+        {
+          "word": "だから",
+          "reading": "だから"
+        }
+      ],
+      "en": "so; therefore",
+      "ko": "그러므로"
+    },
+    {
+      "id": 6877,
+      "elements": [
+        {
+          "word": "逃げる",
+          "reading": "にげる"
+        }
+      ],
+      "en": "to escape, to run away",
+      "ko": "도망치다"
+    },
+    {
+      "id": 6876,
+      "elements": [
+        {
+          "word": "開く",
+          "reading": "ひらく"
+        }
+      ],
+      "en": "to open; to hold (an event)",
+      "ko": "열다"
+    },
+    {
+      "id": 6875,
+      "elements": [
+        {
+          "word": "決まる",
+          "reading": "きまる"
+        }
+      ],
+      "en": "to be set; fixed (v.i.)",
+      "ko": "결정되다"
+    },
+    {
+      "id": 6874,
+      "elements": [
+        {
+          "word": "寄る",
+          "reading": "よる"
+        }
+      ],
+      "en": "to stop by",
+      "ko": "들르다"
+    },
+    {
+      "id": 6873,
+      "elements": [
+        {
+          "word": "季節",
+          "reading": "きせつ"
+        }
+      ],
+      "en": "season (in reference to weather)",
+      "ko": "계절"
+    },
+    {
+      "id": 6872,
+      "elements": [
+        {
+          "word": "捕まえる",
+          "reading": "つかまえる"
+        }
+      ],
+      "en": "to catch, to arrest",
+      "ko": "잡다"
+    },
+    {
+      "id": 6871,
+      "elements": [
+        {
+          "word": "動物園",
+          "reading": "どうぶつえん"
+        }
+      ],
+      "en": "zoo",
+      "ko": "동물원"
+    },
+    {
+      "id": 6870,
+      "elements": [
+        {
+          "word": "社長",
+          "reading": "しゃちょう"
+        }
+      ],
+      "en": "president of a company",
+      "ko": "사장"
+    },
+    {
+      "id": 6868,
+      "elements": [
+        {
+          "word": "触る",
+          "reading": "さわる"
+        }
+      ],
+      "en": "to touch, to feel",
+      "ko": "만지다"
+    },
+    {
+      "id": 6867,
+      "elements": [
+        {
+          "word": "迎える",
+          "reading": "むかえる"
+        }
+      ],
+      "en": "to welcome; to meet; to greet",
+      "ko": "맞이하다"
+    },
+    {
+      "id": 6866,
+      "elements": [
+        {
+          "word": "～家",
+          "reading": "～か"
+        }
+      ],
+      "en": "person who is specialized in ~",
+      "ko": "~ 전문가"
+    },
+    {
+      "id": 6865,
+      "elements": [
+        {
+          "word": "出席",
+          "reading": "しゅっせきする"
+        }
+      ],
+      "en": "attendance",
+      "ko": "출석"
+    },
+    {
+      "id": 6864,
+      "elements": [
+        {
+          "word": "～式",
+          "reading": "～しき"
+        }
+      ],
+      "en": "~ ceremony; ~ style",
+      "ko": "~식"
+    },
+    {
+      "id": 6863,
+      "elements": [
+        {
+          "word": "申し上げる",
+          "reading": "もうしあげる"
+        }
+      ],
+      "en": "(humble)to say, to tell",
+      "ko": "말씀드리다"
+    },
+    {
+      "id": 6862,
+      "elements": [
+        {
+          "word": "時代",
+          "reading": "じだい"
+        }
+      ],
+      "en": "age, period, epoch, era",
+      "ko": "시대"
+    },
+    {
+      "id": 6861,
+      "elements": [
+        {
+          "word": "パート (タイム)",
+          "reading": "パート (タイム)"
+        }
+      ],
+      "en": "part time (esp. female part time employees)",
+      "ko": "파트타임"
+    },
+    {
+      "id": 6860,
+      "elements": [
+        {
+          "word": "思う",
+          "reading": "おもう"
+        }
+      ],
+      "en": "to think, to feel",
+      "ko": "생각하다"
+    },
+    {
+      "id": 6859,
+      "elements": [
+        {
+          "word": "西洋",
+          "reading": "せいよう"
+        }
+      ],
+      "en": "the West, Western countries",
+      "ko": "서방"
+    },
+    {
+      "id": 6858,
+      "elements": [
+        {
+          "word": "それに",
+          "reading": "それに"
+        }
+      ],
+      "en": "moreover; besides",
+      "ko": "게다가"
+    },
+    {
+      "id": 6857,
+      "elements": [
+        {
+          "word": "親",
+          "reading": "おや"
+        }
+      ],
+      "en": "a parent",
+      "ko": "부모"
+    },
+    {
+      "id": 6856,
+      "elements": [
+        {
+          "word": "小説",
+          "reading": "しょうせつ"
+        }
+      ],
+      "en": "novel",
+      "ko": "소설"
+    },
+    {
+      "id": 6855,
+      "elements": [
+        {
+          "word": "嘘",
+          "reading": "うそ"
+        }
+      ],
+      "en": "lie",
+      "ko": "거짓말"
+    },
+    {
+      "id": 6854,
+      "elements": [
+        {
+          "word": "浅い",
+          "reading": "あさい"
+        }
+      ],
+      "en": "shallow, superficial",
+      "ko": "얕다"
+    },
+    {
+      "id": 6853,
+      "elements": [
+        {
+          "word": "赤ちゃん",
+          "reading": "あかちゃん"
+        }
+      ],
+      "en": "baby, infant",
+      "ko": "아기"
+    },
+    {
+      "id": 6852,
+      "elements": [
+        {
+          "word": "噛む",
+          "reading": "かむ"
+        }
+      ],
+      "en": "to bite, to chew",
+      "ko": "물다"
+    },
+    {
+      "id": 6851,
+      "elements": [
+        {
+          "word": "致す",
+          "reading": "いたす"
+        }
+      ],
+      "en": "-- extra-modest expression for する --",
+      "ko": "하다 (겸양 표현)"
+    },
+    {
+      "id": 6850,
+      "elements": [
+        {
+          "word": "起こ",
+          "reading": "おこ"
+        },
+        {
+          "word": "す",
+          "reading": ""
+        }
+      ],
+      "en": "to wake (someone) up",
+      "ko": "일으키다"
+    },
+    {
+      "id": 6849,
+      "elements": [
+        {
+          "word": "アルバイト",
+          "reading": "アルバイト"
+        }
+      ],
+      "en": "part-time job",
+      "ko": "아르바이트"
+    },
+    {
+      "id": 6848,
+      "elements": [
+        {
+          "word": "盛",
+          "reading": "さか"
+        },
+        {
+          "word": "ん",
+          "reading": ""
+        }
+      ],
+      "en": "prosperous, active, thriving",
+      "ko": "번영"
+    },
+    {
+      "id": 6847,
+      "elements": [
+        {
+          "word": "祈",
+          "reading": "いの"
+        },
+        {
+          "word": "る",
+          "reading": ""
+        }
+      ],
+      "en": "to pray; to wish",
+      "ko": "기도하다"
+    },
+    {
+      "id": 6846,
+      "elements": [
+        {
+          "word": "ガス",
+          "reading": "ガス"
+        }
+      ],
+      "en": "gas",
+      "ko": "가스"
+    },
+    {
+      "id": 6844,
+      "elements": [
+        {
+          "word": "悲",
+          "reading": "かな"
+        },
+        {
+          "word": "しい",
+          "reading": ""
+        }
+      ],
+      "en": "sad, sorrowful",
+      "ko": "슬프다"
+    },
+    {
+      "id": 6842,
+      "elements": [
+        {
+          "word": "落",
+          "reading": "おち"
+        },
+        {
+          "word": "る",
+          "reading": ""
+        }
+      ],
+      "en": "to fall, to drop",
+      "ko": "떨어지다"
+    },
+    {
+      "id": 6841,
+      "elements": [
+        {
+          "word": "揺",
+          "reading": "ゆ"
+        },
+        {
+          "word": "れる",
+          "reading": ""
+        }
+      ],
+      "en": "to shake, to sway",
+      "ko": "흔들리다"
+    },
+    {
+      "id": 6840,
+      "elements": [
+        {
+          "word": "壊",
+          "reading": "こわ"
+        },
+        {
+          "word": "れる",
+          "reading": ""
+        }
+      ],
+      "en": "to be broken, to break",
+      "ko": "망가지다"
+    },
+    {
+      "id": 6839,
+      "elements": [
+        {
+          "word": "深",
+          "reading": "ふか"
+        },
+        {
+          "word": "い",
+          "reading": ""
+        }
+      ],
+      "en": "deep, profound",
+      "ko": "깊다"
+    },
+    {
+      "id": 6838,
+      "elements": [
+        {
+          "word": "ちっとも",
+          "reading": ""
+        }
+      ],
+      "en": "not at all (neg. verb)",
+      "ko": "전혀 ~않다"
+    },
+    {
+      "id": 6837,
+      "elements": [
+        {
+          "word": "絹",
+          "reading": "きぬ"
+        }
+      ],
+      "en": "silk",
+      "ko": "비단"
+    },
+    {
+      "id": 6836,
+      "elements": [
+        {
+          "word": "月",
+          "reading": "つき"
+        }
+      ],
+      "en": "moon",
+      "ko": "달"
+    },
+    {
+      "id": 6835,
+      "elements": [
+        {
+          "word": "人",
+          "reading": "じん"
+        },
+        {
+          "word": "口",
+          "reading": "こう"
+        }
+      ],
+      "en": "population",
+      "ko": "인구"
+    },
+    {
+      "id": 6834,
+      "elements": [
+        {
+          "word": "エスカレーター",
+          "reading": "エスカレーター"
+        }
+      ],
+      "en": "escalator",
+      "ko": "엘리베이터"
+    },
+    {
+      "id": 6833,
+      "elements": [
+        {
+          "word": "厳",
+          "reading": "きび"
+        },
+        {
+          "word": "しい",
+          "reading": ""
+        }
+      ],
+      "en": "hard; rigorous; strict",
+      "ko": "엄격하다"
+    },
+    {
+      "id": 6832,
+      "elements": [
+        {
+          "word": "～学部",
+          "reading": "～がくぶ"
+        }
+      ],
+      "en": "department of a university",
+      "ko": "~학과"
+    },
+    {
+      "id": 6831,
+      "elements": [
+        {
+          "word": "ガラス",
+          "reading": "ガラス"
+        }
+      ],
+      "en": "glass, pane",
+      "ko": "유리"
+    },
+    {
+      "id": 6830,
+      "elements": [
+        {
+          "word": "止",
+          "reading": "や"
+        },
+        {
+          "word": "める",
+          "reading": ""
+        }
+      ],
+      "en": "to end, to stop",
+      "ko": "멈추다"
+    },
+    {
+      "id": 6829,
+      "elements": [
+        {
+          "word": "すると",
+          "reading": "すると"
+        }
+      ],
+      "en": "and, then",
+      "ko": "그리고"
+    },
+    {
+      "id": 6828,
+      "elements": [
+        {
+          "word": "地震",
+          "reading": "じしん"
+        }
+      ],
+      "en": "earthquake",
+      "ko": "지진"
+    },
+    {
+      "id": 6827,
+      "elements": [
+        {
+          "word": "課",
+          "reading": "か"
+        },
+        {
+          "word": "長",
+          "reading": "ちょう"
+        }
+      ],
+      "en": "section manager",
+      "ko": "과장"
+    },
+    {
+      "id": 6825,
+      "elements": [
+        {
+          "word": "葉",
+          "reading": "は"
+        }
+      ],
+      "en": "leaf",
+      "ko": "잎"
+    },
+    {
+      "id": 6824,
+      "elements": [
+        {
+          "word": "レポート; リポート",
+          "reading": "レポート; リポート"
+        }
+      ],
+      "en": "report",
+      "ko": "보고서"
+    },
+    {
+      "id": 6823,
+      "elements": [
+        {
+          "word": "過ぎる",
+          "reading": "すぎる"
+        }
+      ],
+      "en": "to exceed, to go beyond",
+      "ko": "넘다"
+    },
+    {
+      "id": 6822,
+      "elements": [
+        {
+          "word": "通",
+          "reading": "とお"
+        },
+        {
+          "word": "る",
+          "reading": ""
+        }
+      ],
+      "en": "to pass (by), to go through",
+      "ko": "통과하다"
+    },
+    {
+      "id": 6821,
+      "elements": [
+        {
+          "word": "そう",
+          "reading": "そう"
+        }
+      ],
+      "en": "really, (is that) so; yes, right",
+      "ko": "그렇군요"
+    },
+    {
+      "id": 6819,
+      "elements": [
+        {
+          "word": "日",
+          "reading": "ひ"
+        }
+      ],
+      "en": "sun, sunshine, day",
+      "ko": "해"
+    },
+    {
+      "id": 6818,
+      "elements": [
+        {
+          "word": "台",
+          "reading": "たい"
+        },
+        {
+          "word": "風",
+          "reading": "ふう"
+        }
+      ],
+      "en": "typhoon",
+      "ko": "태풍"
+    },
+    {
+      "id": 6817,
+      "elements": [
+        {
+          "word": "注意",
+          "reading": "ちゅうい"
+        }
+      ],
+      "en": "caution, attention",
+      "ko": "주의"
+    },
+    {
+      "id": 6816,
+      "elements": [
+        {
+          "word": "～",
+          "reading": "～"
+        },
+        {
+          "word": "製",
+          "reading": "せい"
+        }
+      ],
+      "en": "made in ~",
+      "ko": "~ 제작"
+    },
+    {
+      "id": 6815,
+      "elements": [
+        {
+          "word": "泥",
+          "reading": "どろ"
+        },
+        {
+          "word": "棒",
+          "reading": "ぼう"
+        }
+      ],
+      "en": "thief; burglar",
+      "ko": "도둑"
+    },
+    {
+      "id": 6813,
+      "elements": [
+        {
+          "word": "大",
+          "reading": "だい"
+        },
+        {
+          "word": "事",
+          "reading": "じ"
+        }
+      ],
+      "en": "important, valuable, serious matter",
+      "ko": "중요한 일"
+    },
+    {
+      "id": 6812,
+      "elements": [
+        {
+          "word": "布団",
+          "reading": "ふとん"
+        }
+      ],
+      "en": "futon",
+      "ko": "이불"
+    },
+    {
+      "id": 6811,
+      "elements": [
+        {
+          "word": "いらっしゃる",
+          "reading": "いらっしゃる"
+        }
+      ],
+      "en": "-- honorific expression for いく, くる, and いる --",
+      "ko": "오시다"
+    },
+    {
+      "id": 6810,
+      "elements": [
+        {
+          "word": "彼",
+          "reading": "かれ"
+        }
+      ],
+      "en": "he, boyfriend",
+      "ko": "남자친구"
+    },
+    {
+      "id": 6809,
+      "elements": [
+        {
+          "word": "複",
+          "reading": "ふく"
+        },
+        {
+          "word": "雑",
+          "reading": "ざつ"
+        }
+      ],
+      "en": "complexity, complication",
+      "ko": "복잡"
+    },
+    {
+      "id": 6808,
+      "elements": [
+        {
+          "word": "建",
+          "reading": "たて"
+        },
+        {
+          "word": "てる",
+          "reading": "る"
+        }
+      ],
+      "en": "to build",
+      "ko": "짓다"
+    },
+    {
+      "id": 6807,
+      "elements": [
+        {
+          "word": "機会",
+          "reading": "きかい"
+        }
+      ],
+      "en": "chance, opportunity",
+      "ko": "기회"
+    },
+    {
+      "id": 6806,
+      "elements": [
+        {
+          "word": "今度",
+          "reading": "こんど"
+        }
+      ],
+      "en": "now, this time, near future, one of these days, next time",
+      "ko": "이번"
+    },
+    {
+      "id": 6804,
+      "elements": [
+        {
+          "word": "点",
+          "reading": "てん"
+        }
+      ],
+      "en": "mark, score, grade; point, dot",
+      "ko": "점수"
+    },
+    {
+      "id": 6803,
+      "elements": [
+        {
+          "word": "アフリカ",
+          "reading": "アフリカ"
+        }
+      ],
+      "en": "Africa",
+      "ko": "아프리카"
+    },
+    {
+      "id": 6802,
+      "elements": [
+        {
+          "word": "ごみ",
+          "reading": "ごみ"
+        }
+      ],
+      "en": "trash, garbage",
+      "ko": "쓰레기"
+    },
+    {
+      "id": 6801,
+      "elements": [
+        {
+          "word": "失礼",
+          "reading": "しつれい"
+        }
+      ],
+      "en": "discourtesy, impoliteness; Excuse me",
+      "ko": "무례"
+    },
+    {
+      "id": 6800,
+      "elements": [
+        {
+          "word": "屋",
+          "reading": "おく"
+        },
+        {
+          "word": "上",
+          "reading": "じょう"
+        }
+      ],
+      "en": "rooftop",
+      "ko": "옥상"
+    },
+    {
+      "id": 6799,
+      "elements": [
+        {
+          "word": "焼",
+          "reading": "や"
+        },
+        {
+          "word": "く",
+          "reading": "く"
+        }
+      ],
+      "en": "to bake, to grill",
+      "ko": "굽다"
+    },
+    {
+      "id": 6798,
+      "elements": [
+        {
+          "word": "発",
+          "reading": "はつ"
+        },
+        {
+          "word": "音",
+          "reading": "おん"
+        }
+      ],
+      "en": "pronunciation",
+      "ko": "발음"
+    },
+    {
+      "id": 6797,
+      "elements": [
+        {
+          "word": "うん",
+          "reading": "うん"
+        }
+      ],
+      "en": "yes (informal), all right (ok)",
+      "ko": "응"
+    },
+    {
+      "id": 6796,
+      "elements": [
+        {
+          "word": "規則",
+          "reading": "きそく"
+        }
+      ],
+      "en": "rule, regulation",
+      "ko": "규칙"
+    },
+    {
+      "id": 6795,
+      "elements": [
+        {
+          "word": "正月",
+          "reading": "しょうがつ"
+        }
+      ],
+      "en": "New Year, New Year\u0027s Day",
+      "ko": "설날"
+    },
+    {
+      "id": 6794,
+      "elements": [
+        {
+          "word": "売",
+          "reading": "うり"
+        },
+        {
+          "word": "り場",
+          "reading": "ば"
+        }
+      ],
+      "en": "place where things are sold",
+      "ko": "판매처"
+    },
+    {
+      "id": 6793,
+      "elements": [
+        {
+          "word": "だめ",
+          "reading": "だめ"
+        }
+      ],
+      "en": "useless, no good, hopeless",
+      "ko": "안돼"
+    },
+    {
+      "id": 6792,
+      "elements": [
+        {
+          "word": "郊",
+          "reading": "こう"
+        },
+        {
+          "word": "外",
+          "reading": "がい"
+        }
+      ],
+      "en": "suburb, outskirts",
+      "ko": "교외"
+    },
+    {
+      "id": 6791,
+      "elements": [
+        {
+          "word": "つもり",
+          "reading": "つもり"
+        }
+      ],
+      "en": "intention, plan",
+      "ko": "의도"
+    },
+    {
+      "id": 6790,
+      "elements": [
+        {
+          "word": "ほとんど",
+          "reading": "ほとんど"
+        }
+      ],
+      "en": "mostly, almost",
+      "ko": "거의"
+    },
+    {
+      "id": 6788,
+      "elements": [
+        {
+          "word": "気",
+          "reading": "き"
+        }
+      ],
+      "en": "spirit, mood",
+      "ko": "기"
+    },
+    {
+      "id": 6787,
+      "elements": [
+        {
+          "word": "～",
+          "reading": "～"
+        },
+        {
+          "word": "ございます",
+          "reading": "ございます"
+        }
+      ],
+      "en": "to be (polite), to exist",
+      "ko": "있다(존댓말)"
+    },
+    {
+      "id": 6786,
+      "elements": [
+        {
+          "word": "拾",
+          "reading": "ひ"
+        },
+        {
+          "word": "う",
+          "reading": "ろう"
+        }
+      ],
+      "en": "to pick up (something), to find",
+      "ko": "줍다"
+    },
+    {
+      "id": 6784,
+      "elements": [
+        {
+          "word": "お宅",
+          "reading": "おたく"
+        }
+      ],
+      "en": "(someone else\u0027s) house; home -- polite word for 家 (いえ) --",
+      "ko": "댁"
+    },
+    {
+      "id": 6780,
+      "elements": [
+        {
+          "word": "予習",
+          "reading": "よしゅう"
+        }
+      ],
+      "en": "preparation of lessons (for class)",
+      "ko": "미리 공부하다"
+    },
+    {
+      "id": 6777,
+      "elements": [
+        {
+          "word": "表",
+          "reading": "おもて"
+        }
+      ],
+      "en": "surface; front; outside",
+      "ko": "겉면"
+    },
+    {
+      "id": 6776,
+      "elements": [
+        {
+          "word": "もし",
+          "reading": "もし"
+        }
+      ],
+      "en": "if",
+      "ko": "만약"
+    },
+    {
+      "id": 6775,
+      "elements": [
+        {
+          "word": "止む",
+          "reading": "やむ"
+        }
+      ],
+      "en": "to cease, to stop",
+      "ko": "그치다"
+    },
+    {
+      "id": 6773,
+      "elements": [
+        {
+          "word": "オートバイ",
+          "reading": "オートバイ"
+        }
+      ],
+      "en": "motorcycle (lit: auto-bi(ke))",
+      "ko": "오토바이"
+    },
+    {
+      "id": 6772,
+      "elements": [
+        {
+          "word": "床屋",
+          "reading": "とこや"
+        }
+      ],
+      "en": "barber\u0027s (shop)",
+      "ko": "미용실"
+    },
+    {
+      "id": 6771,
+      "elements": [
+        {
+          "word": "怒る",
+          "reading": "おこる"
+        }
+      ],
+      "en": "to get angry; to scold angrily",
+      "ko": "화내다"
+    },
+    {
+      "id": 6770,
+      "elements": [
+        {
+          "word": "壊す",
+          "reading": "こわす"
+        }
+      ],
+      "en": "to break, to break down",
+      "ko": "망가뜨리다"
+    },
+    {
+      "id": 6769,
+      "elements": [
+        {
+          "word": "必ず",
+          "reading": "かならず"
+        }
+      ],
+      "en": "surely, certainly",
+      "ko": "반드시"
+    },
+    {
+      "id": 6768,
+      "elements": [
+        {
+          "word": "僕",
+          "reading": "ぼく"
+        }
+      ],
+      "en": "I (used by men towards those of equal or lower status)",
+      "ko": "나"
+    },
+    {
+      "id": 6767,
+      "elements": [
+        {
+          "word": "聞こえる",
+          "reading": "きこえる"
+        }
+      ],
+      "en": "to be heard, to be audible",
+      "ko": "들리다"
+    },
+    {
+      "id": 6766,
+      "elements": [
+        {
+          "word": "うかがう",
+          "reading": "うかがう"
+        }
+      ],
+      "en": "to ask",
+      "ko": "묻다"
+    },
+    {
+      "id": 6765,
+      "elements": [
+        {
+          "word": "～会",
+          "reading": "～かい"
+        }
+      ],
+      "en": "~ meeting",
+      "ko": "~회의"
+    },
+    {
+      "id": 6764,
+      "elements": [
+        {
+          "word": "折る",
+          "reading": "おる"
+        }
+      ],
+      "en": "to snap, to break; to bend",
+      "ko": "꺾다"
+    },
+    {
+      "id": 6763,
+      "elements": [
+        {
+          "word": "～月",
+          "reading": "～つき"
+        }
+      ],
+      "en": "month",
+      "ko": "~월"
+    },
+    {
+      "id": 6762,
+      "elements": [
+        {
+          "word": "テキスト",
+          "reading": "テキスト"
+        }
+      ],
+      "en": "text; text book",
+      "ko": "텍스트"
+    },
+    {
+      "id": 6761,
+      "elements": [
+        {
+          "word": "医学",
+          "reading": "いがく"
+        }
+      ],
+      "en": "medical science",
+      "ko": "의학"
+    },
+    {
+      "id": 6760,
+      "elements": [
+        {
+          "word": "ステレオ",
+          "reading": "ステレオ"
+        }
+      ],
+      "en": "stereo",
+      "ko": "스테레오"
+    },
+    {
+      "id": 6759,
+      "elements": [
+        {
+          "word": "漫画",
+          "reading": "まんが"
+        }
+      ],
+      "en": "comic (book), cartoon",
+      "ko": "만화"
+    },
+    {
+      "id": 6757,
+      "elements": [
+        {
+          "word": "意見",
+          "reading": "いけん"
+        }
+      ],
+      "en": "opinion, view, idea",
+      "ko": "의견"
+    },
+    {
+      "id": 6756,
+      "elements": [
+        {
+          "word": "沸く",
+          "reading": "わく"
+        }
+      ],
+      "en": "to boil, to grow hot",
+      "ko": "끓다"
+    },
+    {
+      "id": 6755,
+      "elements": [
+        {
+          "word": "苦い",
+          "reading": "にがい"
+        }
+      ],
+      "en": "bitter",
+      "ko": "씁쓸하다"
+    },
+    {
+      "id": 6754,
+      "elements": [
+        {
+          "word": "生きる",
+          "reading": "いきる"
+        }
+      ],
+      "en": "to live",
+      "ko": "살다"
+    },
+    {
+      "id": 6753,
+      "elements": [
+        {
+          "word": "しっかり",
+          "reading": "しっかり"
+        }
+      ],
+      "en": "firmly, steady",
+      "ko": "단단히"
+    },
+    {
+      "id": 6752,
+      "elements": [
+        {
+          "word": "鳴る",
+          "reading": "なる"
+        }
+      ],
+      "en": "to sound, to ring (v.i.)",
+      "ko": "울리다"
+    },
+    {
+      "id": 6751,
+      "elements": [
+        {
+          "word": "ガソリン",
+          "reading": "ガソリン"
+        }
+      ],
+      "en": "gasoline, petrol",
+      "ko": "휘발유"
+    },
+    {
+      "id": 6750,
+      "elements": [
+        {
+          "word": "とうとう",
+          "reading": "とうとう"
+        }
+      ],
+      "en": "finally, at last",
+      "ko": "마침내"
+    },
+    {
+      "id": 6749,
+      "elements": [
+        {
+          "word": "大抵",
+          "reading": "たいてい"
+        }
+      ],
+      "en": "generally, usually",
+      "ko": "대체로"
+    },
+    {
+      "id": 6748,
+      "elements": [
+        {
+          "word": "盗む",
+          "reading": "ぬすむ"
+        }
+      ],
+      "en": "to steal; to rob",
+      "ko": "훔치다"
+    },
+    {
+      "id": 6747,
+      "elements": [
+        {
+          "word": "すっと",
+          "reading": "すっと"
+        }
+      ],
+      "en": "straight, quickly",
+      "ko": "곧장"
+    },
+    {
+      "id": 6746,
+      "elements": [
+        {
+          "word": "～区",
+          "reading": "～く"
+        }
+      ],
+      "en": "~ district, ~ ward, ~ borough",
+      "ko": "~구"
+    },
+    {
+      "id": 6745,
+      "elements": [
+        {
+          "word": "踏む",
+          "reading": "ふむ"
+        }
+      ],
+      "en": "to step on, to tread on",
+      "ko": "밟다"
+    }
+  ]
+}
