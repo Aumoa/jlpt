@@ -1,0 +1,1760 @@
+{
+  "level": "N2",
+  "words": [
+    {
+      "id": 4605,
+      "elements": [
+        {
+          "word": "ワンピース",
+          "reading": "ワンピース"
+        }
+      ],
+      "en": "one-piece dress",
+      "ko": "원피스"
+    },
+    {
+      "id": 4604,
+      "elements": [
+        {
+          "word": "割",
+          "reading": "わり"
+        },
+        {
+          "word": "引",
+          "reading": "びき"
+        }
+      ],
+      "en": "discount",
+      "ko": "할인"
+    },
+    {
+      "id": 4603,
+      "elements": [
+        {
+          "word": "割",
+          "reading": "わり"
+        },
+        {
+          "word": "と",
+          "reading": ""
+        }
+      ],
+      "en": "relatively, comparatively",
+      "ko": "꽤"
+    },
+    {
+      "id": 4600,
+      "elements": [
+        {
+          "word": "和",
+          "reading": "わ"
+        },
+        {
+          "word": "服",
+          "reading": "ふく"
+        }
+      ],
+      "en": "Japanese clothes",
+      "ko": "한복"
+    },
+    {
+      "id": 4599,
+      "elements": [
+        {
+          "word": "詫",
+          "reading": "わ"
+        },
+        {
+          "word": "びる",
+          "reading": ""
+        }
+      ],
+      "en": "to apologize",
+      "ko": "사과하다"
+    },
+    {
+      "id": 4597,
+      "elements": [
+        {
+          "word": "分",
+          "reading": "わ"
+        },
+        {
+          "word": "か",
+          "reading": ""
+        },
+        {
+          "word": "れる",
+          "reading": ""
+        }
+      ],
+      "en": "to branch, to fork, to diverge to separate, to split, to divide to disperse, to scatter",
+      "ko": "분기"
+    },
+    {
+      "id": 4595,
+      "elements": [
+        {
+          "word": "和",
+          "reading": "わ"
+        },
+        {
+          "word": "英",
+          "reading": "えい"
+        }
+      ],
+      "en": "Japanese-English",
+      "ko": "일영"
+    },
+    {
+      "id": 4593,
+      "elements": [
+        {
+          "word": "論",
+          "reading": "ろん"
+        },
+        {
+          "word": "ずる",
+          "reading": ""
+        }
+      ],
+      "en": "to argue, to discuss",
+      "ko": "논하다"
+    },
+    {
+      "id": 4592,
+      "elements": [
+        {
+          "word": "ロ",
+          "reading": "ロ"
+        },
+        {
+          "word": "ビー",
+          "reading": "ビー"
+        }
+      ],
+      "en": "lobby",
+      "ko": "로비"
+    },
+    {
+      "id": 4591,
+      "elements": [
+        {
+          "word": "ロ",
+          "reading": "ロ"
+        },
+        {
+          "word": "ッカ",
+          "reading": "ッカ"
+        },
+        {
+          "word": "ー",
+          "reading": "ー"
+        }
+      ],
+      "en": "locker",
+      "ko": "락커"
+    },
+    {
+      "id": 4590,
+      "elements": [
+        {
+          "word": "録",
+          "reading": "ろく"
+        },
+        {
+          "word": "音",
+          "reading": "おん"
+        }
+      ],
+      "en": "(audio) recording",
+      "ko": "녹음"
+    },
+    {
+      "id": 4589,
+      "elements": [
+        {
+          "word": "ろう",
+          "reading": "ろう"
+        },
+        {
+          "word": "そく",
+          "reading": ""
+        }
+      ],
+      "en": "candle",
+      "ko": "촛불"
+    },
+    {
+      "id": 4588,
+      "elements": [
+        {
+          "word": "ロ",
+          "reading": "ロ"
+        },
+        {
+          "word": "ーマ",
+          "reading": "ーマ"
+        },
+        {
+          "word": "字",
+          "reading": "じ"
+        }
+      ],
+      "en": "romanization, Roman letters (alphabet)",
+      "ko": "로마자"
+    },
+    {
+      "id": 4587,
+      "elements": [
+        {
+          "word": "レン",
+          "reading": "レン"
+        },
+        {
+          "word": "ズ",
+          "reading": "ズ"
+        }
+      ],
+      "en": "lens",
+      "ko": "렌즈"
+    },
+    {
+      "id": 4586,
+      "elements": [
+        {
+          "word": "連",
+          "reading": "れん"
+        },
+        {
+          "word": "合",
+          "reading": "ごう"
+        }
+      ],
+      "en": "union, alliance",
+      "ko": "연합"
+    },
+    {
+      "id": 4585,
+      "elements": [
+        {
+          "word": "煉",
+          "reading": "れん"
+        },
+        {
+          "word": "瓦",
+          "reading": "が"
+        }
+      ],
+      "en": "brick",
+      "ko": "벽돌"
+    },
+    {
+      "id": 4583,
+      "elements": [
+        {
+          "word": "レ",
+          "reading": "レ"
+        },
+        {
+          "word": "ジャー",
+          "reading": "ジャー"
+        }
+      ],
+      "en": "leisure",
+      "ko": "여가"
+    },
+    {
+      "id": 4581,
+      "elements": [
+        {
+          "word": "レイン",
+          "reading": "レイン"
+        },
+        {
+          "word": "コート",
+          "reading": "コート"
+        }
+      ],
+      "en": "raincoat",
+      "ko": "방수코트"
+    },
+    {
+      "id": 4580,
+      "elements": [
+        {
+          "word": "冷凍",
+          "reading": "れいとう"
+        }
+      ],
+      "en": "freezing, cold storage, refrigeration",
+      "ko": "냉동"
+    },
+    {
+      "id": 4579,
+      "elements": [
+        {
+          "word": "零",
+          "reading": "れい"
+        },
+        {
+          "word": "点",
+          "reading": "てん"
+        }
+      ],
+      "en": "zero, no marks",
+      "ko": "영점"
+    },
+    {
+      "id": 4578,
+      "elements": [
+        {
+          "word": "例",
+          "reading": "れい"
+        },
+        {
+          "word": "外",
+          "reading": "がい"
+        }
+      ],
+      "en": "exception",
+      "ko": "예외"
+    },
+    {
+      "id": 4577,
+      "elements": [
+        {
+          "word": "留",
+          "reading": "る"
+        },
+        {
+          "word": "守",
+          "reading": "す"
+        },
+        {
+          "word": "番",
+          "reading": "ばん"
+        }
+      ],
+      "en": "care-taking, caretaker, house-watching",
+      "ko": "집 지키기"
+    },
+    {
+      "id": 4576,
+      "elements": [
+        {
+          "word": "臨",
+          "reading": "りん"
+        },
+        {
+          "word": "時",
+          "reading": "じ"
+        }
+      ],
+      "en": "temporary, special, extraordinary",
+      "ko": "임시"
+    },
+    {
+      "id": 4575,
+      "elements": [
+        {
+          "word": "領",
+          "reading": "りょう"
+        },
+        {
+          "word": "収",
+          "reading": "しゅう"
+        }
+      ],
+      "en": "receipt, voucher",
+      "ko": "영수증"
+    },
+    {
+      "id": 4574,
+      "elements": [
+        {
+          "word": "領",
+          "reading": "りょう"
+        },
+        {
+          "word": "事",
+          "reading": "じ"
+        }
+      ],
+      "en": "consul",
+      "ko": "영사"
+    },
+    {
+      "id": 4572,
+      "elements": [
+        {
+          "word": "両",
+          "reading": "りょう"
+        },
+        {
+          "word": "側",
+          "reading": "がわ"
+        }
+      ],
+      "en": "both sides",
+      "ko": "양쪽"
+    },
+    {
+      "id": 4570,
+      "elements": [
+        {
+          "word": "寮",
+          "reading": "りょう"
+        }
+      ],
+      "en": "hostel, dormitory",
+      "ko": "기숙사"
+    },
+    {
+      "id": 4569,
+      "elements": [
+        {
+          "word": "流",
+          "reading": "りゅう"
+        },
+        {
+          "word": "域",
+          "reading": "いき"
+        }
+      ],
+      "en": "(river) basin",
+      "ko": "유역"
+    },
+    {
+      "id": 4568,
+      "elements": [
+        {
+          "word": "略",
+          "reading": "りゃく"
+        },
+        {
+          "word": "す",
+          "reading": ""
+        }
+      ],
+      "en": "to abbreviate",
+      "ko": "약식하다"
+    },
+    {
+      "id": 4567,
+      "elements": [
+        {
+          "word": "リボン",
+          "reading": "リボン"
+        }
+      ],
+      "en": "ribbon",
+      "ko": "리본"
+    },
+    {
+      "id": 4566,
+      "elements": [
+        {
+          "word": "リポート",
+          "reading": "リポート"
+        }
+      ],
+      "en": "report, paper",
+      "ko": "보고서"
+    },
+    {
+      "id": 4565,
+      "elements": [
+        {
+          "word": "リットル",
+          "reading": "リットル"
+        }
+      ],
+      "en": "liter",
+      "ko": "리터"
+    },
+    {
+      "id": 4564,
+      "elements": [
+        {
+          "word": "リズム",
+          "reading": "リズム"
+        }
+      ],
+      "en": "rhythm",
+      "ko": "리듬"
+    },
+    {
+      "id": 4563,
+      "elements": [
+        {
+          "word": "利",
+          "reading": "り"
+        },
+        {
+          "word": "害",
+          "reading": "がい"
+        }
+      ],
+      "en": "advantages and disadvantages, interest",
+      "ko": "이익"
+    },
+    {
+      "id": 4562,
+      "elements": [
+        {
+          "word": "理",
+          "reading": "り"
+        },
+        {
+          "word": "科",
+          "reading": "か"
+        }
+      ],
+      "en": "science",
+      "ko": "과학"
+    },
+    {
+      "id": 4561,
+      "elements": [
+        {
+          "word": "乱",
+          "reading": "らん"
+        },
+        {
+          "word": "暴",
+          "reading": "ぼう"
+        }
+      ],
+      "en": "rude, violent, rough",
+      "ko": "폭력"
+    },
+    {
+      "id": 4560,
+      "elements": [
+        {
+          "word": "ランニング",
+          "reading": "ランニング"
+        }
+      ],
+      "en": "running; tank top",
+      "ko": "달리기"
+    },
+    {
+      "id": 4559,
+      "elements": [
+        {
+          "word": "ランチ",
+          "reading": "ランチ"
+        }
+      ],
+      "en": "lunch",
+      "ko": "점심"
+    },
+    {
+      "id": 4558,
+      "elements": [
+        {
+          "word": "欄",
+          "reading": "らん"
+        }
+      ],
+      "en": "column of text (e.g., as in a newspaper)",
+      "ko": "열"
+    },
+    {
+      "id": 4557,
+      "elements": [
+        {
+          "word": "ラッシュアワー",
+          "reading": "ラッシュアワー"
+        }
+      ],
+      "en": "rush hour",
+      "ko": "출퇴근 시간"
+    },
+    {
+      "id": 4555,
+      "elements": [
+        {
+          "word": "来",
+          "reading": "らい"
+        },
+        {
+          "word": "日",
+          "reading": "にち"
+        }
+      ],
+      "en": "coming to Japan, visit to Japan",
+      "ko": "방문"
+    },
+    {
+      "id": 4554,
+      "elements": [
+        {
+          "word": "慶",
+          "reading": "よろこ"
+        },
+        {
+          "word": "ぶ",
+          "reading": ""
+        }
+      ],
+      "en": "to be delighted, to be glad",
+      "ko": "기뻐하다"
+    },
+    {
+      "id": 4552,
+      "elements": [
+        {
+          "word": "呼び",
+          "reading": "よび"
+        },
+        {
+          "word": "出す",
+          "reading": "だす"
+        }
+      ],
+      "en": "to summon, to call (e.g., phone)",
+      "ko": "불러내다"
+    },
+    {
+      "id": 4551,
+      "elements": [
+        {
+          "word": "呼び",
+          "reading": "よび"
+        },
+        {
+          "word": "掛",
+          "reading": "か"
+        },
+        {
+          "word": "ける",
+          "reading": ""
+        }
+      ],
+      "en": "to call out to, to accost, to address (crowd), to appeal",
+      "ko": "목소리 내어 부르다"
+    },
+    {
+      "id": 4550,
+      "elements": [
+        {
+          "word": "予備",
+          "reading": "よび"
+        }
+      ],
+      "en": "preparation, spare",
+      "ko": "예비"
+    },
+    {
+      "id": 4548,
+      "elements": [
+        {
+          "word": "四",
+          "reading": "よ"
+        },
+        {
+          "word": "つ角",
+          "reading": "つかど"
+        }
+      ],
+      "en": "four corners, crossroads",
+      "ko": "사거리"
+    },
+    {
+      "id": 4547,
+      "elements": [
+        {
+          "word": "余",
+          "reading": "よ"
+        },
+        {
+          "word": "所",
+          "reading": "そ"
+        }
+      ],
+      "en": "another place, somewhere else, strange parts",
+      "ko": "다른 곳"
+    },
+    {
+      "id": 4546,
+      "elements": [
+        {
+          "word": "寄",
+          "reading": "よ"
+        },
+        {
+          "word": "せる",
+          "reading": ""
+        }
+      ],
+      "en": "to come near, to let someone approach to bring near, to bring together, to collect, to gather to deliver (opinion, news, etc.), to send (e.g. a letter), to contribute, to donate to let someone drop by",
+      "ko": "모으다"
+    },
+    {
+      "id": 4543,
+      "elements": [
+        {
+          "word": "余計",
+          "reading": "よけい"
+        }
+      ],
+      "en": "too much, unnecessary, abundance, surplus, excess, superfluity",
+      "ko": "과도한"
+    },
+    {
+      "id": 4542,
+      "elements": [
+        {
+          "word": "欲",
+          "reading": "よく"
+        },
+        {
+          "word": "張り",
+          "reading": "ばり"
+        }
+      ],
+      "en": "greedy",
+      "ko": "탐욕스러운"
+    },
+    {
+      "id": 4540,
+      "elements": [
+        {
+          "word": "要",
+          "reading": "よう"
+        },
+        {
+          "word": "領",
+          "reading": "りょう"
+        }
+      ],
+      "en": "gist, essentials, outline",
+      "ko": "요령"
+    },
+    {
+      "id": 4538,
+      "elements": [
+        {
+          "word": "羊",
+          "reading": "よう"
+        },
+        {
+          "word": "毛",
+          "reading": "もう"
+        }
+      ],
+      "en": "wool",
+      "ko": "양모"
+    },
+    {
+      "id": 4537,
+      "elements": [
+        {
+          "word": "養",
+          "reading": "よう"
+        },
+        {
+          "word": "分",
+          "reading": "ぶん"
+        }
+      ],
+      "en": "nourishment, nutrient",
+      "ko": "영양분"
+    },
+    {
+      "id": 4536,
+      "elements": [
+        {
+          "word": "洋",
+          "reading": "よう"
+        },
+        {
+          "word": "品",
+          "reading": "ひん"
+        },
+        {
+          "word": "店",
+          "reading": "てん"
+        }
+      ],
+      "en": "clothes store",
+      "ko": "의류점"
+    },
+    {
+      "id": 4535,
+      "elements": [
+        {
+          "word": "用途",
+          "reading": "ようと"
+        }
+      ],
+      "en": "use, usefulness",
+      "ko": "용도"
+    },
+    {
+      "id": 4533,
+      "elements": [
+        {
+          "word": "幼稚",
+          "reading": "ようち"
+        }
+      ],
+      "en": "infancy, childish, infantile",
+      "ko": "유아"
+    },
+    {
+      "id": 4532,
+      "elements": [
+        {
+          "word": "容",
+          "reading": "よう"
+        },
+        {
+          "word": "積",
+          "reading": "せき"
+        }
+      ],
+      "en": "capacity, volume",
+      "ko": "용량"
+    },
+    {
+      "id": 4531,
+      "elements": [
+        {
+          "word": "幼児",
+          "reading": "ようじ"
+        }
+      ],
+      "en": "infant, baby, child",
+      "ko": "영유아"
+    },
+    {
+      "id": 4530,
+      "elements": [
+        {
+          "word": "要",
+          "reading": "よう"
+        },
+        {
+          "word": "旨",
+          "reading": "し"
+        }
+      ],
+      "en": "gist, essentials, summary",
+      "ko": "요지"
+    },
+    {
+      "id": 4529,
+      "elements": [
+        {
+          "word": "用語",
+          "reading": "ようご"
+        }
+      ],
+      "en": "term, terminology",
+      "ko": "용어"
+    },
+    {
+      "id": 4528,
+      "elements": [
+        {
+          "word": "容器",
+          "reading": "ようき"
+        }
+      ],
+      "en": "container, receptacle, vessel, packaging",
+      "ko": "용기"
+    },
+    {
+      "id": 4527,
+      "elements": [
+        {
+          "word": "溶",
+          "reading": "よう"
+        },
+        {
+          "word": "岩",
+          "reading": "がん"
+        }
+      ],
+      "en": "lava",
+      "ko": "용암"
+    },
+    {
+      "id": 4525,
+      "elements": [
+        {
+          "word": "湯",
+          "reading": "ゆ"
+        },
+        {
+          "word": "飲",
+          "reading": "のみ"
+        }
+      ],
+      "en": "teacup",
+      "ko": "찻잔"
+    },
+    {
+      "id": 4524,
+      "elements": [
+        {
+          "word": "湯",
+          "reading": "ゆ"
+        },
+        {
+          "word": "飲み",
+          "reading": "のみ"
+        }
+      ],
+      "en": "teacup",
+      "ko": "찻잔"
+    },
+    {
+      "id": 4523,
+      "elements": [
+        {
+          "word": "油",
+          "reading": "ゆ"
+        },
+        {
+          "word": "断",
+          "reading": "だん"
+        }
+      ],
+      "en": "negligence, unpreparedness",
+      "ko": "경계"
+    },
+    {
+      "id": 4522,
+      "elements": [
+        {
+          "word": "輸",
+          "reading": "ゆ"
+        },
+        {
+          "word": "送",
+          "reading": "そう"
+        }
+      ],
+      "en": "transport, transportation",
+      "ko": "운송"
+    },
+    {
+      "id": 4521,
+      "elements": [
+        {
+          "word": "輸",
+          "reading": "ゆ"
+        },
+        {
+          "word": "血",
+          "reading": "けつ"
+        }
+      ],
+      "en": "blood transfusion",
+      "ko": "수혈"
+    },
+    {
+      "id": 4519,
+      "elements": [
+        {
+          "word": "行",
+          "reading": "ゆく"
+        },
+        {
+          "word": "方",
+          "reading": "え"
+        }
+      ],
+      "en": "one\u0027s whereabouts",
+      "ko": "행방"
+    },
+    {
+      "id": 4518,
+      "elements": [
+        {
+          "word": "浴",
+          "reading": "ゆ"
+        },
+        {
+          "word": "衣",
+          "reading": "かた"
+        }
+      ],
+      "en": "bathrobe, informal summer kimono",
+      "ko": "유카타"
+    },
+    {
+      "id": 4517,
+      "elements": [
+        {
+          "word": "有",
+          "reading": "ゆう"
+        },
+        {
+          "word": "料",
+          "reading": "りょう"
+        }
+      ],
+      "en": "admission-paid, toll",
+      "ko": "유료"
+    },
+    {
+      "id": 4516,
+      "elements": [
+        {
+          "word": "悠",
+          "reading": "ゆう"
+        },
+        {
+          "word": "々",
+          "reading": "ゆう"
+        }
+      ],
+      "en": "quiet, calm, leisurely",
+      "ko": "여유로운"
+    },
+    {
+      "id": 4515,
+      "elements": [
+        {
+          "word": "夕",
+          "reading": "ゆう"
+        },
+        {
+          "word": "日",
+          "reading": "ひ"
+        }
+      ],
+      "en": "(in) the evening sun, setting sun",
+      "ko": "석양"
+    },
+    {
+      "id": 4514,
+      "elements": [
+        {
+          "word": "夕",
+          "reading": "ゆう"
+        },
+        {
+          "word": "立",
+          "reading": "だち"
+        }
+      ],
+      "en": "(sudden) evening shower (rain)",
+      "ko": "저녁비"
+    },
+    {
+      "id": 4513,
+      "elements": [
+        {
+          "word": "郵",
+          "reading": "ゆう"
+        },
+        {
+          "word": "送",
+          "reading": "そう"
+        }
+      ],
+      "en": "mailing",
+      "ko": "우편"
+    },
+    {
+      "id": 4512,
+      "elements": [
+        {
+          "word": "友",
+          "reading": "ゆう"
+        },
+        {
+          "word": "好",
+          "reading": "こう"
+        }
+      ],
+      "en": "friendship",
+      "ko": "우호"
+    },
+    {
+      "id": 4511,
+      "elements": [
+        {
+          "word": "夕",
+          "reading": "ゆう"
+        },
+        {
+          "word": "刊",
+          "reading": "かん"
+        }
+      ],
+      "en": "evening paper",
+      "ko": "저녁판"
+    },
+    {
+      "id": 4510,
+      "elements": [
+        {
+          "word": "遊",
+          "reading": "ゆう"
+        },
+        {
+          "word": "園",
+          "reading": "えん"
+        },
+        {
+          "word": "地",
+          "reading": "ち"
+        }
+      ],
+      "en": "amusement park",
+      "ko": "놀이공원"
+    },
+    {
+      "id": 4509,
+      "elements": [
+        {
+          "word": "軟",
+          "reading": "やわ"
+        },
+        {
+          "word": "らかい",
+          "reading": ""
+        }
+      ],
+      "en": "soft, tender, limp",
+      "ko": "부드러운"
+    },
+    {
+      "id": 4508,
+      "elements": [
+        {
+          "word": "やむ",
+          "reading": "やむ"
+        },
+        {
+          "word": "を",
+          "reading": "を"
+        },
+        {
+          "word": "え",
+          "reading": "え"
+        },
+        {
+          "word": "ない",
+          "reading": "ない"
+        }
+      ],
+      "en": "cannot be helped, unavoidable",
+      "ko": "피할 수 없는"
+    },
+    {
+      "id": 4507,
+      "elements": [
+        {
+          "word": "破",
+          "reading": "やぶ"
+        },
+        {
+          "word": "く",
+          "reading": ""
+        }
+      ],
+      "en": "to tear",
+      "ko": "찢다"
+    },
+    {
+      "id": 4506,
+      "elements": [
+        {
+          "word": "家",
+          "reading": "や"
+        },
+        {
+          "word": "主",
+          "reading": "ぬし"
+        }
+      ],
+      "en": "landlord",
+      "ko": "주인"
+    },
+    {
+      "id": 4505,
+      "elements": [
+        {
+          "word": "やっぱり",
+          "reading": ""
+        }
+      ],
+      "en": "after all, anyway",
+      "ko": "결국"
+    },
+    {
+      "id": 4504,
+      "elements": [
+        {
+          "word": "やっ",
+          "reading": "やっ"
+        },
+        {
+          "word": "つける",
+          "reading": ""
+        }
+      ],
+      "en": "to attack (an enemy), to beat, to finish off",
+      "ko": "제압하다"
+    },
+    {
+      "id": 4502,
+      "elements": [
+        {
+          "word": "やたら",
+          "reading": "やたら"
+        },
+        {
+          "word": "に",
+          "reading": ""
+        }
+      ],
+      "en": "randomly, recklessly, blindly",
+      "ko": "무작정"
+    },
+    {
+      "id": 4501,
+      "elements": [
+        {
+          "word": "矢",
+          "reading": "や"
+        },
+        {
+          "word": "印",
+          "reading": "じるし"
+        }
+      ],
+      "en": "directing arrow",
+      "ko": "화살표"
+    },
+    {
+      "id": 4500,
+      "elements": [
+        {
+          "word": "夜",
+          "reading": "や"
+        },
+        {
+          "word": "行",
+          "reading": "こう"
+        }
+      ],
+      "en": "night train, night travel",
+      "ko": "야간열차"
+    },
+    {
+      "id": 4498,
+      "elements": [
+        {
+          "word": "役",
+          "reading": "やく"
+        },
+        {
+          "word": "目",
+          "reading": "め"
+        }
+      ],
+      "en": "duty, business",
+      "ko": "직무"
+    },
+    {
+      "id": 4497,
+      "elements": [
+        {
+          "word": "薬",
+          "reading": "やく"
+        },
+        {
+          "word": "品",
+          "reading": "ひん"
+        }
+      ],
+      "en": "medicine(s), chemical(s)",
+      "ko": "의약품"
+    },
+    {
+      "id": 4496,
+      "elements": [
+        {
+          "word": "役",
+          "reading": "やく"
+        },
+        {
+          "word": "人",
+          "reading": "にん"
+        }
+      ],
+      "en": "government official",
+      "ko": "공무원"
+    },
+    {
+      "id": 4495,
+      "elements": [
+        {
+          "word": "役",
+          "reading": "やく"
+        },
+        {
+          "word": "所",
+          "reading": "しょ"
+        }
+      ],
+      "en": "government office, public office",
+      "ko": "행정기관"
+    },
+    {
+      "id": 4494,
+      "elements": [
+        {
+          "word": "役",
+          "reading": "やく"
+        },
+        {
+          "word": "者",
+          "reading": "しゃ"
+        }
+      ],
+      "en": "actor",
+      "ko": "배우"
+    },
+    {
+      "id": 4493,
+      "elements": [
+        {
+          "word": "やかん",
+          "reading": ""
+        }
+      ],
+      "en": "kettle",
+      "ko": "주전자"
+    },
+    {
+      "id": 4492,
+      "elements": [
+        {
+          "word": "やかん",
+          "reading": ""
+        }
+      ],
+      "en": "kettle",
+      "ko": "주전자"
+    },
+    {
+      "id": 4491,
+      "elements": [
+        {
+          "word": "夜",
+          "reading": "や"
+        },
+        {
+          "word": "間",
+          "reading": "かん"
+        }
+      ],
+      "en": "at night, nighttime",
+      "ko": "밤"
+    },
+    {
+      "id": 4489,
+      "elements": [
+        {
+          "word": "やかま",
+          "reading": "やかま"
+        },
+        {
+          "word": "しい",
+          "reading": ""
+        }
+      ],
+      "en": "to be fussy, to be overly critical",
+      "ko": "까다로운"
+    },
+    {
+      "id": 4488,
+      "elements": [
+        {
+          "word": "問",
+          "reading": "もん"
+        },
+        {
+          "word": "答",
+          "reading": "どう"
+        }
+      ],
+      "en": "questions and answers, dialogue",
+      "ko": "질의응답"
+    },
+    {
+      "id": 4487,
+      "elements": [
+        {
+          "word": "盛",
+          "reading": "も"
+        },
+        {
+          "word": "る",
+          "reading": ""
+        }
+      ],
+      "en": "to serve (food); to fill up; to prescribe",
+      "ko": "盛다"
+    },
+    {
+      "id": 4486,
+      "elements": [
+        {
+          "word": "催",
+          "reading": "もよお"
+        },
+        {
+          "word": "し",
+          "reading": ""
+        }
+      ],
+      "en": "event, festivities, function",
+      "ko": "행사"
+    },
+    {
+      "id": 4485,
+      "elements": [
+        {
+          "word": "もやす",
+          "reading": ""
+        }
+      ],
+      "en": "to burn",
+      "ko": "태우다"
+    },
+    {
+      "id": 4484,
+      "elements": [
+        {
+          "word": "揉",
+          "reading": "も"
+        },
+        {
+          "word": "む",
+          "reading": ""
+        }
+      ],
+      "en": "to rub, to crumple (up), to wrinkle",
+      "ko": "비비다"
+    },
+    {
+      "id": 4483,
+      "elements": [
+        {
+          "word": "紅葉",
+          "reading": "もみじ"
+        }
+      ],
+      "en": "(Japanese) maple",
+      "ko": "단풍"
+    },
+    {
+      "id": 4482,
+      "elements": [
+        {
+          "word": "モノレール",
+          "reading": ""
+        }
+      ],
+      "en": "monorail",
+      "ko": "모노레일"
+    },
+    {
+      "id": 4479,
+      "elements": [
+        {
+          "word": "物語",
+          "reading": "ものがた"
+        },
+        {
+          "word": "る",
+          "reading": ""
+        }
+      ],
+      "en": "to tell, to indicate",
+      "ko": "이야기하다"
+    },
+    {
+      "id": 4478,
+      "elements": [
+        {
+          "word": "物",
+          "reading": "もの"
+        },
+        {
+          "word": "置",
+          "reading": "おき"
+        }
+      ],
+      "en": "storage room",
+      "ko": "창고"
+    },
+    {
+      "id": 4476,
+      "elements": [
+        {
+          "word": "モデル",
+          "reading": ""
+        }
+      ],
+      "en": "a fashion model",
+      "ko": "모델"
+    },
+    {
+      "id": 4475,
+      "elements": [
+        {
+          "word": "餅",
+          "reading": "もち"
+        }
+      ],
+      "en": "sticky rice cake",
+      "ko": "떡"
+    },
+    {
+      "id": 4474,
+      "elements": [
+        {
+          "word": "モダン",
+          "reading": ""
+        }
+      ],
+      "en": "modern",
+      "ko": "모던"
+    },
+    {
+      "id": 4473,
+      "elements": [
+        {
+          "word": "凭",
+          "reading": "もた"
+        },
+        {
+          "word": "れる",
+          "reading": ""
+        }
+      ],
+      "en": "to lean against, to lean on, to recline on",
+      "ko": "기대다"
+    },
+    {
+      "id": 4472,
+      "elements": [
+        {
+          "word": "もた",
+          "reading": ""
+        },
+        {
+          "word": "れる",
+          "reading": ""
+        }
+      ],
+      "en": "to lean against, to lean on",
+      "ko": "기대다"
+    },
+    {
+      "id": 4471,
+      "elements": [
+        {
+          "word": "もしかしたら",
+          "reading": ""
+        }
+      ],
+      "en": "perhaps, maybe, by some chance",
+      "ko": "혹시"
+    },
+    {
+      "id": 4469,
+      "elements": [
+        {
+          "word": "目次",
+          "reading": "もくじ"
+        }
+      ],
+      "en": "table of contents",
+      "ko": "목차"
+    },
+    {
+      "id": 4467,
+      "elements": [
+        {
+          "word": "申し訳",
+          "reading": "もうしわけ"
+        },
+        {
+          "word": "ない",
+          "reading": ""
+        }
+      ],
+      "en": "inexcusable, I am sorry",
+      "ko": "미안하다"
+    },
+    {
+      "id": 4466,
+      "elements": [
+        {
+          "word": "儲",
+          "reading": "もう"
+        },
+        {
+          "word": "ける",
+          "reading": ""
+        }
+      ],
+      "en": "to earn, to have (bear, beget) a child",
+      "ko": "벌다"
+    },
+    {
+      "id": 4465,
+      "elements": [
+        {
+          "word": "儲",
+          "reading": "もう"
+        },
+        {
+          "word": "かる",
+          "reading": ""
+        }
+      ],
+      "en": "to be profitable, to yield a profit",
+      "ko": "수익이 나다"
+    },
+    {
+      "id": 4464,
+      "elements": [
+        {
+          "word": "モーター",
+          "reading": ""
+        }
+      ],
+      "en": "motor",
+      "ko": "모터"
+    },
+    {
+      "id": 4462,
+      "elements": [
+        {
+          "word": "面接",
+          "reading": "めんせつ"
+        }
+      ],
+      "en": "interview",
+      "ko": "면접"
+    },
+    {
+      "id": 4461,
+      "elements": [
+        {
+          "word": "面積",
+          "reading": "めんせき"
+        }
+      ],
+      "en": "area",
+      "ko": "면적"
+    },
+    {
+      "id": 4460,
+      "elements": [
+        {
+          "word": "免税",
+          "reading": "めんぜい"
+        }
+      ],
+      "en": "tax exemption",
+      "ko": "면세"
+    },
+    {
+      "id": 4459,
+      "elements": [
+        {
+          "word": "目安",
+          "reading": "めやす"
+        }
+      ],
+      "en": "criterion, aim",
+      "ko": "기준"
+    },
+    {
+      "id": 4458,
+      "elements": [
+        {
+          "word": "めまい",
+          "reading": ""
+        }
+      ],
+      "en": "dizziness, giddiness",
+      "ko": "메스꺼움"
+    },
+    {
+      "id": 4457,
+      "elements": [
+        {
+          "word": "メニュー",
+          "reading": ""
+        }
+      ],
+      "en": "menu",
+      "ko": "메뉴"
+    },
+    {
+      "id": 4456,
+      "elements": [
+        {
+          "word": "めでたい",
+          "reading": ""
+        }
+      ],
+      "en": "happy, propitious, joyous",
+      "ko": "기쁜"
+    },
+    {
+      "id": 4455,
+      "elements": [
+        {
+          "word": "めっきり",
+          "reading": ""
+        }
+      ],
+      "en": "remarkably",
+      "ko": "굉장히"
+    },
+    {
+      "id": 4454,
+      "elements": [
+        {
+          "word": "めちゃくちゃ",
+          "reading": ""
+        }
+      ],
+      "en": "absurd, messed up, wrecked",
+      "ko": "엄청난"
+    },
+    {
+      "id": 4452,
+      "elements": [
+        {
+          "word": "目",
+          "reading": "め"
+        },
+        {
+          "word": "印",
+          "reading": "じるし"
+        }
+      ],
+      "en": "mark, sign, landmark",
+      "ko": "표지판"
+    }
+  ]
+}

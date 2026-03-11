@@ -20484,6 +20484,2410 @@
       ],
       "en": "mentality",
       "ko": "심리"
+    },
+    {
+      "id": 4811,
+      "elements": [
+        {
+          "word": "信",
+          "reading": "しん"
+        },
+        {
+          "word": "頼",
+          "reading": "らい"
+        }
+      ],
+      "en": "reliance, trust, confidence",
+      "ko": "신뢰"
+    },
+    {
+      "id": 4810,
+      "elements": [
+        {
+          "word": "信",
+          "reading": "しん"
+        },
+        {
+          "word": "用",
+          "reading": "よう"
+        }
+      ],
+      "en": "confidence, dependence",
+      "ko": "신용"
+    },
+    {
+      "id": 4809,
+      "elements": [
+        {
+          "word": "親",
+          "reading": "しん"
+        },
+        {
+          "word": "友",
+          "reading": "ゆう"
+        }
+      ],
+      "en": "close friend, buddy",
+      "ko": "친구"
+    },
+    {
+      "id": 4808,
+      "elements": [
+        {
+          "word": "進",
+          "reading": "しん"
+        },
+        {
+          "word": "歩",
+          "reading": "ぽ"
+        }
+      ],
+      "en": "improvement, progress, development",
+      "ko": "진보"
+    },
+    {
+      "id": 4807,
+      "elements": [
+        {
+          "word": "人",
+          "reading": "じん"
+        },
+        {
+          "word": "物",
+          "reading": "ぶつ"
+        }
+      ],
+      "en": "character, personality, talented man",
+      "ko": "인물"
+    },
+    {
+      "id": 4806,
+      "elements": [
+        {
+          "word": "審",
+          "reading": "しん"
+        },
+        {
+          "word": "判",
+          "reading": "ぱん"
+        }
+      ],
+      "en": "umpire, referee, judgment",
+      "ko": "심판"
+    },
+    {
+      "id": 4805,
+      "elements": [
+        {
+          "word": "慎重",
+          "reading": "しんちょう"
+        }
+      ],
+      "en": "careful, prudent, cautious",
+      "ko": "신중"
+    },
+    {
+      "id": 4804,
+      "elements": [
+        {
+          "word": "身",
+          "reading": "しん"
+        },
+        {
+          "word": "長",
+          "reading": "ちょう"
+        }
+      ],
+      "en": "height (of body), stature",
+      "ko": "신장"
+    },
+    {
+      "id": 4803,
+      "elements": [
+        {
+          "word": "身",
+          "reading": "しん"
+        },
+        {
+          "word": "体",
+          "reading": "たい"
+        }
+      ],
+      "en": "the body",
+      "ko": "몸"
+    },
+    {
+      "id": 4802,
+      "elements": [
+        {
+          "word": "心",
+          "reading": "しん"
+        },
+        {
+          "word": "臓",
+          "reading": "ぞう"
+        }
+      ],
+      "en": "heart",
+      "ko": "심장"
+    },
+    {
+      "id": 4801,
+      "elements": [
+        {
+          "word": "新",
+          "reading": "しん"
+        },
+        {
+          "word": "鮮",
+          "reading": "せん"
+        }
+      ],
+      "en": "fresh",
+      "ko": "신선"
+    },
+    {
+      "id": 4800,
+      "elements": [
+        {
+          "word": "親",
+          "reading": "しん"
+        },
+        {
+          "word": "戚",
+          "reading": "せき"
+        }
+      ],
+      "en": "relative(s)",
+      "ko": "친척"
+    },
+    {
+      "id": 4799,
+      "elements": [
+        {
+          "word": "人",
+          "reading": "じん"
+        },
+        {
+          "word": "生",
+          "reading": "せい"
+        }
+      ],
+      "en": "(human) life (e.g., conception to death)",
+      "ko": "인생"
+    },
+    {
+      "id": 4798,
+      "elements": [
+        {
+          "word": "信",
+          "reading": "しん"
+        },
+        {
+          "word": "じる",
+          "reading": ""
+        }
+      ],
+      "en": "to believe",
+      "ko": "믿다"
+    },
+    {
+      "id": 4797,
+      "elements": [
+        {
+          "word": "人",
+          "reading": "じん"
+        },
+        {
+          "word": "種",
+          "reading": "しゅ"
+        }
+      ],
+      "en": "race (of people)",
+      "ko": "인종"
+    },
+    {
+      "id": 4795,
+      "elements": [
+        {
+          "word": "深",
+          "reading": "しん"
+        },
+        {
+          "word": "刻",
+          "reading": "こく"
+        }
+      ],
+      "en": "serious",
+      "ko": "심각"
+    },
+    {
+      "id": 4794,
+      "elements": [
+        {
+          "word": "人",
+          "reading": "じん"
+        },
+        {
+          "word": "工",
+          "reading": "こう"
+        }
+      ],
+      "en": "artificial, man made, human work,",
+      "ko": "인공"
+    },
+    {
+      "id": 4793,
+      "elements": [
+        {
+          "word": "信",
+          "reading": "しん"
+        },
+        {
+          "word": "号",
+          "reading": "ごう"
+        }
+      ],
+      "en": "traffic lights, signal, semaphore",
+      "ko": "신호"
+    },
+    {
+      "id": 4790,
+      "elements": [
+        {
+          "word": "神",
+          "reading": "しん"
+        },
+        {
+          "word": "経",
+          "reading": "けい"
+        }
+      ],
+      "en": "nerve, sensitivity",
+      "ko": "신경"
+    },
+    {
+      "id": 4789,
+      "elements": [
+        {
+          "word": "進",
+          "reading": "しん"
+        },
+        {
+          "word": "学",
+          "reading": "がく"
+        }
+      ],
+      "en": "going on to university",
+      "ko": "진학"
+    },
+    {
+      "id": 4788,
+      "elements": [
+        {
+          "word": "城",
+          "reading": "しろ"
+        }
+      ],
+      "en": "castle",
+      "ko": "성"
+    },
+    {
+      "id": 4787,
+      "elements": [
+        {
+          "word": "印",
+          "reading": "しるし"
+        }
+      ],
+      "en": "mark; symbol; evidence",
+      "ko": "징표"
+    },
+    {
+      "id": 4786,
+      "elements": [
+        {
+          "word": "知",
+          "reading": "しり"
+        },
+        {
+          "word": "合い",
+          "reading": "あい"
+        }
+      ],
+      "en": "acquaintance",
+      "ko": "지인"
+    },
+    {
+      "id": 4785,
+      "elements": [
+        {
+          "word": "尻",
+          "reading": "しり"
+        }
+      ],
+      "en": "buttocks, bottom",
+      "ko": "엉덩이"
+    },
+    {
+      "id": 4784,
+      "elements": [
+        {
+          "word": "知らせ",
+          "reading": "しらせ"
+        }
+      ],
+      "en": "notice",
+      "ko": "소식"
+    },
+    {
+      "id": 4783,
+      "elements": [
+        {
+          "word": "書",
+          "reading": "しょ"
+        },
+        {
+          "word": "類",
+          "reading": "るい"
+        }
+      ],
+      "en": "documents, official papers",
+      "ko": "서류"
+    },
+    {
+      "id": 4782,
+      "elements": [
+        {
+          "word": "処理",
+          "reading": "しょり"
+        }
+      ],
+      "en": "processing, treatment, disposition",
+      "ko": "처리"
+    },
+    {
+      "id": 4781,
+      "elements": [
+        {
+          "word": "女",
+          "reading": "じょ"
+        },
+        {
+          "word": "優",
+          "reading": "ゆう"
+        }
+      ],
+      "en": "actress",
+      "ko": "배우"
+    },
+    {
+      "id": 4780,
+      "elements": [
+        {
+          "word": "書",
+          "reading": "しょ"
+        },
+        {
+          "word": "物",
+          "reading": "もつ"
+        }
+      ],
+      "en": "books",
+      "ko": "서적"
+    },
+    {
+      "id": 4779,
+      "elements": [
+        {
+          "word": "署",
+          "reading": "しょ"
+        },
+        {
+          "word": "名",
+          "reading": "めい"
+        }
+      ],
+      "en": "signature",
+      "ko": "서명"
+    },
+    {
+      "id": 4777,
+      "elements": [
+        {
+          "word": "助",
+          "reading": "じょ"
+        },
+        {
+          "word": "手",
+          "reading": "しゅ"
+        }
+      ],
+      "en": "helper, assistant",
+      "ko": "조수"
+    },
+    {
+      "id": 4776,
+      "elements": [
+        {
+          "word": "女",
+          "reading": "じょ"
+        },
+        {
+          "word": "子",
+          "reading": "し"
+        }
+      ],
+      "en": "woman, girl",
+      "ko": "여자"
+    },
+    {
+      "id": 4775,
+      "elements": [
+        {
+          "word": "書",
+          "reading": "しょ"
+        },
+        {
+          "word": "斎",
+          "reading": "さい"
+        }
+      ],
+      "en": "study, den",
+      "ko": "서재"
+    },
+    {
+      "id": 4774,
+      "elements": [
+        {
+          "word": "食",
+          "reading": "しょく"
+        },
+        {
+          "word": "糧",
+          "reading": "りょう"
+        }
+      ],
+      "en": "provisions, rations",
+      "ko": "식량"
+    },
+    {
+      "id": 4773,
+      "elements": [
+        {
+          "word": "食",
+          "reading": "しょく"
+        },
+        {
+          "word": "料",
+          "reading": "りょう"
+        }
+      ],
+      "en": "food",
+      "ko": "식료"
+    },
+    {
+      "id": 4772,
+      "elements": [
+        {
+          "word": "食",
+          "reading": "しょく"
+        },
+        {
+          "word": "欲",
+          "reading": "よく"
+        }
+      ],
+      "en": "appetite (for food)",
+      "ko": "식욕"
+    },
+    {
+      "id": 4771,
+      "elements": [
+        {
+          "word": "食",
+          "reading": "しょく"
+        },
+        {
+          "word": "物",
+          "reading": "もつ"
+        }
+      ],
+      "en": "food, foodstuff",
+      "ko": "식품"
+    },
+    {
+      "id": 4770,
+      "elements": [
+        {
+          "word": "植",
+          "reading": "しょく"
+        },
+        {
+          "word": "物",
+          "reading": "ぶつ"
+        }
+      ],
+      "en": "plant, vegetation",
+      "ko": "식물"
+    },
+    {
+      "id": 4769,
+      "elements": [
+        {
+          "word": "食",
+          "reading": "しょく"
+        },
+        {
+          "word": "品",
+          "reading": "ひん"
+        }
+      ],
+      "en": "foodstuff",
+      "ko": "식품"
+    },
+    {
+      "id": 4768,
+      "elements": [
+        {
+          "word": "食",
+          "reading": "しょく"
+        },
+        {
+          "word": "卓",
+          "reading": "たく"
+        }
+      ],
+      "en": "dining table",
+      "ko": "식탁"
+    },
+    {
+      "id": 4767,
+      "elements": [
+        {
+          "word": "職",
+          "reading": "しょく"
+        },
+        {
+          "word": "業",
+          "reading": "ぎょう"
+        }
+      ],
+      "en": "occupation, business",
+      "ko": "직업"
+    },
+    {
+      "id": 4766,
+      "elements": [
+        {
+          "word": "職",
+          "reading": "しょく"
+        }
+      ],
+      "en": "employment",
+      "ko": "직장"
+    },
+    {
+      "id": 4765,
+      "elements": [
+        {
+          "word": "女",
+          "reading": "じょ"
+        },
+        {
+          "word": "王",
+          "reading": "おう"
+        }
+      ],
+      "en": "queen",
+      "ko": "여왕"
+    },
+    {
+      "id": 4764,
+      "elements": [
+        {
+          "word": "省",
+          "reading": "しょう"
+        },
+        {
+          "word": "略",
+          "reading": "りゃく"
+        }
+      ],
+      "en": "omission, abbreviation, abridgment",
+      "ko": "생략"
+    },
+    {
+      "id": 4763,
+      "elements": [
+        {
+          "word": "証",
+          "reading": "しょう"
+        },
+        {
+          "word": "明",
+          "reading": "めい"
+        }
+      ],
+      "en": "proof, verification",
+      "ko": "증명"
+    },
+    {
+      "id": 4762,
+      "elements": [
+        {
+          "word": "情",
+          "reading": "じょう"
+        },
+        {
+          "word": "報",
+          "reading": "ほう"
+        }
+      ],
+      "en": "information, (military) intelligence",
+      "ko": "정보"
+    },
+    {
+      "id": 4761,
+      "elements": [
+        {
+          "word": "消",
+          "reading": "しょう"
+        },
+        {
+          "word": "防",
+          "reading": "ぼう"
+        }
+      ],
+      "en": "fire fighting, fire department",
+      "ko": "소방"
+    },
+    {
+      "id": 4760,
+      "elements": [
+        {
+          "word": "賞",
+          "reading": "しょう"
+        },
+        {
+          "word": "品",
+          "reading": "ひん"
+        }
+      ],
+      "en": "prize, trophy",
+      "ko": "상품"
+    },
+    {
+      "id": 4759,
+      "elements": [
+        {
+          "word": "商",
+          "reading": "しょう"
+        },
+        {
+          "word": "品",
+          "reading": "ひん"
+        }
+      ],
+      "en": "commodity, merchandise",
+      "ko": "상품"
+    },
+    {
+      "id": 4758,
+      "elements": [
+        {
+          "word": "消",
+          "reading": "しょう"
+        },
+        {
+          "word": "費",
+          "reading": "ひ"
+        }
+      ],
+      "en": "consumption, expenditure",
+      "ko": "소비"
+    },
+    {
+      "id": 4757,
+      "elements": [
+        {
+          "word": "商",
+          "reading": "しょう"
+        },
+        {
+          "word": "売",
+          "reading": "ばい"
+        }
+      ],
+      "en": "trade, business, commerce",
+      "ko": "상업"
+    },
+    {
+      "id": 4756,
+      "elements": [
+        {
+          "word": "少",
+          "reading": "しょう"
+        },
+        {
+          "word": "年",
+          "reading": "ねん"
+        }
+      ],
+      "en": "boys, juveniles",
+      "ko": "소년"
+    },
+    {
+      "id": 4755,
+      "elements": [
+        {
+          "word": "承",
+          "reading": "しょう"
+        },
+        {
+          "word": "認",
+          "reading": "にん"
+        }
+      ],
+      "en": "recognition, approval",
+      "ko": "승인"
+    },
+    {
+      "id": 4754,
+      "elements": [
+        {
+          "word": "商",
+          "reading": "しょう"
+        },
+        {
+          "word": "人",
+          "reading": "にん"
+        }
+      ],
+      "en": "trader, shopkeeper, merchant",
+      "ko": "상인"
+    },
+    {
+      "id": 4753,
+      "elements": [
+        {
+          "word": "衝",
+          "reading": "しょう"
+        },
+        {
+          "word": "突",
+          "reading": "とつ"
+        }
+      ],
+      "en": "collision, conflict",
+      "ko": "충돌"
+    },
+    {
+      "id": 4752,
+      "elements": [
+        {
+          "word": "上",
+          "reading": "じょう"
+        },
+        {
+          "word": "等",
+          "reading": "とう"
+        }
+      ],
+      "en": "first class, very good",
+      "ko": "상급"
+    },
+    {
+      "id": 4751,
+      "elements": [
+        {
+          "word": "冗",
+          "reading": "じょう"
+        },
+        {
+          "word": "談",
+          "reading": "だん"
+        }
+      ],
+      "en": "a joke",
+      "ko": "농담"
+    },
+    {
+      "id": 4750,
+      "elements": [
+        {
+          "word": "上",
+          "reading": "じょう"
+        },
+        {
+          "word": "達",
+          "reading": "たつ"
+        }
+      ],
+      "en": "improvement, advance",
+      "ko": "상승"
+    },
+    {
+      "id": 4749,
+      "elements": [
+        {
+          "word": "状",
+          "reading": "じょう"
+        },
+        {
+          "word": "態",
+          "reading": "たい"
+        }
+      ],
+      "en": "condition, situation",
+      "ko": "상태"
+    },
+    {
+      "id": 4748,
+      "elements": [
+        {
+          "word": "生",
+          "reading": "しょう"
+        },
+        {
+          "word": "じる",
+          "reading": "じる"
+        }
+      ],
+      "en": "to occur, to arise, to be generated",
+      "ko": "발생하다"
+    },
+    {
+      "id": 4747,
+      "elements": [
+        {
+          "word": "症",
+          "reading": "しょう"
+        },
+        {
+          "word": "状",
+          "reading": "じょう"
+        }
+      ],
+      "en": "symptoms, condition",
+      "ko": "증상"
+    },
+    {
+      "id": 4745,
+      "elements": [
+        {
+          "word": "少女",
+          "reading": "しょうじょ"
+        }
+      ],
+      "en": "young girl",
+      "ko": "소녀"
+    },
+    {
+      "id": 4744,
+      "elements": [
+        {
+          "word": "常識",
+          "reading": "じょうしき"
+        }
+      ],
+      "en": "common sense",
+      "ko": "상식"
+    },
+    {
+      "id": 4743,
+      "elements": [
+        {
+          "word": "正",
+          "reading": "しょう"
+        },
+        {
+          "word": "直",
+          "reading": "じき"
+        }
+      ],
+      "en": "honesty, integrity, frankness",
+      "ko": "정직"
+    },
+    {
+      "id": 4742,
+      "elements": [
+        {
+          "word": "正",
+          "reading": "しょう"
+        },
+        {
+          "word": "午",
+          "reading": "ご"
+        }
+      ],
+      "en": "noon, mid-day",
+      "ko": "정오"
+    },
+    {
+      "id": 4741,
+      "elements": [
+        {
+          "word": "条",
+          "reading": "じょう"
+        },
+        {
+          "word": "件",
+          "reading": "けん"
+        }
+      ],
+      "en": "conditions, terms",
+      "ko": "조건"
+    },
+    {
+      "id": 4740,
+      "elements": [
+        {
+          "word": "状",
+          "reading": "じょう"
+        },
+        {
+          "word": "況",
+          "reading": "きょう"
+        }
+      ],
+      "en": "state of affairs, situation",
+      "ko": "상황"
+    },
+    {
+      "id": 4739,
+      "elements": [
+        {
+          "word": "上",
+          "reading": "じょう"
+        },
+        {
+          "word": "京",
+          "reading": "きょう"
+        }
+      ],
+      "en": "proceeding to the capital (Tokyo)",
+      "ko": "상경"
+    },
+    {
+      "id": 4737,
+      "elements": [
+        {
+          "word": "奨",
+          "reading": "しょう"
+        },
+        {
+          "word": "学",
+          "reading": "がく"
+        },
+        {
+          "word": "金",
+          "reading": "きん"
+        }
+      ],
+      "en": "scholarship",
+      "ko": "장학금"
+    },
+    {
+      "id": 4736,
+      "elements": [
+        {
+          "word": "障",
+          "reading": "しょう"
+        },
+        {
+          "word": "害",
+          "reading": "がい"
+        }
+      ],
+      "en": "obstacle, impediment",
+      "ko": "장애"
+    },
+    {
+      "id": 4735,
+      "elements": [
+        {
+          "word": "上",
+          "reading": "じょう"
+        }
+      ],
+      "en": "first volume; superior quality; governmental",
+      "ko": "위"
+    },
+    {
+      "id": 4734,
+      "elements": [
+        {
+          "word": "賞",
+          "reading": "しょう"
+        }
+      ],
+      "en": "prize, award",
+      "ko": "상"
+    },
+    {
+      "id": 4733,
+      "elements": [
+        {
+          "word": "章",
+          "reading": "しょう"
+        }
+      ],
+      "en": "chapter, section; medal",
+      "ko": "장"
+    },
+    {
+      "id": 4732,
+      "elements": [
+        {
+          "word": "小",
+          "reading": "しょう"
+        }
+      ],
+      "en": "small",
+      "ko": "작다"
+    },
+    {
+      "id": 4731,
+      "elements": [
+        {
+          "word": "使",
+          "reading": "し"
+        },
+        {
+          "word": "用",
+          "reading": "よう"
+        }
+      ],
+      "en": "use (same as 使うこと (つかうこと)), application, employment, utilization",
+      "ko": "사용"
+    },
+    {
+      "id": 4730,
+      "elements": [
+        {
+          "word": "順",
+          "reading": "じゅん"
+        },
+        {
+          "word": "番",
+          "reading": "ばん"
+        }
+      ],
+      "en": "turn (in line), order of things",
+      "ko": "순서"
+    },
+    {
+      "id": 4729,
+      "elements": [
+        {
+          "word": "順",
+          "reading": "じゅん"
+        },
+        {
+          "word": "調",
+          "reading": "ちょう"
+        }
+      ],
+      "en": "doing well",
+      "ko": "순조롭다"
+    },
+    {
+      "id": 4728,
+      "elements": [
+        {
+          "word": "瞬間",
+          "reading": "しゅんかん"
+        }
+      ],
+      "en": "moment, second",
+      "ko": "순간"
+    },
+    {
+      "id": 4727,
+      "elements": [
+        {
+          "word": "順",
+          "reading": "じゅん"
+        }
+      ],
+      "en": "order, turn",
+      "ko": "순서"
+    },
+    {
+      "id": 4726,
+      "elements": [
+        {
+          "word": "種類",
+          "reading": "しゅるい"
+        }
+      ],
+      "en": "variety, kind",
+      "ko": "종류"
+    },
+    {
+      "id": 4725,
+      "elements": [
+        {
+          "word": "需",
+          "reading": "じゅ"
+        },
+        {
+          "word": "要",
+          "reading": "よう"
+        }
+      ],
+      "en": "demand",
+      "ko": "수요"
+    },
+    {
+      "id": 4724,
+      "elements": [
+        {
+          "word": "主要",
+          "reading": "しゅよう"
+        }
+      ],
+      "en": "chief, main",
+      "ko": "주요"
+    },
+    {
+      "id": 4723,
+      "elements": [
+        {
+          "word": "主婦",
+          "reading": "しゅふ"
+        }
+      ],
+      "en": "housewife",
+      "ko": "주부"
+    },
+    {
+      "id": 4722,
+      "elements": [
+        {
+          "word": "首都",
+          "reading": "しゅと"
+        }
+      ],
+      "en": "capital city",
+      "ko": "수도"
+    },
+    {
+      "id": 4721,
+      "elements": [
+        {
+          "word": "出",
+          "reading": "しゅっ"
+        },
+        {
+          "word": "版",
+          "reading": "ぱん"
+        }
+      ],
+      "en": "publication",
+      "ko": "출판"
+    },
+    {
+      "id": 4720,
+      "elements": [
+        {
+          "word": "出",
+          "reading": "しゅっ"
+        },
+        {
+          "word": "身",
+          "reading": "しん"
+        }
+      ],
+      "en": "come from",
+      "ko": "출신"
+    },
+    {
+      "id": 4718,
+      "elements": [
+        {
+          "word": "主張",
+          "reading": "しゅちょう"
+        }
+      ],
+      "en": "claim, insistence, assertion",
+      "ko": "주장"
+    },
+    {
+      "id": 4717,
+      "elements": [
+        {
+          "word": "手段",
+          "reading": "しゅだん"
+        }
+      ],
+      "en": "means, way, measure",
+      "ko": "수단"
+    },
+    {
+      "id": 4715,
+      "elements": [
+        {
+          "word": "手術",
+          "reading": "しゅじゅつ"
+        }
+      ],
+      "en": "surgical operation",
+      "ko": "수술"
+    },
+    {
+      "id": 4714,
+      "elements": [
+        {
+          "word": "宿泊",
+          "reading": "しゅくはく"
+        }
+      ],
+      "en": "lodging",
+      "ko": "숙박"
+    },
+    {
+      "id": 4713,
+      "elements": [
+        {
+          "word": "主義",
+          "reading": "しゅぎ"
+        }
+      ],
+      "en": "doctrine, cause, principle",
+      "ko": "주의"
+    },
+    {
+      "id": 4712,
+      "elements": [
+        {
+          "word": "修理",
+          "reading": "しゅうり"
+        }
+      ],
+      "en": "repairing, mending",
+      "ko": "수리"
+    },
+    {
+      "id": 4711,
+      "elements": [
+        {
+          "word": "重要",
+          "reading": "じゅうよう"
+        }
+      ],
+      "en": "important, essential",
+      "ko": "중요"
+    },
+    {
+      "id": 4710,
+      "elements": [
+        {
+          "word": "住民",
+          "reading": "じゅうみん"
+        }
+      ],
+      "en": "inhabitants, residents",
+      "ko": "주민"
+    },
+    {
+      "id": 4709,
+      "elements": [
+        {
+          "word": "収入",
+          "reading": "しゅうにゅう"
+        }
+      ],
+      "en": "income, revenue",
+      "ko": "수입"
+    },
+    {
+      "id": 4708,
+      "elements": [
+        {
+          "word": "集中",
+          "reading": "しゅうちゅう"
+        }
+      ],
+      "en": "concentration, focusing the mind",
+      "ko": "집중"
+    },
+    {
+      "id": 4707,
+      "elements": [
+        {
+          "word": "集団",
+          "reading": "しゅうだん"
+        }
+      ],
+      "en": "group, mass",
+      "ko": "집단"
+    },
+    {
+      "id": 4706,
+      "elements": [
+        {
+          "word": "住宅",
+          "reading": "じゅうたく"
+        }
+      ],
+      "en": "resident, housing",
+      "ko": "주택"
+    },
+    {
+      "id": 4705,
+      "elements": [
+        {
+          "word": "重大",
+          "reading": "じゅうだい"
+        }
+      ],
+      "en": "serious, important",
+      "ko": "중대"
+    },
+    {
+      "id": 4704,
+      "elements": [
+        {
+          "word": "渋滞",
+          "reading": "じゅうたい"
+        }
+      ],
+      "en": "congestion (e.g., traffic), delay",
+      "ko": "혼잡"
+    },
+    {
+      "id": 4703,
+      "elements": [
+        {
+          "word": "重体",
+          "reading": "じゅうたい"
+        }
+      ],
+      "en": "seriously ill, critical state",
+      "ko": "중태"
+    },
+    {
+      "id": 4702,
+      "elements": [
+        {
+          "word": "修正",
+          "reading": "しゅうせい"
+        }
+      ],
+      "en": "amendment, correction",
+      "ko": "수정"
+    },
+    {
+      "id": 4701,
+      "elements": [
+        {
+          "word": "ジュース",
+          "reading": "ジュース"
+        }
+      ],
+      "en": "juice, soft drink; deuce",
+      "ko": "주스"
+    },
+    {
+      "id": 4700,
+      "elements": [
+        {
+          "word": "就職",
+          "reading": "しゅうしょく"
+        }
+      ],
+      "en": "finding employment",
+      "ko": "취업"
+    },
+    {
+      "id": 4699,
+      "elements": [
+        {
+          "word": "重視",
+          "reading": "じゅうし"
+        }
+      ],
+      "en": "importance, stress",
+      "ko": "중시"
+    },
+    {
+      "id": 4698,
+      "elements": [
+        {
+          "word": "宗教",
+          "reading": "しゅうきょう"
+        }
+      ],
+      "en": "religion",
+      "ko": "종교"
+    },
+    {
+      "id": 4697,
+      "elements": [
+        {
+          "word": "収穫",
+          "reading": "しゅうかく"
+        }
+      ],
+      "en": "harvest, crop, ingathering",
+      "ko": "수확"
+    },
+    {
+      "id": 4696,
+      "elements": [
+        {
+          "word": "周囲",
+          "reading": "しゅうい"
+        }
+      ],
+      "en": "surroundings, circumference, environs",
+      "ko": "주변"
+    },
+    {
+      "id": 4695,
+      "elements": [
+        {
+          "word": "銃",
+          "reading": "じゅう"
+        }
+      ],
+      "en": "gun",
+      "ko": "총"
+    },
+    {
+      "id": 4694,
+      "elements": [
+        {
+          "word": "州",
+          "reading": "しゅう"
+        }
+      ],
+      "en": "state, province",
+      "ko": "주"
+    },
+    {
+      "id": 4693,
+      "elements": [
+        {
+          "word": "週",
+          "reading": "しゅう"
+        }
+      ],
+      "en": "week",
+      "ko": "주"
+    },
+    {
+      "id": 4692,
+      "elements": [
+        {
+          "word": "しゃべる",
+          "reading": "しゃべる"
+        }
+      ],
+      "en": "to talk, to chat, to chatter (same as 話す (はなす))",
+      "ko": "얘기하다"
+    },
+    {
+      "id": 4690,
+      "elements": [
+        {
+          "word": "霜",
+          "reading": "しも"
+        }
+      ],
+      "en": "frost",
+      "ko": "서리"
+    },
+    {
+      "id": 4689,
+      "elements": [
+        {
+          "word": "下",
+          "reading": "しも"
+        }
+      ],
+      "en": "under, below, beneath",
+      "ko": "아래"
+    },
+    {
+      "id": 4687,
+      "elements": [
+        {
+          "word": "占",
+          "reading": "し"
+        },
+        {
+          "word": "める",
+          "reading": ""
+        }
+      ],
+      "en": "to take up; to account for",
+      "ko": "차지하다"
+    },
+    {
+      "id": 4686,
+      "elements": [
+        {
+          "word": "示",
+          "reading": "しめ"
+        },
+        {
+          "word": "す",
+          "reading": ""
+        }
+      ],
+      "en": "to show, to indicate",
+      "ko": "보여주다"
+    },
+    {
+      "id": 4685,
+      "elements": [
+        {
+          "word": "地味",
+          "reading": "じみ"
+        }
+      ],
+      "en": "quiet, plain, conservative",
+      "ko": "평범하다"
+    },
+    {
+      "id": 4684,
+      "elements": [
+        {
+          "word": "自慢",
+          "reading": "じまん"
+        }
+      ],
+      "en": "pride, boast",
+      "ko": "자랑"
+    },
+    {
+      "id": 4682,
+      "elements": [
+        {
+          "word": "姉妹",
+          "reading": "しまい"
+        }
+      ],
+      "en": "sisters",
+      "ko": "자매"
+    },
+    {
+      "id": 4681,
+      "elements": [
+        {
+          "word": "資本",
+          "reading": "しほん"
+        }
+      ],
+      "en": "funds, capital",
+      "ko": "자본"
+    },
+    {
+      "id": 4680,
+      "elements": [
+        {
+          "word": "死亡",
+          "reading": "しぼう"
+        }
+      ],
+      "en": "death",
+      "ko": "사망"
+    },
+    {
+      "id": 4679,
+      "elements": [
+        {
+          "word": "支払",
+          "reading": "しはら"
+        },
+        {
+          "word": "う",
+          "reading": ""
+        }
+      ],
+      "en": "to pay",
+      "ko": "지불하다"
+    },
+    {
+      "id": 4678,
+      "elements": [
+        {
+          "word": "支払",
+          "reading": "しはらい"
+        }
+      ],
+      "en": "payment",
+      "ko": "지불"
+    },
+    {
+      "id": 4677,
+      "elements": [
+        {
+          "word": "芝生",
+          "reading": "しばふ"
+        }
+      ],
+      "en": "lawn",
+      "ko": "잔디밭"
+    },
+    {
+      "id": 4676,
+      "elements": [
+        {
+          "word": "しばしば",
+          "reading": "しばしば"
+        }
+      ],
+      "en": "often, again and again, frequently",
+      "ko": "자주"
+    },
+    {
+      "id": 4675,
+      "elements": [
+        {
+          "word": "芝居",
+          "reading": "しばい"
+        }
+      ],
+      "en": "play, drama",
+      "ko": "연극"
+    },
+    {
+      "id": 4674,
+      "elements": [
+        {
+          "word": "支配",
+          "reading": "しはい"
+        }
+      ],
+      "en": "rule, control, direction",
+      "ko": "통제"
+    },
+    {
+      "id": 4673,
+      "elements": [
+        {
+          "word": "品",
+          "reading": "しな"
+        }
+      ],
+      "en": "thing, article, goods",
+      "ko": "물건"
+    },
+    {
+      "id": 4672,
+      "elements": [
+        {
+          "word": "児童",
+          "reading": "じどう"
+        }
+      ],
+      "en": "children, juvenile",
+      "ko": "아동"
+    },
+    {
+      "id": 4671,
+      "elements": [
+        {
+          "word": "自動",
+          "reading": "じどう"
+        }
+      ],
+      "en": "automatic, self-motion",
+      "ko": "자동"
+    },
+    {
+      "id": 4670,
+      "elements": [
+        {
+          "word": "指導",
+          "reading": "しどう"
+        }
+      ],
+      "en": "leadership, guidance, coaching",
+      "ko": "지도"
+    },
+    {
+      "id": 4669,
+      "elements": [
+        {
+          "word": "支店",
+          "reading": "してん"
+        }
+      ],
+      "en": "branch store (office)",
+      "ko": "지점"
+    },
+    {
+      "id": 4668,
+      "elements": [
+        {
+          "word": "実力",
+          "reading": "じつりょく"
+        }
+      ],
+      "en": "ability; force",
+      "ko": "실력"
+    },
+    {
+      "id": 4667,
+      "elements": [
+        {
+          "word": "失望",
+          "reading": "しつぼう"
+        }
+      ],
+      "en": "disappointment, despair",
+      "ko": "실망"
+    },
+    {
+      "id": 4666,
+      "elements": [
+        {
+          "word": "実は",
+          "reading": "じつは"
+        }
+      ],
+      "en": "actually; in fact",
+      "ko": "사실은"
+    },
+    {
+      "id": 4665,
+      "elements": [
+        {
+          "word": "実に",
+          "reading": "じつに"
+        }
+      ],
+      "en": "indeed, truly, surely",
+      "ko": "정말로"
+    },
+    {
+      "id": 4664,
+      "elements": [
+        {
+          "word": "じっと",
+          "reading": "じっと"
+        }
+      ],
+      "en": "patiently, quietly",
+      "ko": "조용히"
+    },
+    {
+      "id": 4663,
+      "elements": [
+        {
+          "word": "湿度",
+          "reading": "しつど"
+        }
+      ],
+      "en": "humidity",
+      "ko": "습도"
+    },
+    {
+      "id": 4662,
+      "elements": [
+        {
+          "word": "実施",
+          "reading": "じっし"
+        }
+      ],
+      "en": "enforcement, carry out, operation",
+      "ko": "시행"
+    },
+    {
+      "id": 4659,
+      "elements": [
+        {
+          "word": "実",
+          "reading": "じつ"
+        },
+        {
+          "word": "現",
+          "reading": "げん"
+        }
+      ],
+      "en": "implementation, materialization, realization",
+      "ko": "실현"
+    },
+    {
+      "id": 4656,
+      "elements": [
+        {
+          "word": "失",
+          "reading": "しつ"
+        },
+        {
+          "word": "業",
+          "reading": "ぎょう"
+        }
+      ],
+      "en": "unemployment",
+      "ko": "실업"
+    },
+    {
+      "id": 4655,
+      "elements": [
+        {
+          "word": "質",
+          "reading": "しつ"
+        }
+      ],
+      "en": "quality, nature (of person)",
+      "ko": "질"
+    },
+    {
+      "id": 4654,
+      "elements": [
+        {
+          "word": "親",
+          "reading": "した"
+        },
+        {
+          "word": "しい",
+          "reading": ""
+        }
+      ],
+      "en": "intimate, close (e.g., friend)",
+      "ko": "친しい"
+    },
+    {
+      "id": 4652,
+      "elements": [
+        {
+          "word": "従",
+          "reading": "したが"
+        },
+        {
+          "word": "う",
+          "reading": ""
+        }
+      ],
+      "en": "to abide (by the rules), to obey",
+      "ko": " 따르다"
+    },
+    {
+      "id": 4651,
+      "elements": [
+        {
+          "word": "次第",
+          "reading": "しだい"
+        }
+      ],
+      "en": "order; circumstances; immediate(ly)",
+      "ko": "차례"
+    },
+    {
+      "id": 4650,
+      "elements": [
+        {
+          "word": "舌",
+          "reading": "した"
+        }
+      ],
+      "en": "tongue",
+      "ko": "혀"
+    },
+    {
+      "id": 4649,
+      "elements": [
+        {
+          "word": "思想",
+          "reading": "しそう"
+        }
+      ],
+      "en": "thought, idea",
+      "ko": "사상"
+    },
+    {
+      "id": 4648,
+      "elements": [
+        {
+          "word": "自然",
+          "reading": "しぜん"
+        }
+      ],
+      "en": "nature, spontaneous",
+      "ko": "자연"
+    },
+    {
+      "id": 4647,
+      "elements": [
+        {
+          "word": "沈",
+          "reading": "しず"
+        },
+        {
+          "word": "む",
+          "reading": ""
+        }
+      ],
+      "en": "to sink; to feel depressed",
+      "ko": "가라앉다"
+    },
+    {
+      "id": 4646,
+      "elements": [
+        {
+          "word": "自身",
+          "reading": "じしん"
+        }
+      ],
+      "en": "oneself",
+      "ko": "자신"
+    },
+    {
+      "id": 4645,
+      "elements": [
+        {
+          "word": "詩",
+          "reading": "し"
+        },
+        {
+          "word": "人",
+          "reading": "じん"
+        }
+      ],
+      "en": "poet",
+      "ko": "시인"
+    },
+    {
+      "id": 4644,
+      "elements": [
+        {
+          "word": "事情",
+          "reading": "じじょう"
+        }
+      ],
+      "en": "circumstances, situation, reasons",
+      "ko": "정황"
+    },
+    {
+      "id": 4643,
+      "elements": [
+        {
+          "word": "支出",
+          "reading": "ししゅつ"
+        }
+      ],
+      "en": "expenditure, expenses",
+      "ko": "지출"
+    },
+    {
+      "id": 4642,
+      "elements": [
+        {
+          "word": "事実",
+          "reading": "じじつ"
+        }
+      ],
+      "en": "fact, truth, reality",
+      "ko": "사실"
+    },
+    {
+      "id": 4641,
+      "elements": [
+        {
+          "word": "自殺",
+          "reading": "じさつ"
+        }
+      ],
+      "en": "suicide",
+      "ko": "자살"
+    },
+    {
+      "id": 4640,
+      "elements": [
+        {
+          "word": "時刻",
+          "reading": "じこく"
+        }
+      ],
+      "en": "time, hour",
+      "ko": "시간"
+    },
+    {
+      "id": 4639,
+      "elements": [
+        {
+          "word": "事件",
+          "reading": "じけん"
+        }
+      ],
+      "en": "event, affair, incident",
+      "ko": "사건"
+    },
+    {
+      "id": 4638,
+      "elements": [
+        {
+          "word": "資源",
+          "reading": "しげん"
+        }
+      ],
+      "en": "resources",
+      "ko": "자원"
+    },
+    {
+      "id": 4637,
+      "elements": [
+        {
+          "word": "刺激",
+          "reading": "しげき"
+        }
+      ],
+      "en": "stimulus, impetus, incentive",
+      "ko": "자극"
+    },
+    {
+      "id": 4635,
+      "elements": [
+        {
+          "word": "至",
+          "reading": "し"
+        },
+        {
+          "word": "急",
+          "reading": "きゅう"
+        }
+      ],
+      "en": "urgent, pressing",
+      "ko": "치급"
+    },
+    {
+      "id": 4633,
+      "elements": [
+        {
+          "word": "時期",
+          "reading": "じき"
+        }
+      ],
+      "en": "time, season, period",
+      "ko": "시기"
+    },
+    {
+      "id": 4632,
+      "elements": [
+        {
+          "word": "直",
+          "reading": "じき"
+        }
+      ],
+      "en": "immediately, soon, shortly",
+      "ko": "곧"
+    },
+    {
+      "id": 4631,
+      "elements": [
+        {
+          "word": "四",
+          "reading": "し"
+        },
+        {
+          "word": "季",
+          "reading": "き"
+        }
+      ],
+      "en": "four seasons",
+      "ko": "사계"
+    },
+    {
+      "id": 4629,
+      "elements": [
+        {
+          "word": "直",
+          "reading": "じか"
+        },
+        {
+          "word": "に",
+          "reading": ""
+        }
+      ],
+      "en": "immediately, readily, directly",
+      "ko": "직접"
+    },
+    {
+      "id": 4628,
+      "elements": [
+        {
+          "word": "四",
+          "reading": "し"
+        },
+        {
+          "word": "角",
+          "reading": "かく"
+        }
+      ],
+      "en": "square",
+      "ko": "사각형"
+    },
+    {
+      "id": 4627,
+      "elements": [
+        {
+          "word": "ジェット",
+          "reading": "ジェット"
+        },
+        {
+          "word": "機",
+          "reading": "き"
+        }
+      ],
+      "en": "jet plane",
+      "ko": "제트기"
+    },
+    {
+      "id": 4626,
+      "elements": [
+        {
+          "word": "ジーンズ",
+          "reading": "ジーンズ"
+        }
+      ],
+      "en": "jeans",
+      "ko": "진"
+    },
+    {
+      "id": 4624,
+      "elements": [
+        {
+          "word": "詩",
+          "reading": "し"
+        }
+      ],
+      "en": "poem; poetry",
+      "ko": "시"
+    },
+    {
+      "id": 4623,
+      "elements": [
+        {
+          "word": "氏",
+          "reading": "し"
+        }
+      ],
+      "en": "family name, lineage",
+      "ko": "씨"
+    },
+    {
+      "id": 4622,
+      "elements": [
+        {
+          "word": "酸",
+          "reading": "さん"
+        },
+        {
+          "word": "素",
+          "reading": "そ"
+        }
+      ],
+      "en": "oxygen",
+      "ko": "산소"
+    },
+    {
+      "id": 4621,
+      "elements": [
+        {
+          "word": "酸",
+          "reading": "さん"
+        },
+        {
+          "word": "性",
+          "reading": "せい"
+        }
+      ],
+      "en": "acidity",
+      "ko": "산성"
+    },
+    {
+      "id": 4620,
+      "elements": [
+        {
+          "word": "賛",
+          "reading": "さん"
+        },
+        {
+          "word": "成",
+          "reading": "せい"
+        }
+      ],
+      "en": "approval, agreement",
+      "ko": "찬성"
+    },
+    {
+      "id": 4619,
+      "elements": [
+        {
+          "word": "参",
+          "reading": "さん"
+        },
+        {
+          "word": "考",
+          "reading": "こう"
+        }
+      ],
+      "en": "reference, consultation",
+      "ko": "참고"
+    },
+    {
+      "id": 4618,
+      "elements": [
+        {
+          "word": "参",
+          "reading": "さん"
+        },
+        {
+          "word": "加",
+          "reading": "か"
+        }
+      ],
+      "en": "participation",
+      "ko": "참여"
+    },
+    {
+      "id": 4616,
+      "elements": [
+        {
+          "word": "猿",
+          "reading": "さる"
+        }
+      ],
+      "en": "monkey",
+      "ko": "원숭이"
+    },
+    {
+      "id": 4615,
+      "elements": [
+        {
+          "word": "去",
+          "reading": "さ"
+        },
+        {
+          "word": "る",
+          "reading": ""
+        }
+      ],
+      "en": "to leave, to go away",
+      "ko": "떠나다"
+    },
+    {
+      "id": 4614,
+      "elements": [
+        {
+          "word": "更",
+          "reading": "さら"
+        },
+        {
+          "word": "に",
+          "reading": ""
+        }
+      ],
+      "en": "furthermore, moreover",
+      "ko": "더욱이"
+    },
+    {
+      "id": 4613,
+      "elements": [
+        {
+          "word": "皿",
+          "reading": "さら"
+        }
+      ],
+      "en": "plate, dish",
+      "ko": "접시"
+    },
+    {
+      "id": 4612,
+      "elements": [
+        {
+          "word": "左",
+          "reading": "さ"
+        },
+        {
+          "word": "右",
+          "reading": "ゆう"
+        }
+      ],
+      "en": "left and right; influence",
+      "ko": "좌우"
+    },
+    {
+      "id": 4611,
+      "elements": [
+        {
+          "word": "覚",
+          "reading": "さ"
+        },
+        {
+          "word": "める",
+          "reading": ""
+        }
+      ],
+      "en": "to wake, to wake up",
+      "ko": "깨다"
+    },
+    {
+      "id": 4610,
+      "elements": [
+        {
+          "word": "冷",
+          "reading": "さ"
+        },
+        {
+          "word": "める",
+          "reading": ""
+        }
+      ],
+      "en": "to become cool, to wear off",
+      "ko": "차가워지다"
+    },
+    {
+      "id": 4609,
+      "elements": [
+        {
+          "word": "覚",
+          "reading": "さ"
+        },
+        {
+          "word": "ます",
+          "reading": ""
+        }
+      ],
+      "en": "to awaken",
+      "ko": "깨우다"
+    },
+    {
+      "id": 4608,
+      "elements": [
+        {
+          "word": "冷",
+          "reading": "さ"
+        },
+        {
+          "word": "ます",
+          "reading": ""
+        }
+      ],
+      "en": "to cool, to let cool",
+      "ko": "차갑게 하다"
+    },
+    {
+      "id": 4606,
+      "elements": [
+        {
+          "word": "作",
+          "reading": "さ"
+        },
+        {
+          "word": "法",
+          "reading": "ほう"
+        }
+      ],
+      "en": "manners, etiquette, propriety",
+      "ko": "예절"
     }
   ]
 }
