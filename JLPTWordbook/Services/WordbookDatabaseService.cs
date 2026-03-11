@@ -41,6 +41,16 @@ INSERT INTO `user` (`id`, `name_hint`) VALUES(@id, @nameHint)
         await connection.ExecuteAsync(command);
     }
 
+    public async ValueTask UnmarkWordAsMemorizedAsync(string userId, string className, int wordIndex, CancellationToken cancellationToken = default)
+    {
+        using var connection = GetConnection();
+        await connection.OpenAsync(cancellationToken);
+
+        const string QUERY = "DELETE FROM `memorized_word` WHERE `user_id` = @userId AND `class` = @className AND `word_index` = @wordIndex";
+        var command = new CommandDefinition(QUERY, new { userId, className, wordIndex }, cancellationToken: cancellationToken);
+        await connection.ExecuteAsync(command);
+    }
+
     public async ValueTask ResetMemorizedWordsAsync(string userId, string className, CancellationToken cancellationToken = default)
     {
         using var connection = GetConnection();

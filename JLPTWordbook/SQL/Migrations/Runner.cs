@@ -13,7 +13,8 @@ public static class Runner
             connectionString,
             "JLPTWordbook", [
                 new V1__Init(),
-                new V2__AddMemorizedWords()
+                new V2__AddMemorizedWords(),
+                new V3__AddExamResults()
             ],
             Console.Out,
             cancellationToken

@@ -46,7 +46,7 @@ public class Wordbook(Word[] words)
 
             string en = wordObj["en"]?.GetValue<string>() ?? string.Empty;
             string ko = wordObj["ko"]?.GetValue<string>() ?? string.Empty;
-            wordList.Add(new Word([.. wordComponentList], () =>
+            wordList.Add(new Word([.. wordComponentList], ko, en, () =>
                 CultureInfo.CurrentUICulture.TwoLetterISOLanguageName == "ko" ? ko : en));
             wordComponentList.Clear();
         }

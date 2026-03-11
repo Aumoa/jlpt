@@ -20,11 +20,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Compile Update="Localizational\N5.Designer.cs">
-      <DesignTime>True</DesignTime>
-      <AutoGen>True</AutoGen>
-      <DependentUpon>N5.resx</DependentUpon>
-    </Compile>
     <Compile Update="Localizational\Strings.Designer.cs">
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
@@ -33,10 +28,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <EmbeddedResource Update="Localizational\N5.resx">
-      <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>N5.Designer.cs</LastGenOutput>
-    </EmbeddedResource>
     <EmbeddedResource Update="Localizational\Strings.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Strings.Designer.cs</LastGenOutput>

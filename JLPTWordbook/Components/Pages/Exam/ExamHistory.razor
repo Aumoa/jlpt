@@ -1,0 +1,145 @@
+@page "/exam/history"
+@using JLPTWordbook.Services
+@using JLPTWordbook.Shared
+@inject JwtAuthenticationStateProvider Auth
+@inject ExamDatabaseService Edb
+@inject Worksheet Sheet
+
+@if (!Auth.IsAuthorized)
+{
+    <div class="history-login-required">
+        <span class="material-symbols-outlined">lock</span>
+        <p>@Strings.EXAM_LOGIN_REQUIRED</p>
+    </div>
+}
+else if (m_DetailSession != null)
+{
+    <div class="history-detail">
+        <div class="detail-header">
+            <button class="btn-back" @onclick="CloseDetail">
+                <span class="material-symbols-outlined">arrow_back</span>
+                <span>@Strings.EXAM_HISTORY_BACK</span>
+            </button>
+            <h2>@m_DetailSession.Class — @m_DetailSession.TakenAt.ToLocalTime().ToString("yyyy-MM-dd HH:mm")</h2>
+            <p class="detail-score">@m_DetailSession.CorrectCount / @m_DetailSession.TotalCount (@(m_DetailSession.TotalCount > 0 ? (int)((double)m_DetailSession.CorrectCount / m_DetailSession.TotalCount * 100) : 0)%)</p>
+        </div>
+
+        @if (m_DetailItems != null)
+        {
+            <div class="detail-items">
+                @foreach (var item in m_DetailItems)
+                {
+                    var wordbook = Sheet[Enum.Parse<Worksheet.Class>(m_DetailSession.Class, true)];
+                    if (item.WordIndex >= wordbook.Words.Count) continue;
+                    var word = wordbook.Words[item.WordIndex];
+                    <div class="detail-item @(item.IsCorrect ? "item-correct" : "item-incorrect")">
+                        <span class="detail-item-icon material-symbols-outlined">
+                            @(item.IsCorrect ? "check_circle" : "cancel")
+                        </span>
+                        <span class="detail-item-japanese">
+                            @string.Concat(word.Components.Select(c => c.Text))
+                        </span>
+                        <div class="detail-item-answers">
+                            <span class="detail-your-answer">@(string.IsNullOrEmpty(item.UserAnswer) ? "—" : item.UserAnswer)</span>
+                            @if (!item.IsCorrect)
+                            {
+                                <span class="detail-correct-answer">→ @word.Ko</span>
+                            }
+                        </div>
+                    </div>
+                }
+            </div>
+        }
+    </div>
+}
+else
+{
+    <div class="history-container">
+        <h2 class="history-title">@Strings.EXAM_HISTORY_TITLE</h2>
+
+        @if (m_IsLoading)
+        {
+            <div class="history-loading">
+                <span class="material-symbols-outlined spinning">autorenew</span>
+            </div>
+        }
+        else if (m_Sessions == null || m_Sessions.Count == 0)
+        {
+            <div class="history-empty">
+                <span class="material-symbols-outlined">inbox</span>
+                <p>@Strings.EXAM_HISTORY_EMPTY</p>
+            </div>
+        }
+        else
+        {
+            <table class="history-table">
+                <thead>
+                    <tr>
+                        <th>@Strings.EXAM_HISTORY_DATE</th>
+                        <th>@Strings.EXAM_HISTORY_CLASS</th>
+                        <th>@Strings.EXAM_HISTORY_SCORE</th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var session in m_Sessions)
+                    {
+                        var accuracy = session.TotalCount > 0 ? (int)((double)session.CorrectCount / session.TotalCount * 100) : 0;
+                        <tr>
+                            <td>@session.TakenAt.ToLocalTime().ToString("yyyy-MM-dd HH:mm")</td>
+                            <td><span class="class-badge">@session.Class</span></td>
+                            <td>
+                                <span class="score-text @(accuracy >= 80 ? "score-good" : accuracy >= 50 ? "score-ok" : "score-bad")">
+                                    @session.CorrectCount / @session.TotalCount (@accuracy%)
+                                </span>
+                            </td>
+                            <td>
+                                <button class="btn-detail" @onclick="() => OpenDetail(session)">
+                                    <span class="material-symbols-outlined">open_in_new</span>
+                                    <span>@Strings.EXAM_HISTORY_DETAIL</span>
+                                </button>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+    </div>
+}
+
+@code {
+    private IReadOnlyList<ExamSessionRecord>? m_Sessions;
+    private ExamSessionRecord? m_DetailSession;
+    private IReadOnlyList<ExamSessionItemRecord>? m_DetailItems;
+    private bool m_IsLoading = false;
+
+    protected override async Task OnInitializedAsync()
+    {
+        if (!Auth.IsAuthorized) return;
+
+        var sub = Auth.Sub;
+        if (string.IsNullOrEmpty(sub)) return;
+
+        m_IsLoading = true;
+        try
+        {
+            m_Sessions = await Edb.GetExamHistoryAsync(sub);
+        }
+        finally
+        {
+            m_IsLoading = false;
+        }
+    }
+
+    private async Task OpenDetail(ExamSessionRecord session)
+    {
+        m_DetailSession = session;
+        m_DetailItems = await Edb.GetExamSessionItemsAsync(session.Id);
+    }
+
+    private void CloseDetail()
+    {
+        m_DetailSession = null;
+        m_DetailItems = null;
+    }
+}

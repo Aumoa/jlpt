@@ -150,4 +150,88 @@
   <data name="WORDBOOK_RESET_CONFIRM" xml:space="preserve">
     <value>This will reset all word progress for {0}. Continue?</value>
   </data>
+  <data name="NAVMENU_EXAM" xml:space="preserve">
+    <value>Exam</value>
+  </data>
+  <data name="NAVMENU_EXAM_HISTORY" xml:space="preserve">
+    <value>Exam History</value>
+  </data>
+  <data name="WORDBOOK_VIEW_STUDY" xml:space="preserve">
+    <value>Study</value>
+  </data>
+  <data name="WORDBOOK_VIEW_LIST" xml:space="preserve">
+    <value>Word List</value>
+  </data>
+  <data name="WORDBOOK_SEARCH_PLACEHOLDER" xml:space="preserve">
+    <value>Search by Japanese or Korean...</value>
+  </data>
+  <data name="WORDBOOK_LIST_TOTAL" xml:space="preserve">
+    <value>{0} words total, {1} memorized</value>
+  </data>
+  <data name="EXAM_TITLE" xml:space="preserve">
+    <value>Vocabulary Exam</value>
+  </data>
+  <data name="EXAM_PROGRESS" xml:space="preserve">
+    <value>{0} / {1}</value>
+  </data>
+  <data name="EXAM_INPUT_PLACEHOLDER" xml:space="preserve">
+    <value>Enter Korean meaning...</value>
+  </data>
+  <data name="EXAM_NEXT" xml:space="preserve">
+    <value>Next</value>
+  </data>
+  <data name="EXAM_FINISH" xml:space="preserve">
+    <value>Finish</value>
+  </data>
+  <data name="EXAM_RESULT_TITLE" xml:space="preserve">
+    <value>Exam Results</value>
+  </data>
+  <data name="EXAM_RESULT_CORRECT" xml:space="preserve">
+    <value>Correct</value>
+  </data>
+  <data name="EXAM_RESULT_INCORRECT" xml:space="preserve">
+    <value>Incorrect</value>
+  </data>
+  <data name="EXAM_RESULT_ACCURACY" xml:space="preserve">
+    <value>Accuracy</value>
+  </data>
+  <data name="EXAM_RESULT_WRONG_WORDS" xml:space="preserve">
+    <value>Incorrect Words</value>
+  </data>
+  <data name="EXAM_RESULT_APPLY_TO_WORDBOOK" xml:space="preserve">
+    <value>Apply to Wordbook</value>
+  </data>
+  <data name="EXAM_RESULT_APPLIED" xml:space="preserve">
+    <value>Applied to Wordbook!</value>
+  </data>
+  <data name="EXAM_LOGIN_REQUIRED" xml:space="preserve">
+    <value>Login required to take the exam</value>
+  </data>
+  <data name="EXAM_HISTORY_TITLE" xml:space="preserve">
+    <value>Exam History</value>
+  </data>
+  <data name="EXAM_HISTORY_EMPTY" xml:space="preserve">
+    <value>No exam history yet</value>
+  </data>
+  <data name="EXAM_HISTORY_DATE" xml:space="preserve">
+    <value>Date</value>
+  </data>
+  <data name="EXAM_HISTORY_CLASS" xml:space="preserve">
+    <value>Level</value>
+  </data>
+  <data name="EXAM_HISTORY_SCORE" xml:space="preserve">
+    <value>Score</value>
+  </data>
+  <data name="EXAM_HISTORY_DETAIL" xml:space="preserve">
+    <value>Details</value>
+  </data>
+  <data name="EXAM_HISTORY_BACK" xml:space="preserve">
+    <value>Back to History</value>
+  </data>
+  <data name="EXAM_YOUR_ANSWER" xml:space="preserve">
+    <value>Your answer</value>
+  </data>
+  <data name="EXAM_CORRECT_ANSWER" xml:space="preserve">
+    <value>Correct answer</value>
+  </data>
 </root>

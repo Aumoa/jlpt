@@ -17,79 +17,136 @@
         }
     </ul>
     <div class="tabcontent">
-        @if (m_Book != null && m_Current != -1)
-        {
-            @if (Auth.IsAuthorized)
-            {
-                var total = m_Book.Words.Count;
-                var remaining = total - m_MemorizedIndices.Count;
-                var progressPct = total > 0 ? (int)((double)(total - remaining) / total * 100) : 0;
+        <div class="view-mode-toggle">
+            <button class="@(m_ViewMode == ViewMode.Study ? "btn-mode active" : "btn-mode")" @onclick="() => SetViewMode(ViewMode.Study)">
+                <span class="material-symbols-outlined">school</span>
+                <span>@Strings.WORDBOOK_VIEW_STUDY</span>
+            </button>
+            <button class="@(m_ViewMode == ViewMode.List ? "btn-mode active" : "btn-mode")" @onclick="() => SetViewMode(ViewMode.List)">
+                <span class="material-symbols-outlined">list</span>
+                <span>@Strings.WORDBOOK_VIEW_LIST</span>
+            </button>
+        </div>
 
-                <div class="wordbook-progress">
-                    <span class="progress-text">@string.Format(Strings.WORDBOOK_PROGRESS, remaining, total)</span>
-                    <div class="progress-bar-track">
-                        <div class="progress-bar-fill" style="width: @(progressPct)%"></div>
+        @if (m_ViewMode == ViewMode.Study)
+        {
+            @if (m_Book != null && m_Current != -1)
+            {
+                @if (Auth.IsAuthorized)
+                {
+                    var total = m_Book.Words.Count;
+                    var remaining = total - m_MemorizedIndices.Count;
+                    var progressPct = total > 0 ? (int)((double)(total - remaining) / total * 100) : 0;
+
+                    <div class="wordbook-progress">
+                        <span class="progress-text">@string.Format(Strings.WORDBOOK_PROGRESS, remaining, total)</span>
+                        <div class="progress-bar-track">
+                            <div class="progress-bar-fill" style="width: @(progressPct)%"></div>
+                        </div>
+                    </div>
+                }
+
+                <div class="component-view">
+                    <ruby>
+                        @foreach (var component in m_Book.Words[m_Current].Components)
+                        {
+                            @component.Text
+                            <rt>@component.Reading</rt>
+                        }
+                    </ruby>
+                </div>
+                <p class="localizer-view">@m_Book.Words[m_Current].Localizer()</p>
+
+                <div class="wordbook-actions">
+                    @if (Auth.IsAuthorized)
+                    {
+                        <button class="btn-memorized" @onclick="MarkMemorized" disabled="@m_IsLoading">
+                            <span class="material-symbols-outlined">check_circle</span>
+                            <span>@Strings.WORDBOOK_MEMORIZED</span>
+                        </button>
+                    }
+                    <button class="btn-next" @onclick="Refresh" disabled="@m_IsLoading">
+                        <span class="material-symbols-outlined">arrow_forward</span>
+                        <span>@Strings.WORDBOOK_NEXT</span>
+                    </button>
+                    @if (Auth.IsAuthorized && m_MemorizedIndices.Count > 0)
+                    {
+                        <button class="btn-reset" @onclick="ResetMemorized" disabled="@m_IsLoading">
+                            <span class="material-symbols-outlined">restart_alt</span>
+                            <span>@Strings.WORDBOOK_RESET</span>
+                        </button>
+                    }
+                </div>
+
+                @if (!Auth.IsAuthorized)
+                {
+                    <p class="login-hint">
+                        <span class="material-symbols-outlined">info</span>
+                        @Strings.WORDBOOK_LOGIN_HINT
+                    </p>
+                }
+            }
+            else if (HasMemorizedAllWords())
+            {
+                <div class="all-memorized-banner">
+                    <span class="material-symbols-outlined all-memorized-icon">celebration</span>
+                    <p>@Strings.WORDBOOK_ALL_MEMORIZED</p>
+                    <div class="wordbook-actions">
+                        <button class="btn-reset" @onclick="ResetMemorized" disabled="@m_IsLoading">
+                            <span class="material-symbols-outlined">restart_alt</span>
+                            <span>@Strings.WORDBOOK_RESET</span>
+                        </button>
                     </div>
                 </div>
             }
-
-            <div class="component-view">
-                <ruby>
-                    @foreach (var component in m_Book.Words[m_Current].Components)
-                    {
-                        @component.Text
-                        <rt>@component.Reading</rt>
-                    }
-                </ruby>
-            </div>
-            <p class="localizer-view">@m_Book.Words[m_Current].Localizer()</p>
-
-            <div class="wordbook-actions">
-                @if (Auth.IsAuthorized)
-                {
-                    <button class="btn-memorized" @onclick="MarkMemorized" disabled="@m_IsLoading">
-                        <span class="material-symbols-outlined">check_circle</span>
-                        <span>@Strings.WORDBOOK_MEMORIZED</span>
-                    </button>
-                }
-                <button class="btn-next" @onclick="Refresh" disabled="@m_IsLoading">
-                    <span class="material-symbols-outlined">arrow_forward</span>
-                    <span>@Strings.WORDBOOK_NEXT</span>
-                </button>
-                @if (Auth.IsAuthorized && m_MemorizedIndices.Count > 0)
-                {
-                    <button class="btn-reset" @onclick="ResetMemorized" disabled="@m_IsLoading">
-                        <span class="material-symbols-outlined">restart_alt</span>
-                        <span>@Strings.WORDBOOK_RESET</span>
-                    </button>
-                }
-            </div>
-
-            @if (!Auth.IsAuthorized)
-            {
-                <p class="login-hint">
-                    <span class="material-symbols-outlined">info</span>
-                    @Strings.WORDBOOK_LOGIN_HINT
-                </p>
-            }
         }
-        else if (HasMemorizedAllWords())
+        else
         {
-            <div class="all-memorized-banner">
-                <span class="material-symbols-outlined all-memorized-icon">celebration</span>
-                <p>@Strings.WORDBOOK_ALL_MEMORIZED</p>
-                <div class="wordbook-actions">
-                    <button class="btn-reset" @onclick="ResetMemorized" disabled="@m_IsLoading">
-                        <span class="material-symbols-outlined">restart_alt</span>
-                        <span>@Strings.WORDBOOK_RESET</span>
-                    </button>
-                </div>
+            @* List mode *@
+            <div class="wordlist-header">
+                <input class="search-input" type="text" placeholder="@Strings.WORDBOOK_SEARCH_PLACEHOLDER"
+                       @bind="m_SearchQuery" @bind:event="oninput" />
+                @if (m_Book != null && Auth.IsAuthorized)
+                {
+                    <span class="list-stats">@string.Format(Strings.WORDBOOK_LIST_TOTAL, m_Book.Words.Count, m_MemorizedIndices.Count)</span>
+                }
+            </div>
+            <div class="wordlist-container">
+                @if (m_Book != null)
+                {
+                    <Virtualize Items="FilteredWords" Context="item" OverscanCount="20">
+                        <div class="wordlist-item @(Auth.IsAuthorized && m_MemorizedIndices.Contains(item.Index) ? "memorized" : "")">
+                            <span class="wordlist-japanese">
+                                @string.Concat(item.Word.Components.Select(c => c.Text))
+                            </span>
+                            <span class="wordlist-reading">
+                                (@string.Concat(item.Word.Components.Select(c => c.Reading)))
+                            </span>
+                            <span class="wordlist-meaning">@item.Word.Localizer()</span>
+                            @if (Auth.IsAuthorized)
+                            {
+                                <span class="wordlist-memorized-badge @(m_MemorizedIndices.Contains(item.Index) ? "badge-memorized" : "badge-not-memorized")">
+                                    @if (m_MemorizedIndices.Contains(item.Index))
+                                    {
+                                        <span class="material-symbols-outlined">check_circle</span>
+                                    }
+                                    else
+                                    {
+                                        <span class="material-symbols-outlined">radio_button_unchecked</span>
+                                    }
+                                </span>
+                            }
+                        </div>
+                    </Virtualize>
+                }
             </div>
         }
     </div>
 </div>
 
 @code {
+    private enum ViewMode { Study, List }
+
     [Parameter]
     public string? Class { get; set; }
 
@@ -98,8 +155,32 @@
     private Worksheet.Class m_Class;
     private HashSet<int> m_MemorizedIndices = [];
     private bool m_IsLoading = false;
+    private ViewMode m_ViewMode = ViewMode.Study;
+    private string m_SearchQuery = string.Empty;
 
     private string ClassName => m_Class.ToString().ToLower();
+
+    private record WordListItem(int Index, Word Word);
+
+    private List<WordListItem> FilteredWords
+    {
+        get
+        {
+            if (m_Book == null) return [];
+            var query = m_SearchQuery.Trim();
+            IEnumerable<WordListItem> items = m_Book.Words
+                .Select((word, i) => new WordListItem(i, word));
+            if (!string.IsNullOrEmpty(query))
+            {
+                items = items.Where(item =>
+                    item.Word.Ko.Contains(query, StringComparison.OrdinalIgnoreCase) ||
+                    item.Word.En.Contains(query, StringComparison.OrdinalIgnoreCase) ||
+                    string.Concat(item.Word.Components.Select(c => c.Text)).Contains(query, StringComparison.OrdinalIgnoreCase) ||
+                    string.Concat(item.Word.Components.Select(c => c.Reading)).Contains(query, StringComparison.OrdinalIgnoreCase));
+            }
+            return items.ToList();
+        }
+    }
 
     protected override async Task OnParametersSetAsync()
     {
@@ -111,6 +192,7 @@
         m_Book = Sheet[klass];
         m_Class = klass;
         m_MemorizedIndices = [];
+        m_SearchQuery = string.Empty;
 
         if (Auth.IsAuthorized)
         {
@@ -123,6 +205,12 @@
         }
 
         m_Current = PickRandomAvailableIndex();
+    }
+
+    private void SetViewMode(ViewMode mode)
+    {
+        m_ViewMode = mode;
+        m_SearchQuery = string.Empty;
     }
 
     private bool IsActiveTab(string tabName)
