@@ -1,3 +1,3 @@
 ﻿namespace JLPTWordbook.Shared;
 
-public record struct Word(WordComponent[] Components, Func<string?> Localizer);
+public record struct Word(WordComponent[] Components, string Ko, string En, Func<string?> Localizer);

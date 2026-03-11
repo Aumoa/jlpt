@@ -34,6 +34,7 @@ builder.Services.Configure<OAuth2Options>(builder.Configuration.GetRequiredSecti
 builder.Services.AddSingleton<Worksheet>();
 builder.Services.AddHostedService<Worksheet.BackgroundService>();
 builder.Services.AddScoped<WordbookDatabaseService>();
+builder.Services.AddScoped<ExamDatabaseService>();
 
 var app = builder.Build();
 

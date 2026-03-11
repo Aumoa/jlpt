@@ -1,0 +1,293 @@
+@page "/exam"
+@page "/exam/{Class}"
+@using JLPTWordbook.Services
+@using JLPTWordbook.Shared
+@inject Worksheet Sheet
+@inject JwtAuthenticationStateProvider Auth
+@inject WordbookDatabaseService Wdb
+@inject ExamDatabaseService Edb
+@inject NavigationManager Nav
+
+@if (!Auth.IsAuthorized)
+{
+    <div class="exam-login-required">
+        <span class="material-symbols-outlined">lock</span>
+        <p>@Strings.EXAM_LOGIN_REQUIRED</p>
+    </div>
+}
+else if (m_State == ExamState.Running)
+{
+    <div class="exam-container">
+        <div class="tab">
+            <ul class="tabnav">
+                @foreach (var name in Enum.GetNames<Worksheet.Class>())
+                {
+                    <li class="@(IsActiveTab(name) ? "active" : "")">
+                        <a href="exam/@name.ToLower()">@name</a>
+                    </li>
+                }
+            </ul>
+        </div>
+
+        <div class="exam-content">
+            <div class="exam-progress-bar">
+                <div class="exam-progress-text">
+                    <span>@Strings.EXAM_TITLE — @m_Class.ToString()</span>
+                    <span>@string.Format(Strings.EXAM_PROGRESS, m_CurrentIndex + 1, m_Words.Count)</span>
+                </div>
+                <div class="progress-bar-track">
+                    <div class="progress-bar-fill" style="width: @(ProgressPercent)%"></div>
+                </div>
+            </div>
+
+            <div class="exam-word-display">
+                <span class="exam-word-japanese">
+                    @string.Concat(m_Words[m_CurrentIndex].Components.Select(c => c.Text))
+                </span>
+            </div>
+
+            <div class="exam-input-area">
+                <input class="exam-answer-input"
+                       type="text"
+                       placeholder="@Strings.EXAM_INPUT_PLACEHOLDER"
+                       @bind="m_CurrentAnswer"
+                       @bind:event="oninput"
+                       @onkeydown="HandleKeyDown"
+                       @ref="m_InputRef"
+                       autocomplete="off" />
+            </div>
+
+            <div class="exam-actions">
+                @if (m_CurrentIndex < m_Words.Count - 1)
+                {
+                    <button class="btn-exam-next" @onclick="NextWord" disabled="@m_IsLoading">
+                        <span class="material-symbols-outlined">arrow_forward</span>
+                        <span>@Strings.EXAM_NEXT</span>
+                    </button>
+                }
+                else
+                {
+                    <button class="btn-exam-finish" @onclick="FinishExam" disabled="@m_IsLoading">
+                        <span class="material-symbols-outlined">check</span>
+                        <span>@Strings.EXAM_FINISH</span>
+                    </button>
+                }
+            </div>
+        </div>
+    </div>
+}
+else if (m_State == ExamState.Results)
+{
+    <div class="exam-results">
+        <h2 class="results-title">@Strings.EXAM_RESULT_TITLE</h2>
+        <p class="results-class">@m_Class.ToString()</p>
+
+        <div class="results-stats">
+            <div class="stat-card stat-correct">
+                <span class="material-symbols-outlined">check_circle</span>
+                <div>
+                    <div class="stat-value">@m_CorrectCount</div>
+                    <div class="stat-label">@Strings.EXAM_RESULT_CORRECT</div>
+                </div>
+            </div>
+            <div class="stat-card stat-incorrect">
+                <span class="material-symbols-outlined">cancel</span>
+                <div>
+                    <div class="stat-value">@(m_Words.Count - m_CorrectCount)</div>
+                    <div class="stat-label">@Strings.EXAM_RESULT_INCORRECT</div>
+                </div>
+            </div>
+            <div class="stat-card stat-accuracy">
+                <span class="material-symbols-outlined">percent</span>
+                <div>
+                    <div class="stat-value">@AccuracyPercent%</div>
+                    <div class="stat-label">@Strings.EXAM_RESULT_ACCURACY</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="results-actions">
+            <button class="btn-apply-to-wordbook" @onclick="ApplyToWordbook" disabled="@(m_IsLoading || m_Applied)">
+                <span class="material-symbols-outlined">sync</span>
+                <span>@(m_Applied ? Strings.EXAM_RESULT_APPLIED : Strings.EXAM_RESULT_APPLY_TO_WORDBOOK)</span>
+            </button>
+        </div>
+
+        @if (m_IncorrectItems.Count > 0)
+        {
+            <div class="results-wrong-words">
+                <h3>@Strings.EXAM_RESULT_WRONG_WORDS (@m_IncorrectItems.Count)</h3>
+                <div class="wrong-words-list">
+                    @foreach (var item in m_IncorrectItems)
+                    {
+                        <div class="wrong-word-item">
+                            <span class="wrong-word-japanese">@string.Concat(m_Words[item.WordIndex].Components.Select(c => c.Text))</span>
+                            <div class="wrong-word-answers">
+                                <div class="answer-row answer-yours">
+                                    <span class="answer-label">@Strings.EXAM_YOUR_ANSWER:</span>
+                                    <span class="answer-value">@(string.IsNullOrEmpty(item.UserAnswer) ? "—" : item.UserAnswer)</span>
+                                </div>
+                                <div class="answer-row answer-correct">
+                                    <span class="answer-label">@Strings.EXAM_CORRECT_ANSWER:</span>
+                                    <span class="answer-value">@m_Words[item.WordIndex].Ko</span>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                </div>
+            </div>
+        }
+    </div>
+}
+
+@code {
+    private enum ExamState { Running, Results }
+
+    [Parameter]
+    public string? Class { get; set; }
+
+    private record ExamAnswer(int WordIndex, string? UserAnswer, bool IsCorrect);
+
+    private Worksheet.Class m_Class;
+    private List<Word> m_Words = [];
+    private int m_CurrentIndex = 0;
+    private string m_CurrentAnswer = string.Empty;
+    private List<ExamAnswer> m_Answers = [];
+    private ExamState m_State = ExamState.Running;
+    private bool m_IsLoading = false;
+    private bool m_Applied = false;
+    private int m_CorrectCount = 0;
+    private List<ExamAnswer> m_IncorrectItems = [];
+    private ElementReference m_InputRef;
+
+    private int ProgressPercent => m_Words.Count > 0 ? (int)((double)(m_CurrentIndex + 1) / m_Words.Count * 100) : 0;
+    private int AccuracyPercent => m_Words.Count > 0 ? (int)((double)m_CorrectCount / m_Words.Count * 100) : 0;
+
+    private string ClassName => m_Class.ToString().ToLower();
+
+    protected override async Task OnParametersSetAsync()
+    {
+        if (string.IsNullOrEmpty(Class) || !Enum.TryParse<Worksheet.Class>(Class, true, out var klass))
+        {
+            klass = Worksheet.Class.N5;
+        }
+
+        m_Class = klass;
+        var wordbook = Sheet[klass];
+        m_Words = wordbook.Words.ToList();
+        m_CurrentIndex = 0;
+        m_CurrentAnswer = string.Empty;
+        m_Answers = [];
+        m_State = ExamState.Running;
+        m_Applied = false;
+        m_CorrectCount = 0;
+        m_IncorrectItems = [];
+
+        await Task.CompletedTask;
+    }
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (m_State == ExamState.Running)
+        {
+            try
+            {
+                await m_InputRef.FocusAsync();
+            }
+            catch { }
+        }
+    }
+
+    private bool IsActiveTab(string tabName)
+    {
+        return string.Equals(tabName, m_Class.ToString(), StringComparison.OrdinalIgnoreCase);
+    }
+
+    private async Task HandleKeyDown(KeyboardEventArgs e)
+    {
+        if (e.Key == "Enter")
+        {
+            if (m_CurrentIndex < m_Words.Count - 1)
+            {
+                await NextWord();
+            }
+            else
+            {
+                await FinishExam();
+            }
+        }
+    }
+
+    private async Task NextWord()
+    {
+        RecordCurrentAnswer();
+        m_CurrentIndex++;
+        m_CurrentAnswer = string.Empty;
+        await Task.CompletedTask;
+    }
+
+    private async Task FinishExam()
+    {
+        RecordCurrentAnswer();
+        m_State = ExamState.Results;
+
+        m_CorrectCount = m_Answers.Count(a => a.IsCorrect);
+        m_IncorrectItems = m_Answers.Where(a => !a.IsCorrect).ToList();
+
+        var sub = Auth.Sub;
+        if (!string.IsNullOrEmpty(sub))
+        {
+            m_IsLoading = true;
+            try
+            {
+                await Edb.SaveExamSessionAsync(
+                    sub,
+                    ClassName,
+                    m_Words.Count,
+                    m_CorrectCount,
+                    m_Answers.Select(a => (a.WordIndex, a.UserAnswer, a.IsCorrect)));
+            }
+            finally
+            {
+                m_IsLoading = false;
+            }
+        }
+    }
+
+    private void RecordCurrentAnswer()
+    {
+        var answer = m_CurrentAnswer.Trim();
+        var correct = m_Words[m_CurrentIndex].Ko;
+        var isCorrect = string.Equals(answer, correct, StringComparison.OrdinalIgnoreCase);
+        m_Answers.Add(new ExamAnswer(m_CurrentIndex, answer, isCorrect));
+    }
+
+    private async Task ApplyToWordbook()
+    {
+        if (m_IsLoading || m_Applied) return;
+
+        var sub = Auth.Sub;
+        if (string.IsNullOrEmpty(sub)) return;
+
+        m_IsLoading = true;
+        try
+        {
+            foreach (var answer in m_Answers)
+            {
+                if (answer.IsCorrect)
+                {
+                    await Wdb.MarkWordAsMemorizedAsync(sub, ClassName, answer.WordIndex);
+                }
+                else
+                {
+                    await Wdb.UnmarkWordAsMemorizedAsync(sub, ClassName, answer.WordIndex);
+                }
+            }
+            m_Applied = true;
+        }
+        finally
+        {
+            m_IsLoading = false;
+        }
+    }
+}

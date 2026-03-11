@@ -158,5 +158,173 @@ namespace JLPTWordbook.Localizational {
                 return ResourceManager.GetString("WORDBOOK_RESET_CONFIRM", resourceCulture);
             }
         }
+
+        internal static string NAVMENU_EXAM {
+            get {
+                return ResourceManager.GetString("NAVMENU_EXAM", resourceCulture);
+            }
+        }
+
+        internal static string NAVMENU_EXAM_HISTORY {
+            get {
+                return ResourceManager.GetString("NAVMENU_EXAM_HISTORY", resourceCulture);
+            }
+        }
+
+        internal static string WORDBOOK_VIEW_STUDY {
+            get {
+                return ResourceManager.GetString("WORDBOOK_VIEW_STUDY", resourceCulture);
+            }
+        }
+
+        internal static string WORDBOOK_VIEW_LIST {
+            get {
+                return ResourceManager.GetString("WORDBOOK_VIEW_LIST", resourceCulture);
+            }
+        }
+
+        internal static string WORDBOOK_SEARCH_PLACEHOLDER {
+            get {
+                return ResourceManager.GetString("WORDBOOK_SEARCH_PLACEHOLDER", resourceCulture);
+            }
+        }
+
+        internal static string WORDBOOK_LIST_TOTAL {
+            get {
+                return ResourceManager.GetString("WORDBOOK_LIST_TOTAL", resourceCulture);
+            }
+        }
+
+        internal static string EXAM_TITLE {
+            get {
+                return ResourceManager.GetString("EXAM_TITLE", resourceCulture);
+            }
+        }
+
+        internal static string EXAM_PROGRESS {
+            get {
+                return ResourceManager.GetString("EXAM_PROGRESS", resourceCulture);
+            }
+        }
+
+        internal static string EXAM_INPUT_PLACEHOLDER {
+            get {
+                return ResourceManager.GetString("EXAM_INPUT_PLACEHOLDER", resourceCulture);
+            }
+        }
+
+        internal static string EXAM_NEXT {
+            get {
+                return ResourceManager.GetString("EXAM_NEXT", resourceCulture);
+            }
+        }
+
+        internal static string EXAM_FINISH {
+            get {
+                return ResourceManager.GetString("EXAM_FINISH", resourceCulture);
+            }
+        }
+
+        internal static string EXAM_RESULT_TITLE {
+            get {
+                return ResourceManager.GetString("EXAM_RESULT_TITLE", resourceCulture);
+            }
+        }
+
+        internal static string EXAM_RESULT_CORRECT {
+            get {
+                return ResourceManager.GetString("EXAM_RESULT_CORRECT", resourceCulture);
+            }
+        }
+
+        internal static string EXAM_RESULT_INCORRECT {
+            get {
+                return ResourceManager.GetString("EXAM_RESULT_INCORRECT", resourceCulture);
+            }
+        }
+
+        internal static string EXAM_RESULT_ACCURACY {
+            get {
+                return ResourceManager.GetString("EXAM_RESULT_ACCURACY", resourceCulture);
+            }
+        }
+
+        internal static string EXAM_RESULT_WRONG_WORDS {
+            get {
+                return ResourceManager.GetString("EXAM_RESULT_WRONG_WORDS", resourceCulture);
+            }
+        }
+
+        internal static string EXAM_RESULT_APPLY_TO_WORDBOOK {
+            get {
+                return ResourceManager.GetString("EXAM_RESULT_APPLY_TO_WORDBOOK", resourceCulture);
+            }
+        }
+
+        internal static string EXAM_RESULT_APPLIED {
+            get {
+                return ResourceManager.GetString("EXAM_RESULT_APPLIED", resourceCulture);
+            }
+        }
+
+        internal static string EXAM_LOGIN_REQUIRED {
+            get {
+                return ResourceManager.GetString("EXAM_LOGIN_REQUIRED", resourceCulture);
+            }
+        }
+
+        internal static string EXAM_HISTORY_TITLE {
+            get {
+                return ResourceManager.GetString("EXAM_HISTORY_TITLE", resourceCulture);
+            }
+        }
+
+        internal static string EXAM_HISTORY_EMPTY {
+            get {
+                return ResourceManager.GetString("EXAM_HISTORY_EMPTY", resourceCulture);
+            }
+        }
+
+        internal static string EXAM_HISTORY_DATE {
+            get {
+                return ResourceManager.GetString("EXAM_HISTORY_DATE", resourceCulture);
+            }
+        }
+
+        internal static string EXAM_HISTORY_CLASS {
+            get {
+                return ResourceManager.GetString("EXAM_HISTORY_CLASS", resourceCulture);
+            }
+        }
+
+        internal static string EXAM_HISTORY_SCORE {
+            get {
+                return ResourceManager.GetString("EXAM_HISTORY_SCORE", resourceCulture);
+            }
+        }
+
+        internal static string EXAM_HISTORY_DETAIL {
+            get {
+                return ResourceManager.GetString("EXAM_HISTORY_DETAIL", resourceCulture);
+            }
+        }
+
+        internal static string EXAM_HISTORY_BACK {
+            get {
+                return ResourceManager.GetString("EXAM_HISTORY_BACK", resourceCulture);
+            }
+        }
+
+        internal static string EXAM_YOUR_ANSWER {
+            get {
+                return ResourceManager.GetString("EXAM_YOUR_ANSWER", resourceCulture);
+            }
+        }
+
+        internal static string EXAM_CORRECT_ANSWER {
+            get {
+                return ResourceManager.GetString("EXAM_CORRECT_ANSWER", resourceCulture);
+            }
+        }
     }
 }

@@ -268,3 +268,142 @@
     .btn-reset .material-symbols-outlined {
         font-size: 18px;
     }
+
+/* View mode toggle */
+.view-mode-toggle {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 16px;
+    padding-bottom: 12px;
+    border-bottom: 1px solid #eaeef2;
+}
+
+.btn-mode {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 6px 14px;
+    background-color: #f6f8fa;
+    color: #57606a;
+    border: 1px solid rgba(27, 31, 36, 0.15);
+    border-radius: 6px;
+    font-size: 13px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: background-color 0.15s ease, color 0.15s ease;
+    line-height: 1.5;
+}
+
+    .btn-mode:hover {
+        background-color: #f3f4f6;
+        color: #24292f;
+    }
+
+    .btn-mode.active {
+        background-color: #0969da;
+        color: #ffffff;
+        border-color: #0969da;
+    }
+
+    .btn-mode .material-symbols-outlined {
+        font-size: 16px;
+    }
+
+/* Word list */
+.wordlist-header {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 12px;
+    flex-wrap: wrap;
+}
+
+.search-input {
+    flex: 1;
+    min-width: 200px;
+    padding: 8px 12px;
+    border: 1px solid #d0d7de;
+    border-radius: 6px;
+    font-size: 14px;
+    outline: none;
+    transition: border-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+    .search-input:focus {
+        border-color: #0969da;
+        box-shadow: 0 0 0 3px rgba(9, 105, 218, 0.15);
+    }
+
+.list-stats {
+    font-size: 12px;
+    color: #57606a;
+    white-space: nowrap;
+}
+
+.wordlist-container {
+    height: 60vh;
+    overflow-y: auto;
+    border: 1px solid #d0d7de;
+    border-radius: 6px;
+}
+
+.wordlist-item {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px 14px;
+    border-bottom: 1px solid #eaeef2;
+    transition: background-color 0.1s ease;
+}
+
+    .wordlist-item:last-child {
+        border-bottom: none;
+    }
+
+    .wordlist-item:hover {
+        background-color: #f6f8fa;
+    }
+
+    .wordlist-item.memorized {
+        background-color: #f0fff4;
+    }
+
+        .wordlist-item.memorized:hover {
+            background-color: #e6ffed;
+        }
+
+.wordlist-japanese {
+    font-size: 1.2rem;
+    font-weight: 600;
+    min-width: 80px;
+    color: #1a1a2e;
+}
+
+.wordlist-reading {
+    font-size: 0.85rem;
+    color: #57606a;
+    min-width: 80px;
+}
+
+.wordlist-meaning {
+    flex: 1;
+    font-size: 0.9rem;
+    color: #24292f;
+}
+
+.wordlist-memorized-badge {
+    display: flex;
+    align-items: center;
+}
+
+    .wordlist-memorized-badge .material-symbols-outlined {
+        font-size: 20px;
+    }
+
+.badge-memorized .material-symbols-outlined {
+    color: #2da44e;
+}
+
+.badge-not-memorized .material-symbols-outlined {
+    color: #d0d7de;
+}

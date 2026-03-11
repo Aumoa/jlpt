@@ -150,4 +150,88 @@
   <data name="WORDBOOK_RESET_CONFIRM" xml:space="preserve">
     <value>{0} 등급의 전체 단어 상태를 초기화합니다. 계속하시겠습니까?</value>
   </data>
+  <data name="NAVMENU_EXAM" xml:space="preserve">
+    <value>시험</value>
+  </data>
+  <data name="NAVMENU_EXAM_HISTORY" xml:space="preserve">
+    <value>시험 기록</value>
+  </data>
+  <data name="WORDBOOK_VIEW_STUDY" xml:space="preserve">
+    <value>학습</value>
+  </data>
+  <data name="WORDBOOK_VIEW_LIST" xml:space="preserve">
+    <value>단어 목록</value>
+  </data>
+  <data name="WORDBOOK_SEARCH_PLACEHOLDER" xml:space="preserve">
+    <value>일본어 또는 한국어로 검색...</value>
+  </data>
+  <data name="WORDBOOK_LIST_TOTAL" xml:space="preserve">
+    <value>전체 {0}개, {1}개 학습함</value>
+  </data>
+  <data name="EXAM_TITLE" xml:space="preserve">
+    <value>단어 시험</value>
+  </data>
+  <data name="EXAM_PROGRESS" xml:space="preserve">
+    <value>{0} / {1}</value>
+  </data>
+  <data name="EXAM_INPUT_PLACEHOLDER" xml:space="preserve">
+    <value>한국어 뜻을 입력하세요...</value>
+  </data>
+  <data name="EXAM_NEXT" xml:space="preserve">
+    <value>다음</value>
+  </data>
+  <data name="EXAM_FINISH" xml:space="preserve">
+    <value>완료</value>
+  </data>
+  <data name="EXAM_RESULT_TITLE" xml:space="preserve">
+    <value>시험 결과</value>
+  </data>
+  <data name="EXAM_RESULT_CORRECT" xml:space="preserve">
+    <value>맞춘 개수</value>
+  </data>
+  <data name="EXAM_RESULT_INCORRECT" xml:space="preserve">
+    <value>틀린 개수</value>
+  </data>
+  <data name="EXAM_RESULT_ACCURACY" xml:space="preserve">
+    <value>정답률</value>
+  </data>
+  <data name="EXAM_RESULT_WRONG_WORDS" xml:space="preserve">
+    <value>틀린 단어</value>
+  </data>
+  <data name="EXAM_RESULT_APPLY_TO_WORDBOOK" xml:space="preserve">
+    <value>단어장에 반영하기</value>
+  </data>
+  <data name="EXAM_RESULT_APPLIED" xml:space="preserve">
+    <value>단어장에 반영되었습니다!</value>
+  </data>
+  <data name="EXAM_LOGIN_REQUIRED" xml:space="preserve">
+    <value>시험을 보려면 로그인이 필요합니다</value>
+  </data>
+  <data name="EXAM_HISTORY_TITLE" xml:space="preserve">
+    <value>시험 기록</value>
+  </data>
+  <data name="EXAM_HISTORY_EMPTY" xml:space="preserve">
+    <value>아직 시험 기록이 없습니다</value>
+  </data>
+  <data name="EXAM_HISTORY_DATE" xml:space="preserve">
+    <value>날짜</value>
+  </data>
+  <data name="EXAM_HISTORY_CLASS" xml:space="preserve">
+    <value>등급</value>
+  </data>
+  <data name="EXAM_HISTORY_SCORE" xml:space="preserve">
+    <value>점수</value>
+  </data>
+  <data name="EXAM_HISTORY_DETAIL" xml:space="preserve">
+    <value>상세 보기</value>
+  </data>
+  <data name="EXAM_HISTORY_BACK" xml:space="preserve">
+    <value>기록으로 돌아가기</value>
+  </data>
+  <data name="EXAM_YOUR_ANSWER" xml:space="preserve">
+    <value>내 답변</value>
+  </data>
+  <data name="EXAM_CORRECT_ANSWER" xml:space="preserve">
+    <value>정답</value>
+  </data>
 </root>
