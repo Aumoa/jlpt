@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="JLPTWordbook/JLPTWordbook.csproj" />
+  <Project Path="VocabTableConverter/VocabTableConverter.csproj" Id="f6330df2-2c4c-4d3c-9f92-6803ee1947e3" />
 </Solution>

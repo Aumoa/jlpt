@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "VocabTableConverter": {
+      "commandName": "Project",
+      "workingDirectory": "$(ProjectDir)"
+    }
+  }
+}
