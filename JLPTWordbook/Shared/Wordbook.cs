@@ -1,4 +1,4 @@
-﻿using System.Resources;
+﻿using System.Globalization;
 using System.Text.Json;
 using System.Text.Json.Nodes;
 
@@ -8,19 +8,23 @@ public class Wordbook(Word[] words)
 {
     public readonly IReadOnlyList<Word> Words = Array.AsReadOnly(words);
 
-    public static Wordbook Parse(JsonArray jArray, ResourceManager localizationResource)
+    public static Wordbook Parse(JsonArray jArray)
     {
         List<WordComponent> wordComponentList = [];
         List<Word> wordList = [];
-        int wordIndex = 0;
         foreach (var item in jArray)
         {
-            if (item is not JsonArray word)
+            if (item is not JsonObject wordObj)
             {
                 throw new FormatException();
             }
 
-            foreach (var element in word)
+            if (wordObj["elements"] is not JsonArray elementsArray)
+            {
+                throw new FormatException();
+            }
+
+            foreach (var element in elementsArray)
             {
                 if (element is not JsonObject component)
                 {
@@ -40,8 +44,10 @@ public class Wordbook(Word[] words)
                 wordComponentList.Add(new WordComponent(wordValue.GetValue<string>(), readingValue.GetValue<string>()));
             }
 
-            string resourceName = $"_{wordIndex++}";
-            wordList.Add(new Word([.. wordComponentList], () => localizationResource.GetString(resourceName)));
+            string en = wordObj["en"]?.GetValue<string>() ?? string.Empty;
+            string ko = wordObj["ko"]?.GetValue<string>() ?? string.Empty;
+            wordList.Add(new Word([.. wordComponentList], () =>
+                CultureInfo.CurrentUICulture.TwoLetterISOLanguageName == "ko" ? ko : en));
             wordComponentList.Clear();
         }
 
